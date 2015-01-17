@@ -1,0 +1,154 @@
+END USER LICENCE AGREEMENT FOR ACCESS TO DATA
+
+This End User Licence Agreement (EULA) is entered into between Auckland
+Transport (AT) and you (as an individual or other legal entity) (Licensee)
+for any data or information you obtain from www.at.govt.nz (AT Website),
+whether directly or indirectly (Data). The Data is licensed by AT to you for
+use only in accordance with the terms and conditions set out below (Terms
+and Conditions). You must read the Terms and Conditions carefully before
+indicating your acceptance of them by ticking the "I agree to the terms and
+conditions" box below. If you do not tick this box, you will not be
+permitted to use or download the Data. You will be required to accept the
+Terms and Conditions (by ticking the "I agree to the terms and conditions"
+box) each time you wish to use or download the Data.
+
+1. Grant of licence
+
+1.1 AT grants the Licensee a non-exclusive, non transferable licence to
+download and use the Data upon the Terms and Conditions. For the avoidance
+of doubt, provided that the Licensee otherwise complies with the Terms and
+Conditions, the Licensee may incorporate the Data into a product created by
+the Licensee (Licensee Product) and any third party using that Licensee
+Product may use the Data as part of that third party's use of the Licensee
+Product.
+
+1.2 The Licensee agrees that:
+
+(a) it will only download and use the Data for lawful purposes and not for
+any purpose(s) that AT may from time to time exclude (and which AT will
+advise through placing notice on the AT Website not less than [5 days] prior
+to the exclusion applying );
+
+(b) AT owns all copyright and other intellectual property rights of whatever
+nature capable of being owned or held in the Data and whether those rights
+are in existence now or arise at any time in the future.
+
+1.3 The Licensee must not provide a facility as part of any systems it
+offers to third party users (End Users) that:
+
+(a) will result in the End Users, while using the Licensee's system,
+downloading Data from the AT Website directly; or
+
+(b) will result in the system it offers making enquiries of the AT Website
+to enable the system to respond to enquiries from the End Users.
+
+2. Licence fee
+
+2.1 AT does not currently charge a fee to download and/or use the Data, but
+it reserves the right to charge a fee at any time in the future upon prior
+written notice which AT will advise through placing notice on the AT Website
+not less than [5 days] prior to the charges applying. For the avoidance of
+doubt, any future charging will not be retrospective.
+
+3. Warranties and limitation of liability
+
+3.1 The Licensee agrees that:
+
+(a) AT is not responsible for interference with or prevention of the
+Licensee's access to and/or use of the Data;
+
+(b) AT does not make any representation or warranty (express or implied) as
+to the accuracy or completeness of the Data;
+
+(c) AT does not warrant that the quality of the Data will meet the
+Licensee's requirements and/or expectations; and
+
+(d) the use of the Data is entirely at the Licensee's own discretion and
+risk. In the event that the Licensee distributes the Data to any third
+party, the Licensee must ensure that such third party is aware of the
+limitations of liability and exclusion of warranties set out in the Terms
+and Conditions (including, but not limited to, the requirement that any use
+of that Data is undertaken entirely at the risk of the party accessing or
+using it) and agrees to be bound by the Terms and Conditions.
+
+3.2 AT, to the fullest extent permitted by law, specifically disclaims any
+and all warranties, representations or conditions, express, implied,
+statutory or otherwise including (without limitation) any implied warranty
+or condition of merchantability, non-infringement or fitness for a
+particular purpose, or that use of the Data (including in any manner
+specifically required under this the Terms and Conditions) will comply with
+the applicable laws and relevant regulatory requirements in any place of
+use.
+
+3.3 In no circumstances will AT, or its employees, officers and affiliates,
+be liable for any direct, indirect, incidental, consequential or special
+loss or damages (including, but not limited to, damages for loss of business
+profits, savings, revenue, business interruption, loss of business
+information, data, goodwill or other pecuniary loss) under any cause of
+action or theory of liability arising out of the Terms and Conditions or the
+use, or inability to use, the Data, irrespective of whether AT has been
+advised of the possibility of such loss or damage.
+
+3.4 Where the Licensee is downloading and/or using the Data for business
+purposes, the provisions of the Consumer Guarantees Act 1993 are excluded
+and will not apply.
+
+4. Indemnities
+
+4.1 The Licensee agrees to indemnify AT, and its employees, officers and
+affiliates, against any loss, damage, liability, expense, cost or charge
+(including court costs and reasonable legal fees) arising from or incurred
+in connection with the Licensee's access to or use of the Data in breach of
+the Terms and Conditions or any claim by a third party who accesses or uses
+the Data through use of any product or service provided by the Licensee.
+
+5. Termination
+
+5.1 AT may, without any liability to the Licensee, terminate this EULA:
+
+(a) if the Licensee breaches any provision of the Terms and Conditions by
+giving the Licensee written notice;
+
+(b) at any time on 30 days' written notice, with or without cause.
+
+5.2 Where AT terminates this EULA:
+
+(a) the Licensee must immediately cease using the Data and destroy all
+copies of the Data in whatever form in the possession or control of the
+Licensee;
+
+(b) any purchaser or end user of a Licensee Product (User), provided such
+purchase or commencement of such use of the Licensee Product occurred prior
+to termination, shall continue to have the right to use, as part of that
+User's use of the Licensee Product, any Data that existed on or prior to
+termination and has been incorporated into the Licensee Product prior to
+termination. For the avoidance of doubt, the User shall not be entitled to
+use any Data that has been incorporated into the Licensee Product following
+termination.
+
+5.3 The Licensee may terminate this EULA at any time immediately by giving
+AT written notice.
+
+6. Changes to the Terms and Conditions
+
+6.1 The Terms and Conditions may be amended by AT from time to time without
+prior notice. AT will notify the Licensee of any such amendments by updating
+the "Last Updated" notice beside the "I agree to the terms and conditions"
+box.
+
+6.2 If there is any conflict between the Terms and Conditions and the terms
+and conditions of any other agreement between AT and the Licensee, the Terms
+and Conditions will prevail.
+7. Miscellaneous
+
+7.1 The Terms and Conditions constitute the entire understanding and
+agreement of AT and the Licensee relating to the Data.
+
+7.2 If any part of the Terms and Conditions is illegal, void or
+unenforceable, then it will be excluded so that the remaining provisions of
+this EULA will continue in full force and effect. Clauses 1.2(b), 3 and 4 of
+the Terms and Conditions will survive termination for any reason.
+
+7.3 The Terms and Conditions is governed by and is to be construed according
+to the laws applicable in New Zealand. The provisions of the Terms and
+Conditions may not satisfy the laws of any other country.

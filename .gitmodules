@@ -1,0 +1,3 @@
+[submodule "shittypack"]
+	path = shittypack
+	url = https://github.com/micolous/shittypack.git
