@@ -214,7 +214,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 0225,2629,57 Clevedon Rd,-37.05869,174.95332
 0226,2554,Opposite 7 Railway St,-37.064569,174.94569
 0227,2550,134 Elliott St,-37.070843,174.93155
-0228,2630,12 Chichester Drv,-37.07478,174.93218
 0229,2636,8 Edinburgh Ave,-37.076428,174.93678
 0230,2634,6 Jupiter St,-37.07866,174.93647
 0231,2632,40 Jupiter St,-37.079016,174.93321
@@ -3048,6 +3047,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 3380,1302,Opp 27 Valley Rd,-36.879953,174.75883
 3381,1404,Opposite 111 Valley Rd,-36.87622,174.75177
 3382,8978,77 Valley Rd,-36.876925,174.75555
+3383,1425,53 Valley Rd,-36.877981,174.7571
 3384,8976,21 Valley Rd,-36.880051,174.75946
 3385,8498,28 West End Rd,-36.849573,174.72882
 3386,8496,Opposite 73 West End Rd,-36.851772,174.72268
@@ -4617,9 +4617,9 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5096,7175,289 Khyber Pass Rd,-36.866264,174.77132
 5097,7173,267 Khyber Pass Rd(Stop Closed Temporary),-36.865829,174.76926
 5098,7171,73 Khyber Pass Rd,-36.864626,174.76351
-5099,7063,419 Queen St,-36.857121,174.76169
+5099,7063,421 Queen St,-36.857121,174.76169
 5100,7061,385 Queen St,-36.856032,174.76216
-5101,7059,Town Hall Queen St,-36.853426,174.76334
+5101,7059,305 Queen St,-36.853426,174.76334
 5102,7057,The Civic Queen St.,-36.851357,174.76416
 5103,7055,The Civic Queen St,-36.851112,174.76428
 5104,7086,22 Wellesley St,-36.850785,174.76391
@@ -4899,6 +4899,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5610,3537,3 Walter St,-36.80265,174.77345
 5611,3541,53 Jutland Rd,-36.801952,174.77532
 5613,6416,32 Gray Avenue,-36.962715,174.83354
+5628,1450,50 Valley Hail & Ride,-36.878701,174.75716
 5638,3333,Opposite 106 Matipo Rd,-36.746776,174.74564
 5640,2328,Howick & Eastern Depot,-36.928115,174.90312
 5641,3184,Oteha Valley Rd Near Fields Parade,-36.71317,174.72097
@@ -4929,7 +4930,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5714,3588,Opposite N Ridge Plaza Don Mckinnon Dr,-36.729481,174.71108
 5715,3187,Hugh Green & Carrowmore,-36.727604,174.71792
 5717,7028,Commerce Street By Customs Street,-36.845448,174.76781
-5727,1094,Wellesley St Near Lorne St,-36.851003,174.7649
+5727,1094,10 Wellesley St,-36.851003,174.7649
 5755,7416,498 Remuera Road,-36.881332,174.80387
 5756,7418,524 Remuera Rd,-36.881647,174.80605
 5757,7420,536 Remuera Road,-36.882101,174.80747
@@ -5315,7 +5316,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6260,4519,Whangaparaoa Primary School,-36.636648,174.75538
 6261,5345,79 Henderson Valley Rd,-36.888963,174.62656
 6263,6536,2 Dennis Ave,-37.016665,174.90092
-6286,0901,Massey University (arrive),-36.733129,174.70162
+6286,0902,Massey University (arrive),-36.733129,174.70162
 6288,0227,Opposite N Ridge Plaza Don Mckinnon Dr (arrive),-36.730071,174.71083
 6289,4715,Gulf Harbour Dr Near Kensington Tce,-36.610811,174.78343
 6290,4713,Gulf Harbour Dr Near Regency Park Dr,-36.611294,174.78954
@@ -5384,7 +5385,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6399,6759,247a Shirley Road,-36.969868,174.85428
 6405,5438,22 Chadlington Ave,-36.88262,174.60867
 6408,3910,63 Birkenhead Ave.,-36.81108,174.72594
-6409,9818,235 Taniwha St (arrive),-36.877586,174.85506
 6412,9821,250 Taniwha St (arrive),-36.878053,174.85461
 6415,6220,544 Chapel Road,-36.938898,174.91367
 6416,6295,523 Chapel Road,-36.939358,174.91366
@@ -5559,9 +5559,11 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6722,6013,Opposite 270 Great South Rd Papatoetoe,-36.971737,174.86249
 6724,8328,14 Blockhouse Bay Rd,-36.88698,174.70052
 6726,7297,9 Clonbern Rd,-36.881677,174.79729
+6727,8690,82 Commodore Dr,-36.928096,174.72029
 6728,8602,40 Gillies Ave,-36.871918,174.77442
 6729,7419,487 Remuera Rd,-36.881731,174.80589
 6730,1024,104 Richmond Rd,-36.856833,174.74019
+6731,7373,202 Riddell Rd,-36.861811,174.88007
 6732,7590,Opposite 255 St Johns Rd,-36.871731,174.84439
 6733,7753,187 Upland Rd,-36.867226,174.80767
 6734,1118,Cnr O''Brien Rd And Te Whau Dr,-36.810623,175.05727
@@ -5856,7 +5858,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7109,2170,26 Rowandale Ave,-37.027693,174.87643
 7110,2157,5 Rowandale Ave,-37.030056,174.87787
 7111,2451,23 Sharland Ave,-37.027794,174.8732
-7112,0704,Customs St West (Arrive),-36.844661,174.76631
 7114,1045,45 Bluegrey Ave,-36.887018,174.84013
 7115,1046,Opposite 45 Bluegrey Ave,-36.887116,174.84016
 7119,2172,Opposite 293 Buckland Rd,-36.965366,174.81003
@@ -5884,7 +5885,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7160,2569,Opposite 86 Elliot St,-37.067747,174.9308
 7161,2165,19 Lexington Dr,-36.905399,174.91598
 7163,5932,Buckley Ave By Hastings Cres,-36.790233,174.66067
-7170,0900,Wellesley St Near Lorne St (Arrive),-36.850994,174.76489
+7170,0900,10 Wellesley St (Arrive),-36.850994,174.76489
 7172,2136,140 Chapel Rd,-36.967611,174.90571
 7173,4245,Coliseum Dr Near The Warehouse,-36.729416,174.70389
 7174,2174,8 Browns Rd,-37.009815,174.88907
@@ -5929,10 +5930,12 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7224,1503,15 Tiverton Rd,-36.905969,174.70282
 7225,2218,100 Preston Rd,-36.974456,174.88494
 7226,2215,107 Preston Rd,-36.974426,174.8851
+7227,1505,9 Taniwha St,-36.869692,174.87421
 7229,1500,84 Duke St,-36.90017,174.75437
 7235,7887,158 Coates Ave,-36.86061,174.82049
 7236,5940,362 Forest Hill Rd,-36.930174,174.58139
 7237,2219,Opp 24 Claude Ave,-36.9801,174.83469
+7238,1702,76 May Rd,-36.90891,174.7352
 7239,2200,International Airport Arrivals (Airbus),-37.004401,174.78254
 7240,2020,International Airport Departures,-37.004986,174.7848
 7242,2206,Auckland Domestic Airport,-37.006341,174.79112
@@ -5986,6 +5989,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7302,1763,65 Trafalgar St,-36.91683,174.77498
 7303,1542,22 Belgium St,-36.795792,175.04651
 7304,3690,60 Nile Rd,-36.776297,174.7548
+7305,4311,Nile Rd By Quebec Rd,-36.776007,174.75492
 7306,1618,30 Beachcroft Ave,-36.921698,174.76997
 7307,1727,Opp 30 Beachcroft Ave,-36.921797,174.77001
 7308,4448,4 Fred Thomas Dr,-36.79285,174.7633
@@ -6055,4 +6059,11 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7395,1665,Hobsonville Point Rd By Onekiritea Rd,-36.792523,174.66179
 7397,1626,Township Rd Waitakere,-36.849115,174.54419
 7398,6251,111 Whitford Rd,-36.914115,174.92762
+7414,1700,70 Melrose Rd,-36.915824,174.75339
+7422,2418,124 Favona Rd,-36.948132,174.81171
 7424,3672,20 Porritt Ave,-36.814438,174.71553
+7428,4533,Awaroa Rd And Cableigh Cnr,-36.674111,174.45763
+7442,8297,Opp 58 Tiverton Rd,-36.90574,174.70704
+7446,1317,Stonefields Ave By Stonemason Ave,-36.887171,174.84383
+7447,1753,137 Market Rd Opp St Cuthberts,-36.887322,174.77765
+7448,2630,83 Rosehill Drive,-37.075157,174.93323

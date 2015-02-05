@@ -1,36 +1,36 @@
 route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
-0051ML6155,AT,005,Pt Chevalier To Britomart Via Herne Bay And College Hill,3,00F0FF,000000
+0051ML6622,AT,005,Pt Chevalier To Britomart Via Herne Bay And College Hill,3,00F0FF,000000
 0052ML6156,AT,005,Britomart To Pt Chevalier Via College Hill & Herne Bay,3,00F0FF,000000
 0070ML5775,AT,007,Pt Chevalier To St Heliers,3,00F0FF,000000
 0071ML5776,AT,007,Glen Innes To Pt Chevalier,3,00F0FF,000000
 0072ML5777,AT,007,Pt Chevalier To Glen Innes,3,00F0FF,000000
-0073ML5757,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0073ML6554,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
 0074ML5758,AT,007,Pt Chevalier To St Heliers Via Selwyn Village,3,00F0FF,000000
-0075ML5779,AT,007,St Heliers To Pt Chevalier,3,00F0FF,000000
-0076ML5560,AT,007,Pt Chevalier To St Heliers,3,00F0FF,000000
-0077ML4399,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
+0075ML6623,AT,007,St Heliers To Pt Chevalier,3,00F0FF,000000
+0076ML6624,AT,007,Pt Chevalier To St Heliers,3,00F0FF,000000
+0077ML6625,AT,007,St Heliers To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
 0078ML5780,AT,007,Pt Chevalier To St Heliers Via Selwyn Village,3,00F0FF,000000
 0079ML5839,AT,007,St Heliers To Pt Chevalier,3,00F0FF,000000
 0091UE5464,AT,009,Onehunga To New Lynn,3,DCC8FF,C80000
 0093UE5468,AT,009,Sylvia Park To New Lynn Via Blockhouse Bay Shops,3,DCC8FF,C80000
 0095UE5465,AT,009,Sylvia Park To New Lynn Via Blockhouse Bay Shops,3,DCC8FF,C80000
 0096UE5501,AT,009,New Lynn To Sylvia Park Via Blockhouse Bay Shops,3,DCC8FF,C80000
-0101ML4551,AT,010,Onehunga To Wynyard Quarter Via Unitec,3,00F0FF,000000
+0101ML6626,AT,010,Onehunga To Wynyard Quarter Via Unitec,3,00F0FF,000000
 0102ML4552,AT,010,Wynyard Quarter To Onehunga Via Unitec,3,00F0FF,000000
 0111ML4180,AT,011,Onehunga To St Lukes Via Landscape Rd,3,00F0FF,000000
-0112ML4726,AT,011,St Lukes To Onehunga Via Landscape Rd,3,00F0FF,000000
+0112ML6627,AT,011,St Lukes To Onehunga Via Landscape Rd,3,00F0FF,000000
 0157MBS5987,AT,S001K,Erglades To Manurewa High And Greenmeadows,3,FFFFFF,000000
 0170MBS5988,AT,S001K,Eenmeadows Intermediate & Manurewa High To Everglades,3,FFFFFF,000000
-0201ML4483,AT,020,Westmere To Britomart Via Richmond Rd,3,00F0FF,000000
+0201ML6555,AT,020,Westmere To Britomart Via Richmond Rd,3,00F0FF,000000
 0202ML5257,AT,020,Britomart To Westmere Via Richmond Rd,3,00F0FF,000000
-0203ML4484,AT,020X,Westmere To Britomart Express,3,00F0FF,000000
+0203ML6628,AT,020X,Westmere To Britomart Express,3,00F0FF,000000
 0204ML5260,AT,020X,Britomart To Westmere Express,3,00F0FF,000000
 0255MBS5989,AT,S002M,Endon To Manurewa High & Greenmeadows,3,FFFFFF,000000
 0262MBS5990,AT,S002M,Eenmeadows Intermediate And Manurewa High To Clendon,3,FFFFFF,000000
-0301ML4219,AT,030,Pt Chevalier To Britomart Via Williamson Ave,3,00F0FF,000000
+0301ML6556,AT,030,Pt Chevalier To Britomart Via Williamson Ave,3,00F0FF,000000
 0302ML6126,AT,030,Britomart To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
-0303ML4220,AT,030,Pt Chevalier To Britomart Via Muripara And Williamson Ave,3,00F0FF,000000
-0304ML4192,AT,030,Britomart To Pt Chevalier Via Williamson And Muripara Ave,3,00F0FF,000000
+0303ML6557,AT,030,Pt Chevalier To Britomart Via Muripara And Williamson Ave,3,00F0FF,000000
+0304ML6558,AT,030,Britomart To Pt Chevalier Via Williamson And Muripara Ave,3,00F0FF,000000
 0306ML6157,AT,030,Britomart To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
 0353MBS5991,AT,S003G,At Bush To Alfriston Sch And Takanini To Alfriston Col,3,FFFFFF,000000
 0362MBS5992,AT,S003G,Friston Sch To Flat Bush And Alfrsiton Col To Takanini,3,FFFFFF,000000
@@ -45,9 +45,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0492GW6145,AT,049,Britomart To Te Atatu Peninsula To Henderson,3,64FF00,000000
 0501WP5972,AT,50,Port Waikato To Pukekohe,3,B4FFFF,000000
 0502WP5973,AT,50,Pukekohe To Port Waikato,3,B4FFFF,000000
-0601RT3572,AT,060,Helensville To Downtown,3,FFDCDC,0000FF
+0601RT6629,AT,060,Helensville To Downtown,3,FFDCDC,0000FF
 0602RT6159,AT,060,Downtown To Helensville,3,FFDCDC,0000FF
-0603RT3574,AT,060,Helensville To Westgate,3,FFDCDC,0000FF
+0603RT6559,AT,060,Helensville To Westgate,3,FFDCDC,0000FF
 0604RT3575,AT,060,Westgate To Helensville,3,FFDCDC,0000FF
 0701RT4161,AT,070,Westgate To Downtown,3,FFDCDC,0000FF
 0702RT6160,AT,070,Downtown To Westgate,3,FFDCDC,0000FF
@@ -132,7 +132,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1306RT5489,AT,130,New Lynn To Hobsonville,3,FFDCDC,0000FF
 1307RT6177,AT,130,Takapuna To Westgate,3,FFDCDC,0000FF
 1308RT6178,AT,130,Westgate To Takapuna,3,FFDCDC,0000FF
-1309RT6179,AT,130,Smales Farm To Westgate,3,FFDCDC,0000FF
+1309RT6630,AT,130,Smales Farm To Westgate,3,FFDCDC,0000FF
 1311GW6097,AT,13X,Ranui To Downtown Express,3,64FF00,000000
 1312GW6204,AT,13X,Downtown To Ranui Express,3,64FF00,000000
 1351GW6057,AT,135,Swanson To Downtown Via Henderson,3,64FF00,000000
@@ -156,7 +156,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1541GW4897,AT,154,Henderson To Britomart  Via Glen Eden And New Lynn And Great North Road,3,64FF00,000000
 1542GW6189,AT,154,Britomart To Henderson Via Glen Eden,3,64FF00,000000
 1544GW4756,AT,154,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
-1559RTS6519,AT,015C,Glendene To Avondale College,3,FFFFFF,000000
+1559RTS6631,AT,015C,Glendene To Avondale College,3,FFFFFF,000000
 1560RTS6520,AT,S015C,Avondale College To Glendene,3,FFFFFF,000000
 1561GW6064,AT,156,Forest Hill To New Lynn Via Glen Eden,3,64FF00,000000
 1562GW6065,AT,156,New Lynn To Forest Hill Via Glen Eden,3,64FF00,000000
@@ -199,55 +199,55 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 2234GW5525,AT,223X,Midtown To New Lynn Express,3,64FF00,000000
 2241GW5825,AT,224,Henderson To Midtown,3,64FF00,000000
 2242GW5826,AT,224,Midtown To Henderson,3,64FF00,000000
-2331ML5869,AT,233,New Lynn To Midtown Via Sandringham Road And St Lukes,3,00F0FF,000000
-2332ML5900,AT,233,Midtown To New Lynn Via Sandringham Road And St Lukes,3,00F0FF,000000
-2334ML5909,AT,233,Midtown To New Lynn Via Sandringham Road And St Lukes,3,00F0FF,000000
+2331ML6560,AT,233,New Lynn To Midtown Via Sandringham Road And St Lukes,3,00F0FF,000000
+2332ML6561,AT,233,Midtown To New Lynn Via Sandringham Road And St Lukes,3,00F0FF,000000
+2334ML6632,AT,233,Midtown To New Lynn Via Sandringham Road And St Lukes,3,00F0FF,000000
 2355HES5361,AT,S023,Stonefields To Baradene College.,3,FFFFFF,000000
 2358HES6294,AT,S023,Baradene College To Stonefields,3,FFFFFF,000000
 2401ML5849,AT,240,Sandringham To Midtown Limited Stop Express,3,00F0FF,000000
 2403ML5190,AT,240X,Blockhouse Bay To Midtown Express,3,00F0FF,000000
-2431ML5870,AT,243,New Lynn To Midtown Via Sandringham Road,3,00F0FF,000000
-2432ML5910,AT,243,Midtown To New Lynn Via Sandringham Road,3,00F0FF,000000
-2433ML5871,AT,243X,New Lynn To Midtown Express,3,00F0FF,000000
-2434ML5911,AT,243,Midtown To New Lynn Via Sandringham Road,3,00F0FF,000000
-2436ML5912,AT,243X,Midtown To New Lynn Express,3,00F0FF,000000
-2490ML5852,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
-2491ML6081,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
+2431ML6633,AT,243,New Lynn To Midtown Via Sandringham Road,3,00F0FF,000000
+2432ML6634,AT,243,Midtown To New Lynn Via Sandringham Road,3,00F0FF,000000
+2433ML6635,AT,243X,New Lynn To Midtown Express,3,00F0FF,000000
+2434ML6636,AT,243,Midtown To New Lynn Via Sandringham Road,3,00F0FF,000000
+2436ML6637,AT,243X,Midtown To New Lynn Express,3,00F0FF,000000
+2490ML6638,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
+2491ML6562,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
 2492ML6082,AT,249,Midtown To New Lynn Via Sandringham Rd And Blockhouse Bay,3,00F0FF,000000
-2493ML5831,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
-2494ML5976,AT,249,Midtown To Blockhouse Bay Via Sandringham Road,3,00F0FF,000000
-2495ML5721,AT,249X,Blockhouse Bay To Midtown Express,3,00F0FF,000000
+2493ML6563,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
+2494ML6564,AT,249,Midtown To Blockhouse Bay Via Sandringham Road,3,00F0FF,000000
+2495ML6639,AT,249X,Blockhouse Bay To Midtown Express,3,00F0FF,000000
 2496ML5913,AT,249X,Midtown To Blockhouse Bay Express,3,00F0FF,000000
-2497ML5854,AT,249,Wesley To Midtown Via Sandringham Rd,3,00F0FF,000000
+2497ML6640,AT,249,Wesley To Midtown Via Sandringham Rd,3,00F0FF,000000
 2498ML5855,AT,249,Midtown To Wesley Via Sandringham Road,3,00F0FF,000000
-2499ML6083,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
-2580ML4679,AT,258X,Civic Centre To Blockhouse Bay Express,3,00F0FF,000000
+2499ML6641,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
+2580ML6642,AT,258X,Civic Centre To Blockhouse Bay Express,3,00F0FF,000000
 2581ML1724,AT,258,Blockhouse Bay To Civic Centre,3,00F0FF,000000
-2582ML4674,AT,258,Civic Centre To Blockhouse Bay,3,00F0FF,000000
-2583ML1731,AT,258,Blockhouse Bay To Civic Centre Via Flyover,3,00F0FF,000000
-2584ML4680,AT,258,Civic Centre To Blockhouse Bay Via Flyover,3,00F0FF,000000
+2582ML6565,AT,258,Civic Centre To Blockhouse Bay,3,00F0FF,000000
+2583ML6643,AT,258,Blockhouse Bay To Civic Centre Via Flyover,3,00F0FF,000000
+2584ML6644,AT,258,Civic Centre To Blockhouse Bay Via Flyover,3,00F0FF,000000
 2585ML4489,AT,258,May Road To Civic Centre,3,00F0FF,000000
-2586ML3896,AT,258,Civic Centre To May Road,3,00F0FF,000000
+2586ML6645,AT,258,Civic Centre To May Road,3,00F0FF,000000
 2587ML4507,AT,258,May Road To Civic Centre Via Flyover,3,00F0FF,000000
-2588ML4508,AT,258,Civic Centre To May Road Via Flyover,3,00F0FF,000000
-2589ML4490,AT,258X,Blockhouse Bay To Civic Centre Express,3,00F0FF,000000
-2670ML3890,AT,267X,Civic Centre To Lynfield Express,3,00F0FF,000000
+2588ML6646,AT,258,Civic Centre To May Road Via Flyover,3,00F0FF,000000
+2589ML6647,AT,258X,Blockhouse Bay To Civic Centre Express,3,00F0FF,000000
+2670ML6648,AT,267X,Civic Centre To Lynfield Express,3,00F0FF,000000
 2671ML0245,AT,267,Lynfield To Civic Centre,3,00F0FF,000000
-2672ML3114,AT,267,Civic Centre To Lynfield,3,00F0FF,000000
-2673ML0253,AT,267,Lynfield To Civic Centre Via Flyover,3,00F0FF,000000
-2674ML3130,AT,267,Civic Centre To Lynfield Via Flyover,3,00F0FF,000000
+2672ML6566,AT,267,Civic Centre To Lynfield,3,00F0FF,000000
+2673ML6649,AT,267,Lynfield To Civic Centre Via Flyover,3,00F0FF,000000
+2674ML6650,AT,267,Civic Centre To Lynfield Via Flyover,3,00F0FF,000000
 2675ML3891,AT,267,Mt Albert Road To Civic Centre Via Flyover,3,00F0FF,000000
 2677ML3892,AT,267,Valley Rd To Civic Centre,3,00F0FF,000000
-2679ML4472,AT,267X,Lynfield To Civic Centre Express,3,00F0FF,000000
+2679ML6651,AT,267X,Lynfield To Civic Centre Express,3,00F0FF,000000
 2741ML4710,AT,274,Three Kings To Britomart,3,00F0FF,000000
 2742ML4194,AT,274,Britomart To Three Kings,3,00F0FF,000000
 2771ML4711,AT,277,Waikowhai To Britomart,3,00F0FF,000000
-2772ML5351,AT,277,Britomart To Waikowhai,3,00F0FF,000000
-2831ML5545,AT,283,Hospitals To Britomart,3,00F0FF,000000
-2832ML4968,AT,283,Britomart To Hospitals,3,00F0FF,000000
+2772ML6567,AT,277,Britomart To Waikowhai,3,00F0FF,000000
+2831ML6652,AT,283,Hospitals To Britomart,3,00F0FF,000000
+2832ML6653,AT,283,Britomart To Hospitals,3,00F0FF,000000
 2903WP6483,AT,29F,Mangere Town Centre To Britomart Flyer,3,B4FFFF,000000
 2904WP5218,AT,29F,Britomart To Mangere Town Centre Flyer,3,B4FFFF,000000
-2991ML5014,AT,299,Lynfield To Civic Centre,3,00F0FF,000000
+2991ML6568,AT,299,Lynfield To Civic Centre,3,00F0FF,000000
 2992ML5983,AT,299,Civic Centre To Lynfield,3,00F0FF,000000
 3001AIR4864,AT,AIR,Airport To Ferry Terminal Downtown Via Mt Eden Rd,3,FFFF8C,0078FF
 3002AIR4377,AT,AIR,Ferry Terminal Down Town To Airport Via Mt Eden Rd,3,FFFF8C,0078FF
@@ -257,22 +257,22 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3006AIR4381,AT,AIR,Ferry Terminal Down Town To Airport Via Dominion Rd,3,FFFF8C,0078FF
 3007AIR4870,AT,AIR,Airport To Ferry Terminal Downtown Via Dominion Rd,3,FFFF8C,0078FF
 3008AIR4383,AT,AIR,Ferry Terminal Down Town To Airport Via Dominion Rd,3,FFFF8C,0078FF
-3021ML6307,AT,302,Onehunga To Midtown,3,00F0FF,000000
-3022ML6308,AT,302,Midtown To Onehunga,3,00F0FF,000000
-3041ML6309,AT,304,Otahuhu To Midtown Via Favona,3,00F0FF,000000
-3042ML6310,AT,304,Midtown To Otahuhu Via Favona,3,00F0FF,000000
-3043ML3400,AT,304,Otahuhu To Onehunga Via Favona,3,00F0FF,000000
-3044ML4802,AT,304,Onehunga To Otahuhu,3,00F0FF,000000
-3051ML6311,AT,305,Mangere Town Centre To Midtown,3,00F0FF,000000
+3021ML6569,AT,302,Onehunga To Midtown,3,00F0FF,000000
+3022ML6570,AT,302,Midtown To Onehunga,3,00F0FF,000000
+3041ML6571,AT,304,Otahuhu To Midtown Via Favona,3,00F0FF,000000
+3042ML6572,AT,304,Midtown To Otahuhu Via Favona,3,00F0FF,000000
+3043ML6654,AT,304,Otahuhu To Onehunga Via Favona,3,00F0FF,000000
+3044ML6655,AT,304,Onehunga To Otahuhu,3,00F0FF,000000
+3051ML6573,AT,305,Mangere Town Centre To Midtown,3,00F0FF,000000
 3052ML6312,AT,305,Midtown To Mangere Town Centre,3,00F0FF,000000
-3053ML5033,AT,305X,Mangere Town Centre To Midtown Express,3,00F0FF,000000
-3054ML5669,AT,305X,Midtown To Mangere Town Centre Express,3,00F0FF,000000
+3053ML6656,AT,305X,Mangere Town Centre To Midtown Express,3,00F0FF,000000
+3054ML6657,AT,305X,Midtown To Mangere Town Centre Express,3,00F0FF,000000
 3056ML5675,AT,305,Onehunga To Mangere Town Centre,3,00F0FF,000000
-3057ML5628,AT,305,Mangere Town Centre To Onehunga,3,00F0FF,000000
-3101ML5008,AT,31X,Onehunga And One Tree Hill To Midtown,3,00F0FF,000000
-3102ML5009,AT,31X,Midtown To One Tree Hill And Onehunga,3,00F0FF,000000
-3121ML6313,AT,312,Onehunga To Midtown,3,00F0FF,000000
-3122ML6314,AT,312,Midtown To Onehunga,3,00F0FF,000000
+3057ML6617,AT,305,Mangere Town Centre To Onehunga,3,00F0FF,000000
+3101ML6658,AT,31X,Onehunga And One Tree Hill To Midtown,3,00F0FF,000000
+3102ML6659,AT,31X,Midtown To One Tree Hill And Onehunga,3,00F0FF,000000
+3121ML6574,AT,312,Onehunga To Midtown,3,00F0FF,000000
+3122ML6575,AT,312,Midtown To Onehunga,3,00F0FF,000000
 3124ML6341,AT,312,Midtown To Onehunga,3,00F0FF,000000
 3241WP6484,AT,324,Papatoetoe To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
 3243WP6485,AT,324,Papatoetoe To Britomart  Via Massey Road,3,B4FFFF,000000
@@ -327,8 +327,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3805PAC6395,AT,380,Manukau City To International Airport,3,FFFFFF,0064B4
 3806PAC6304,AT,380,International Airport To Manukau City,3,FFFFFF,0064B4
 3921ML6323,AT,392,Te Papapa To Midtown,3,00F0FF,000000
-3922ML6324,AT,392,Midtown To Te Papapa,3,00F0FF,000000
-3924ML6351,AT,392,Newmarket To Te Papapa,3,00F0FF,000000
+3922ML6576,AT,392,Midtown To Te Papapa,3,00F0FF,000000
+3924ML6660,AT,392,Newmarket To Te Papapa,3,00F0FF,000000
 4091WP5893,AT,409,Seaside Park To Otahuhu,3,B4FFFF,000000
 4092WP6458,AT,409,Otahuhu To Seaside Park,3,B4FFFF,000000
 4094WP6522,AT,409,Fairburn Primary To Seaside Park,3,B4FFFF,000000
@@ -361,11 +361,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 4705WP6494,AT,470X,Papakura To Britomart  Express Via East Tamaki Rd,3,B4FFFF,000000
 4706WP6495,AT,470X,Britomart To Papakura Express Via Redoubt Road,3,B4FFFF,000000
 4711WP6459,AT,471,Pahurehure To Britomart,3,B4FFFF,000000
-4712WP6460,AT,471,Britomart To Pahurehure,3,B4FFFF,000000
+4712WP6577,AT,471,Britomart To Pahurehure,3,B4FFFF,000000
 4713WP5858,AT,471,Pahurehure To Papakura,3,B4FFFF,000000
-4714WP6461,AT,471,Britomart To Drury Via Great South Road,3,B4FFFF,000000
+4714WP6578,AT,471,Britomart To Drury Via Great South Road,3,B4FFFF,000000
 4715WP6462,AT,471,Drury To Britomart Via Pahurehure,3,B4FFFF,000000
-4716WP6496,AT,471X,Britomart To Papakura And Pahurehure Express,3,B4FFFF,000000
+4716WP6661,AT,471X,Britomart To Papakura And Pahurehure Express,3,B4FFFF,000000
 4718WP6481,AT,471,Britomart To Pahurehure Via Mahia Road,3,B4FFFF,000000
 4721WP6463,AT,472,Red Hill To Britomart,3,B4FFFF,000000
 4722WP6464,AT,472,Britomart To Red Hill,3,B4FFFF,000000
@@ -413,17 +413,17 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5122WP1649,AT,512,Britomart  To Mt Wellington Via Ellerslie And Ruawai Road And Panama Road,3,B4FFFF,000000
 5203WP0405,AT,52F,Mt Wellington To Britomart Flyer,3,B4FFFF,000000
 5204WP1661,AT,52F,Britomart  To Mt Wellington Flyer,3,B4FFFF,000000
-5213ML6325,AT,N13,Civic Centre To New Lynn And Henderson,3,00F0FF,000000
+5213ML6579,AT,N13,Civic Centre To New Lynn And Henderson,3,00F0FF,000000
 5221WP4743,AT,522,Mt Wellington To Britomart  Via Mt Wellington Highway,3,B4FFFF,000000
 5222WP1653,AT,522,Britomart To Mt Wellington Via Panama Road,3,B4FFFF,000000
 5223WP5610,AT,522,Mt Wellington To Britomart  Via Panmure Tc,3,B4FFFF,000000
-5224ML5903,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
-5226ML5414,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
+5224ML6580,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
+5226ML6581,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
 5231WP6326,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,000000
 5247WP6468,AT,N47,Civic Centre To Papakura Via Great South Rd,3,B4FFFF,000000
 5250HE5586,AT,N50,Civic Centre To Pakuranga And Howick,3,960000,FFFFFF
 5255RT1790,AT,N05,Civic Centre To Te Atatu And Massey,3,FFDCDC,0000FF
-5262ML5964,AT,N62,Civic To Remuera And Panmure,3,00F0FF,000000
+5262ML6582,AT,N62,Civic To Remuera And Panmure,3,00F0FF,000000
 5283NS1789,AT,N83,Civic Centre To Takapuna And East Coast Bays,3,0096FF,000000
 5297BH1421,AT,N97,Onewa - Auckland,3,FFDC78,960000
 5298BH6469,AT,N97,Civic Centre To Birkenhead & Beach Haven,3,FFDC78,960000
@@ -431,7 +431,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5322WP1656,AT,532,Britomart  To Mt Wellington Via Carbine Road,3,B4FFFF,000000
 5323WP5587,AT,532,Mt Wellington To Britomart  Via Carbine Road And Ellerslie,3,B4FFFF,000000
 5324WP5588,AT,532,Britomart To Mt Wellington Via Ellerslie And Carbine Road,3,B4FFFF,000000
-5357RTS6524,AT,S053,Henderson To Avondale College,3,FFFFFF,000000
+5357RTS6662,AT,S053,Henderson To Avondale College,3,FFFFFF,000000
 5358RTS6525,AT,S053,Avondale College To Henderson,3,FFFFFF,000000
 5451HE4686,AT,545,Botany Town Centre To Bucklands Beach Via Highland Park,3,960000,FFFFFF
 5451WPS6295,AT,S054,Remuera Schools To Manurewa,3,FFFFFF,000000
@@ -489,25 +489,26 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5892HE6210,AT,589,Botany Town Centre To Beachlands,3,960000,FFFFFF
 5893HE6211,AT,589,Beachlands & Maraetai To Botany Town Centre Via Flat Bush,3,960000,FFFFFF
 5894HE6212,AT,589,Botany Town Centre To Maraetai,3,960000,FFFFFF
-5951ML5591,AT,595,Glen Innes Centre To Britomart Via Panmure And Ellerslie,3,00F0FF,000000
-5952ML5592,AT,595,Britomart To Glen Innes Via Panmure,3,00F0FF,000000
+5951ML6583,AT,595,Glen Innes Centre To Britomart Via Panmure And Ellerslie,3,00F0FF,000000
+5952ML6584,AT,595,Britomart To Glen Innes Via Panmure,3,00F0FF,000000
 6051ML5038,AT,605,Benson Road To Civic Centre,3,00F0FF,000000
 6052ML5415,AT,605,Civic Centre To Benson Road,3,00F0FF,000000
 6053ML5011,AT,605,Victoria Ave To Civic Centre,3,00F0FF,000000
 6054ML5442,AT,605,Newmarket To Benson Rd,3,00F0FF,000000
 6061ML4989,AT,606,Benson Road To Civic Centre,3,00F0FF,000000
-6062ML5416,AT,606,Civic Centre To Benson Road,3,00F0FF,000000
+6062ML6585,AT,606,Civic Centre To Benson Road,3,00F0FF,000000
 6251ML3705,AT,625,Glen Innes To Britomart Via St Johns & Khyberpass,3,00F0FF,000000
-6252ML2221,AT,625,Britomart To Glen Innes Via Khyber Pass Rd & Remuera Rd,3,00F0FF,000000
-6254ML4564,AT,625,Britomart To Glen Innes And Glendowie College Via Remuera Rd,3,00F0FF,000000
+6252ML6586,AT,625,Britomart To Glen Innes Via Khyber Pass Rd & Remuera Rd,3,00F0FF,000000
+6254ML6663,AT,625,Britomart To Glen Innes And Glendowie College Via Remuera Rd,3,00F0FF,000000
+6321HE6689,AT,632,Stonefields Feeder,3,960000,FFFFFF
 6351ML4645,AT,635,Glen Innes To Britomart Via Grand Dr & Parnell,3,00F0FF,000000
-6352ML4646,AT,635,Britomart To Glen Innes Via Parnell/Remuera Rd & Grand Dr,3,00F0FF,000000
-6432ML0432,AT,643,Britomart To Upland Rd Via Parnell & Remuera Rd,3,00F0FF,000000
-6452ML0429,AT,645,Britomart To Glen Innes Via Parnell & Remuera Rd,3,00F0FF,000000
+6352ML6587,AT,635,Britomart To Glen Innes Via Parnell/Remuera Rd & Grand Dr,3,00F0FF,000000
+6432ML6664,AT,643,Britomart To Upland Rd Via Parnell & Remuera Rd,3,00F0FF,000000
+6452ML6665,AT,645,Britomart To Glen Innes Via Parnell & Remuera Rd,3,00F0FF,000000
 6551ML4636,AT,655,Glen Innes To Britomart Via Meadowbank & Parnell,3,00F0FF,000000
 6552ML1540,AT,655,Britomart To Glen Innes Via Parnell/Remuera Rd & Meadowbank,3,00F0FF,000000
-6851ML6276,AT,685X,Glen Innes To Britomart Ex Via Tamaki Dr And Upland Rd,3,00F0FF,000000
-6852ML0434,AT,685X,Britomart To Glen Innes Ex Via Upland Rd & Tamaki Dr,3,00F0FF,000000
+6851ML6666,AT,685X,Glen Innes To Britomart Ex Via Tamaki Dr And Upland Rd,3,00F0FF,000000
+6852ML6667,AT,685X,Britomart To Glen Innes Ex Via Upland Rd & Tamaki Dr,3,00F0FF,000000
 7000ML5809,AT,007,Pt Chevalier To Glen Innes Via Selwyn Village,3,00F0FF,000000
 7001ML5810,AT,007,Glen Innes To Pt Chevalier Via Selwyn Village,3,00F0FF,000000
 7002ML5811,AT,007,Pt Chevalier To Glen Innes,3,00F0FF,000000
@@ -515,69 +516,71 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7032ML1430,AT,703,Britomart To Portland Road,3,00F0FF,000000
 7033ML0678,AT,703,Portland Road To Britomart,3,00F0FF,000000
 7034ML1448,AT,703,Britomart To Portland Road,3,00F0FF,000000
-7102ML5594,AT,710,Britomart To Panmure,3,00F0FF,000000
+7102ML6588,AT,710,Britomart To Panmure,3,00F0FF,000000
 7131ML0446,AT,713,Eastridge To Britomart,3,00F0FF,000000
-7132ML0442,AT,713,Britomart To Eastridge,3,00F0FF,000000
+7132ML6668,AT,713,Britomart To Eastridge,3,00F0FF,000000
 7151ML0447,AT,715,Glen Innes Centre To Britomart Via Orakei,3,00F0FF,000000
-7152ML3207,AT,715,Britomart To Glen Innes Via Orakei,3,00F0FF,000000
+7152ML6589,AT,715,Britomart To Glen Innes Via Orakei,3,00F0FF,000000
 7153ML5642,AT,715X,Glen Innes Express To Britomart,3,00F0FF,000000
-7161ML5595,AT,716,Panmure To Britomart  Via Glen Innes,3,00F0FF,000000
-7171ML5596,AT,717,Otahuhu To Britomart  Via Panmure And Glen Innes,3,00F0FF,000000
-7172ML5597,AT,717,Britomart To Otahuhu Via Glen Innes And Panmure,3,00F0FF,000000
-7211LNK6327,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
-7212LNK5872,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
-7213LNK6336,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
-7214LNK6328,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
-7216LNK6329,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
+7161ML6590,AT,716,Panmure To Britomart  Via Glen Innes,3,00F0FF,000000
+7171ML6591,AT,717,Otahuhu To Britomart  Via Panmure And Glen Innes,3,00F0FF,000000
+7172ML6592,AT,717,Britomart To Otahuhu Via Glen Innes And Panmure,3,00F0FF,000000
+7211LNK6593,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
+7212LNK6594,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
+7213LNK6618,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
+7214LNK6595,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
+7216LNK6596,AT,OUT,Outer Link Anti Clockwise,3,FFFFFF,000000
 7255RTS6527,AT,S072,Titirangi Village To Avondale College,3,FFFFFF,000000
 7256RTS6528,AT,S072D,Avondale College To Titirangi Village,3,FFFFFF,000000
-7311LNK6330,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
-7312LNK5306,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
-7313LNK6213,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
-7314LNK4481,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
-7315LNK6331,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7311LNK6597,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7312LNK6598,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7313LNK6599,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7314LNK6619,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7315LNK6600,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
 7355BHS6227,AT,S073,Birkdale To Wairau Intermediate,3,FFFFFF,000000
 7358BHS6228,AT,S073,Wairau Intermediate To Birkdale,3,FFFFFF,000000
 7359RTS6529,AT,S073H,Titirangi To Avondale College,3,FFFFFF,000000
 7360RTS6530,AT,S073H,Avondale College To Titirangi,3,FFFFFF,000000
-7451ML5744,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
-7452ML2143,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
-7452ML4400,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
+7451ML4386,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
+7451ML6669,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
+7452ML6601,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
+7452ML6620,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
+7453ML6690,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
 7457ML5745,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
 7502ML5599,AT,750,Britomart To Panmure Night Flexi Via Mission Bay/Long Dr And Glen Innes,3,00F0FF,000000
-7551ML4402,AT,755,Glen Innes To Britomart Via Mission Bay,3,00F0FF,000000
+7551ML6670,AT,755,Glen Innes To Britomart Via Mission Bay,3,00F0FF,000000
 7552ML4884,AT,755,Britomart To Glen Innes Via Mission Bay And Long Drive,3,00F0FF,000000
-7561ML5600,AT,756,Panmure To Britomart Via Glen Innes And Mission Bay,3,00F0FF,000000
+7561ML6602,AT,756,Panmure To Britomart Via Glen Innes And Mission Bay,3,00F0FF,000000
 7562ML5601,AT,756,Britomart To Panmure Via Mission Bay And Glen Innes,3,00F0FF,000000
-7571ML5602,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
+7571ML6603,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
 7572ML5603,AT,757,Britomart To Otahuhu Via Mission Bay And Glen Innes And Panmure,3,00F0FF,000000
 7603NS5121,AT,76X,Long Bay To Midtown Express,3,0096FF,000000
 7604NS5166,AT,76X,Midtown To Long Bay Express,3,0096FF,000000
-7671ML6153,AT,767,Glendowie South To Britomart  Via Tamaki Drive,3,00F0FF,000000
+7671ML6604,AT,767,Glendowie South To Britomart  Via Tamaki Drive,3,00F0FF,000000
 7672ML1442,AT,767,Britomart To Glendowie South Via Tamaki Drive,3,00F0FF,000000
-7681ML6182,AT,768,Glendowie To Britomart  Via Tamaki Drive,3,00F0FF,000000
-7691ML6154,AT,769,Glendowie North To Brtomart  Via Tamaki Drive,3,00F0FF,000000
+7681ML6671,AT,768,Glendowie To Britomart  Via Tamaki Drive,3,00F0FF,000000
+7691ML6605,AT,769,Glendowie North To Brtomart  Via Tamaki Drive,3,00F0FF,000000
 7692ML0462,AT,769,Britomart To Glendowie North Via Tamaki Drive,3,00F0FF,000000
-7701ML5634,AT,770,St Heliers To Newmarket Via Glendowie,3,00F0FF,000000
+7701ML6606,AT,770,St Heliers To Newmarket Via Glendowie,3,00F0FF,000000
 7702ML5895,AT,770,Newmarket To St Heliers,3,00F0FF,000000
-7703ML5645,AT,770,St Heliers To Auckland Grammar School,3,00F0FF,000000
+7703ML6672,AT,770,St Heliers To Auckland Grammar School,3,00F0FF,000000
 7704ML5924,AT,770,0 -Eastridge To St Heliers,3,00F0FF,000000
-7711ML5967,AT,771,St Heliers To Newmarket Via Mission Bay,3,00F0FF,000000
-7712ML5637,AT,771,Newmarket To St Heliers To Newmarket,3,00F0FF,000000
-7714ML5646,AT,771,Auckland Grammar To Newmarket To St Helier,3,00F0FF,000000
-7716ML5638,AT,771,Eastridge To St Heliers,3,00F0FF,000000
-7717ML5969,AT,771,St Heliers To Eastridge Via Mission Bay,3,00F0FF,000000
+7711ML6607,AT,771,St Heliers To Newmarket Via Mission Bay,3,00F0FF,000000
+7712ML6608,AT,771,Newmarket To St Heliers To Newmarket,3,00F0FF,000000
+7714ML6673,AT,771,Auckland Grammar To Newmarket To St Helier,3,00F0FF,000000
+7716ML6609,AT,771,Eastridge To St Heliers,3,00F0FF,000000
+7717ML6674,AT,771,St Heliers To Eastridge Via Mission Bay,3,00F0FF,000000
 7791RT1340,AT,779,Devonport Wharf To Cheltenham And Return,3,FFDCDC,0000FF
 7792RT0687,AT,779,Devonport Wharf To Stanley Bay And Return,3,FFDCDC,0000FF
 7972LNK4423,AT,CTY,Wynyard Quarter,3,FFFFFF,000000
 7981LNK6435,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
-7982LNK4638,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
-7983LNK4639,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
-7984LNK4653,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
+7982LNK6610,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
+7983LNK6611,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
+7984LNK6675,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
 7991LNK6436,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
-7992LNK6437,AT,INN,Nmk To Cusoms St East,3,FFFFFF,000000
-7993LNK6439,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
-7994LNK6438,AT,INN,Ponsonby To Cusoms St,3,FFFFFF,000000
+7992LNK6612,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7993LNK6676,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7994LNK6613,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
 8020RT5194,AT,802X,Midtown To Bayswater Express,3,FFDCDC,0000FF
 8025RT5122,AT,802X,Bayswater To Midtown Express,3,FFDCDC,0000FF
 8031RT6220,AT,803,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
@@ -589,10 +592,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8037RT0953,AT,803,Bayswater To Takapuna,3,FFDCDC,0000FF
 8038RT4449,AT,803,Takapuna To Bayswater Wharf Via Francis St,3,FFDCDC,0000FF
 8039RT6264,AT,803,Takapuna Loop,3,FFDCDC,0000FF
-8041RT6215,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
-8043RT6216,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
-8045RT6217,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
-8047RT6219,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
+8041RT6614,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
+8043RT6615,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
+8045RT6616,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
+8047RT6621,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
 8131NS4548,AT,813,Devonport To Takapuna Via Narrow Neck,3,0096FF,000000
 8131RT4548,AT,813,Devonport To Takapuna Via Narrow Neck,3,FFDCDC,0000FF
 8132NS4874,AT,813,Takapuna To Devonport Via Narrow Neck,3,0096FF,000000
@@ -664,9 +667,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8959NS6445,AT,895,Hibiscus Coast To Midtown Via Albany & Takapuna,3,0096FF,000000
 8961NS2140,AT,896,Hibiscus Coast To Midtown,3,0096FF,000000
 8962NS3826,AT,896,Midtown To Hibiscus Coast,3,0096FF,000000
-8971NS6446,AT,897X,Gulf Harbour To Midtown Express,3,0096FF,000000
+8971NS5478,AT,897X,Gulf Harbour To Midtown Express,3,0096FF,000000
 8972NS2147,AT,897X,Auckland To Army Bay Express,3,0096FF,000000
-8973NS6447,AT,897X,Pacific Plaza To Midtown Express,3,0096FF,000000
+8973NS5505,AT,897X,Pacific Plaza To Midtown Express,3,0096FF,000000
 8981NS6448,AT,898,Army Bay To Takapuna,3,0096FF,000000
 8982NS3760,AT,898,Takapuna To Army Bay,3,0096FF,000000
 8983NS0729,AT,898,Army Bay To Silverdale,3,0096FF,000000
@@ -693,7 +696,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9151BH5404,AT,915,Glenfield To Takapuna,3,FFDC78,960000
 9153BH5882,AT,915,Bayview To Takapuna,3,FFDC78,960000
 9154BH6504,AT,915,Takapuna To Bayview,3,FFDC78,960000
-9156BH6471,AT,915,Takapuna To Glenfield/Bayview,3,FFDC78,960000
 9156BH6482,AT,915,Takapuna To Glenfield/Bayview,3,FFDC78,960000
 9158BH6505,AT,915,Takapuna To Bayview,3,FFDC78,960000
 9203RT5250,AT,920,Sylvan Ave To Auckland,3,FFDCDC,0000FF
@@ -798,7 +800,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 31454HES6296,AT,S314,Owairoa Primary To Botany,3,FFFFFF,000000
 61001BHS2648,AT,S001,Birkenhead College To Beach Haven,3,FFFFFF,000000
 61002BHS2643,AT,S001,Beach Haven To Birkenhead College & Birkdale Intermediate,3,FFFFFF,000000
-61003MLS5970,AT,S001,Epsom Schools To Kohimarama,3,FFFFFF,000000
+61003MLS6677,AT,S001,Epsom Schools To Kohimarama,3,FFFFFF,000000
 61004BCS4910,AT,S002,Hatfields Beach To Orewa Schools,3,FFFFFF,000000
 61005WPS2688,AT,S001,Kedgley Intermediate To Puhinui,3,FFFFFF,000000
 61006BHS2646,AT,S002,Coronation Rd To Birkenhead College & Birkdale Intermediate,3,FFFFFF,000000
@@ -813,14 +815,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61016BCS2851,AT,S006,Stanmore Bay / Vipond Rdto Orewa College,3,FFFFFF,000000
 61017BHS2650,AT,S002,Birkenhead College & Birkdale Intermediate To Coronation Rd,3,FFFFFF,000000
 61018BHS5935,AT,S006,Beach Haven To Westlake Schools,3,FFFFFF,000000
-61019MLS2707,AT,S002,Epsom Schools To St Heliers,3,FFFFFF,000000
+61019MLS6678,AT,S002,Epsom Schools To St Heliers,3,FFFFFF,000000
 61020RTS5813,AT,S006,New Lynn/Titirangi To Remuera Schools,3,FFFFFF,000000
 61021MLS2769,AT,S002,Onehunga High To Favona,3,FFFFFF,000000
 61023MLS2768,AT,S002,Royal Oak Intermediate To Mangere Bridge,3,FFFFFF,000000
 61024BCS2853,AT,S007,Brightside Rd To Orewa College,3,FFFFFF,000000
 61025BHS2657,AT,S003,Carmel And Westlake Girls To Chatswood,3,FFFFFF,000000
 61026BHS5936,AT,S007,Salisbury Rd To Westlake Schools,3,FFFFFF,000000
-61027MLS6359,AT,S003,Epsom Schools To St Heliers,3,FFFFFF,000000
+61027MLS6679,AT,S003,Epsom Schools To St Heliers,3,FFFFFF,000000
 61028RTS3266,AT,S007,Glen Eden To Green Bay High,3,FFFFFF,000000
 61029MLS6207,AT,S003,Onehunga High To Mangere Bridge,3,FFFFFF,000000
 61030RTS3308,AT,S007,Henderson Valley To Green Bay High,3,FFFFFF,000000
@@ -831,7 +833,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61035BCS2553,AT,S004,Orewa College To Army Bay,3,FFFFFF,000000
 61036RTS6531,AT,S008,New Lynn Transport Centre To Blockhouse Bay Intermediate,3,FFFFFF,000000
 61037BHS2649,AT,S004,Birkenhead College To Highbury,3,FFFFFF,000000
-61039MLS5697,AT,S004,Epsom Schools To St Heliers,3,FFFFFF,000000
+61039MLS6680,AT,S004,Epsom Schools To St Heliers,3,FFFFFF,000000
 61040BHS5937,AT,S009,Onewa Road To Westlake Schools,3,FFFFFF,000000
 61041MLS2772,AT,S004,Royal Oak Intermediate To Onehunga,3,FFFFFF,000000
 61042NSS3303,AT,S009,Glenfield To Westlake Schools,3,FFFFFF,000000
@@ -839,10 +841,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61044MLS2910,AT,S009,Remuera To Auckland Grammar,3,FFFFFF,000000
 61045BCS2877,AT,S005,Orewa College To Arkles Bay/ Manly,3,FFFFFF,000000
 61048HES6360,AT,S010,Botany Downs To Epsom Schools,3,FFFFFF,000000
-61049MLS5684,AT,S016,Kadimah & Epsom Schools To Glendowie,3,FFFFFF,000000
-61050MLS2907,AT,S010,Remuera To Auckland Grammar,3,FFFFFF,000000
-61051MLS6208,AT,S005,Onehunga High To Mangere,3,FFFFFF,000000
-61052GWS2949,AT,S010,Sandringham To Ponsonby Intermediate,3,FFFFFF,000000
+61049MLS6681,AT,S016,Kadimah & Epsom Schools To St Heliers,3,FFFFFF,000000
 61053BCS2852,AT,S006,Orewa College To Stanmore Bay / Vipond Rd,3,FFFFFF,000000
 61054HES5622,AT,S011,Bucklands Beach To Remuera Schools,3,FFFFFF,000000
 61055BHS5938,AT,S006,Westlake Boys To Beach Haven,3,FFFFFF,000000
@@ -854,7 +853,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61064MLS2953,AT,S012,Downtown To St Marys College,3,FFFFFF,000000
 61065RTS3268,AT,S007,Green Bay High To Henderson Valley,3,FFFFFF,000000
 61066BCS2938,AT,S013,Stanmore Bay To Kingsway School,3,FFFFFF,000000
-61067MLS6362,AT,S007,Epsom Schools To Mission Bay,3,FFFFFF,000000
+61067MLS6682,AT,S007,Epsom Schools To Mission Bay,3,FFFFFF,000000
 61068HES2828,AT,S013,Otara To Edgewater College,3,FFFFFF,000000
 61069MLS2733,AT,S007,Mt Albert Grammar To Epsom,3,FFFFFF,000000
 61070RTS2850,AT,S013,New Lynn To Rutherford College,3,FFFFFF,000000
@@ -875,7 +874,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61086NSS5940,AT,S016,Rothesay Bay Shops To Westlake Schools,3,FFFFFF,000000
 61087MLS2911,AT,S009,Auckland Grammar To Remuera,3,FFFFFF,000000
 61088MLS6365,AT,S016,St Heliers To Epsom Schools & Kadimah,3,FFFFFF,000000
-61089MLS6366,AT,S009,Epsom Schools To Glen Innes,3,FFFFFF,000000
+61089MLS6683,AT,S009C,Epsom Schools To Glen Innes,3,FFFFFF,000000
 61090BCS2879,AT,S017,Silverdale To Whangaparaoa College,3,FFFFFF,000000
 61091NSS3269,AT,S009,Westlake Schools To Glenfield,3,FFFFFF,000000
 61092HES2830,AT,S017,Downtown To Sacred Heart College,3,FFFFFF,000000
@@ -1005,12 +1004,12 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61233MLS2715,AT,S027,Glendowie College To Otahuhu Transport Centre,3,FFFFFF,000000
 61234NSS5950,AT,S054,Sunnynook To Westlake Schools,3,FFFFFF,000000
 61235BCS5686,AT,S027,Northcross Intermediate To Stanmore Bay,3,FFFFFF,000000
-61236WPS6537,AT,S055,Conifer Grove To Rosehill Schools,3,FFFFFF,000000
+61236WPS6684,AT,S055,Conifer Grove To Rosehill Schools,3,FFFFFF,000000
 61237WPS2681,AT,S027,Papatoetoe Intermediate To Middlemore Hospital,3,FFFFFF,000000
 61238WPS2792,AT,S055,Papakura To Mcauley High,3,FFFFFF,000000
 61239BHS2668,AT,S028,St Marys & Northcote Intermediate To Chatswood,3,FFFFFF,000000
-61240WPS6538,AT,S056,Wattle Downs To Rosehill Schools,3,FFFFFF,000000
-61241MLS6374,AT,S028,Epsom Schools To Remuera,3,FFFFFF,000000
+61240WPS6685,AT,S056,Wattle Downs To Rosehill Schools,3,FFFFFF,000000
+61241MLS6686,AT,S028A,Epsom Schools To Remuera,3,FFFFFF,000000
 61242MLS2690,AT,S058,Favona To Onehunga Schools,3,FFFFFF,000000
 61243BCS3047,AT,S028,Northcross Intermediate To Long Bay College,3,FFFFFF,000000
 61244WPS6539,AT,S058,Homai To Rosehill Schools,3,FFFFFF,000000
@@ -1100,7 +1099,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61332WAS2930,AT,S094,Palm Road To Waiheke Primary,3,FFFFFF,000000
 61333NSS2578,AT,S050,Westlake Schools  To Torbay,3,FFFFFF,000000
 61334BCS6185,AT,S010,Hobsonville To Kingsway School,3,FFFFFF,000000
-61335WPS6542,AT,S051,Epsom Schools To Drury,3,FFFFFF,000000
+61335WPS6687,AT,S051B,Epsom Schools To Drury,3,FFFFFF,000000
 61338RTS6231,AT,S116,Greenhithe To Albany Schools,3,FFFFFF,000000
 61339WPS2764,AT,S051,Seventh Day Adventist Primary To Middlemore,3,FFFFFF,000000
 61340RTS2987,AT,S116X,Greenhithte To Albany Junior High (Express),3,FFFFFF,000000
@@ -1153,7 +1152,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61411MLS2746,AT,S063,Ellerslie Primary To Mt Wellington,3,FFFFFF,000000
 61413NSS2536,AT,S063,Northcross Intermediate To Torbay,3,FFFFFF,000000
 61415MLS2747,AT,S063,One Tree Hill College To Mt Wellington,3,FFFFFF,000000
-61417NSS5230,AT,S064,Epsom Schools To Constellation Station,3,FFFFFF,000000
+61417NSS6688,AT,S064,Epsom Schools To Constellation Station,3,FFFFFF,000000
 61418RTS3019,AT,SHP1,Hobsonville Primary To Massey West,3,FFFFFF,000000
 61419MLS2748,AT,S064,One Tree Hill College To Otahuhu,3,FFFFFF,000000
 61421MLS2750,AT,S065,One Tree Hill College To Bailey - Penrose,3,FFFFFF,000000
@@ -1258,7 +1257,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61643RTS2810,AT,SRU810,Rutherford High To Westgate,3,FFFFFF,000000
 61645RTS4754,AT,SRU812,Rutherford College To Swanson,3,FFFFFF,000000
 61647RTS6378,AT,S014,Rutherford College To Henderson,3,FFFFFF,000000
-61649RTS6546,AT,TP1,Tirimoana Primary To Sabulite Rd,3,FFFFFF,000000
+61649RTS3020,AT,TP1,Tirimoana Primary To Sabulite Rd,3,FFFFFF,000000
 61651MLS4003,AT,S099,St Peters & Auckland Grammar To Lynfield,3,FFFFFF,000000
 61652MLS3065,AT,S022,Lynfield To Blockhouse Bay,3,FFFFFF,000000
 61654NSS3292,AT,S028,Rangitoto College To Sunnynook,3,FFFFFF,000000
@@ -1311,14 +1310,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
 10103VTW6417,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
-17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
-17017VTW3190,AT,WEST,Henderson To Kingsland,2,FFFFFF,000000
-17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
-18003VTW3537,AT,WEST,Swanson To Kingsland,2,FFFFFF,000000
-19102VTW3643,AT,WEST,Kingsland To Swanson,2,FFFFFF,000000
 20085VTS6418,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 20166VTS6420,AT,STH,Britomart To Pukekohe Via Newmarket,2,FFFFFF,000000
@@ -1338,5 +1332,4 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50109VTW6451,AT,WEST,Swanson To Britomart Not Nkt/Mt Eden,2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000
