@@ -182,9 +182,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1954UE6075,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
 1956GW6125,AT,195,Downtown To New Lynn Via Green Bay,3,64FF00,000000
 1958GW6077,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,64FF00,000000
-2091UE6337,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
+2091UE6691,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
 2092UE6079,AT,209,Downtown To Titirangi Via Green Bay,3,DCC8FF,C80000
-2093GW6338,AT,209,Titirangi To Downtown Via Green Bay,3,64FF00,000000
+2093GW6692,AT,209,Titirangi To Downtown Via Green Bay,3,64FF00,000000
 2201GW5847,AT,220,St Lukes To Midtown,3,64FF00,000000
 2202GW5848,AT,220,Midtown To St Lukes,3,64FF00,000000
 2211GW6109,AT,221,Rosebank Road To Midtown,3,64FF00,000000
@@ -296,7 +296,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3346WP6240,AT,334,Onehunga To Otahuhu Via Mangere Town Centre,3,B4FFFF,000000
 3347WP5207,AT,334,Otahuhu To Onehunga Via Massey Road,3,B4FFFF,000000
 3348WP6241,AT,334,Onehunga To Otahuhu Via Massey Road,3,B4FFFF,000000
-3361WP5224,AT,336X,Papatoetoe To Britomart  Express,3,B4FFFF,000000
+3361WP6693,AT,336X,Papatoetoe To Britomart  Express,3,B4FFFF,000000
 3362WP6250,AT,336X,Britomart To Papatoetoe Express,3,B4FFFF,000000
 3381WP5225,AT,338,Onehunga Industrial Via Ascot Park And Otahuhu,3,B4FFFF,000000
 3382WP6251,AT,338,Onehunga Industrial Via Ascot Park And Otahuhu,3,B4FFFF,000000
@@ -304,7 +304,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3442WP6349,AT,344,Britomart To Papatoetoe,3,B4FFFF,000000
 3443WP3418,AT,344,Papatoetoe To Onehunga Via Mangere Town Centre,3,B4FFFF,000000
 3447WP5387,AT,344,Papatoetoe To Onehunga Via Mangere Town Centre(No Stop At Rimu Rd),3,B4FFFF,000000
-3471WP6489,AT,347,Manukau City Centre To Britomart Via Mangere Town Centre,3,B4FFFF,000000
+3471WP6694,AT,347,Manukau City Centre To Britomart Via Mangere Town Centre,3,B4FFFF,000000
 3472WP6350,AT,347,Britomart To Manukau City Centre,3,B4FFFF,000000
 3481WP6457,AT,348,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
 3482WP5413,AT,348,Britomart To Manukau City Centre,3,B4FFFF,000000
@@ -894,7 +894,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61110BCS2883,AT,S019,Army Bay To Whangaparaoa College,3,FFFFFF,000000
 61111BCS6230,AT,S012,Kingsway School To Gulf Harbour,3,FFFFFF,000000
 61112BCS2884,AT,S019,Whangaparaoa College To Gulf Harbour  School,3,FFFFFF,000000
-61113HES5624,AT,S012,Baradene College To Dannemora,3,FFFFFF,000000
+61113HES6695,AT,S012,Baradene College To Dannemora,3,FFFFFF,000000
 61114MLS5314,AT,S019,Ellerslie To Remuera Primary,3,FFFFFF,000000
 61115RTS2622,AT,S012,Kelston Schools To Henderson,3,FFFFFF,000000
 61116MLS2737,AT,S019,Lynfield To Waikowhai Intermediate,3,FFFFFF,000000
@@ -1022,7 +1022,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61251NSS2546,AT,S029,Westlake Schools To Rothesay Bay,3,FFFFFF,000000
 61252RTS4497,AT,S062,Unsworth To Albany Primary,3,FFFFFF,000000
 61253BHS2809,AT,S030,Northcote College To Chatswood,3,FFFFFF,000000
-61254WPS2503,AT,S060,Puhinui To Auckland Girls Grammar,3,FFFFFF,000000
+61254WPS6696,AT,S060,Puhinui To Auckland Girls Grammar,3,FFFFFF,000000
 61255RTS2918,AT,S030,Waitakere Schools To Kelston,3,FFFFFF,000000
 61256RTS2951,AT,S061,Albany Heights To Albany Schools,3,FFFFFF,000000
 61257MLS2904,AT,S030,Epsom Schools To Mt Eden,3,FFFFFF,000000
@@ -1108,7 +1108,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61343WPS6543,AT,S053,St Peters To Papakura,3,FFFFFF,000000
 61345NSS2532,AT,S053,Long Bay College To Murrays Bay,3,FFFFFF,000000
 61347NSS5956,AT,S053,Westlake Schools To Campbells Bay,3,FFFFFF,000000
-61349WPS2684,AT,S054,Papatoetoe High To Middlemore,3,FFFFFF,000000
+61349WPS6697,AT,S054,Papatoetoe High To Middlemore,3,FFFFFF,000000
 61353NSS2586,AT,S054,St Johns School To Milford,3,FFFFFF,000000
 61355WPS6544,AT,S055,Mcauley High To Papakura,3,FFFFFF,000000
 61356MLS3999,AT,S055,Kohimarama To Remuera Intermediate,3,FFFFFF,000000
@@ -1186,7 +1186,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61452RTS3305,AT,SRU812,Swanson To Rutherford College,3,FFFFFF,000000
 61455BHS4146,AT,S077,Glenfield Schools To Verrans Corner,3,FFFFFF,000000
 61457BHS5960,AT,S078,Glenfield College To Totaravale,3,FFFFFF,000000
-61459HES4577,AT,S078,Farm Cove Intermediate To Golflands,3,FFFFFF,000000
+61459HES6698,AT,S078,Farm Cove Intermediate To Golflands,3,FFFFFF,000000
 61461BCS2961,AT,S008,East Coast Road To Kingsway School,3,FFFFFF,000000
 61462NSS5961,AT,S875,Westlake Girls To Browns Bay,3,FFFFFF,000000
 61463HES2819,AT,S080,Macleans College To Panmure,3,FFFFFF,000000
@@ -1200,7 +1200,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61479RTS2517,AT,S083,Takapuna Grammar To Devonport,3,FFFFFF,000000
 61481RTS2518,AT,S084,Belmont Intermediate To Devonport,3,FFFFFF,000000
 61483MLS2698,AT,S084,St Josephs School (Onehunga) To Mangere Town Centre,3,FFFFFF,000000
-61485HES5367,AT,S085,St Marks School To Pakuranga,3,FFFFFF,000000
+61485HES6699,AT,S085,St Marks School To Pakuranga,3,FFFFFF,000000
+61485HES6700,AT,S085,St Marks School To Pakuranga,3,FFFFFF,000000
 61487RTS5962,AT,S087,Westlake Schools To Stanley Bay,3,FFFFFF,000000
 61489HES2895,AT,S088,Sancta Maria College To Pakuranga,3,FFFFFF,000000
 61491HES3959,AT,S089,Sancta Maria College To Botany Downs,3,FFFFFF,000000
@@ -1311,6 +1312,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
 10103VTW6417,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
+17023VTW4962,AT,WEST,Henderson To Newmarket,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
 20085VTS6418,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
@@ -1322,14 +1324,18 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
+21114VTS5737,AT,STH,Newmarket To Penrose,2,FFFFFF,000000
 24101VTS2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
 24102VTS2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
 24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
 24106VTS2052,AT,STH,Otahuhu To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
+41001VTS2480,AT,STH,Penrose To Britomart,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
+50061VTS4912,AT,STH,Britomart To Penrose Via Newmarket,2,FFFFFF,000000
+50064VTS4915,AT,STH,Penrose To Papkura,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000

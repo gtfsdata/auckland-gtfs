@@ -5974,7 +5974,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7284,2422,28 Lambie Dr,-36.988503,174.87333
 7285,2425,25 Lambie Dr,-36.988564,174.87291
 7286,8666,322 Hillsborough Rd,-36.929983,174.74566
-7287,2428,Farm Cove Intermediate,-36.896675,174.8909
+7287,2428,Farm Cove Intermediate,-36.896561,174.89125
+7288,2386,St Marks School Bus Stop,-36.902102,174.897
 7289,2426,Opp 43 Richard Pearse Dr,-36.977651,174.78364
 7290,2423,Richard Pearse Dr Opp Kingsford Smith Place,-36.979897,174.78243
 7291,2417,151 Coronation Rd,-36.95178,174.7914
