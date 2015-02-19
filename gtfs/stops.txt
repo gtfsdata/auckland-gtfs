@@ -1435,7 +1435,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 1554,8882,108 Carrington Rd,-36.877792,174.71087
 1555,8032,Carrington Rd Near Gladstone Primary,-36.879257,174.71119
 1556,8034,198 Carrington Rd,-36.882388,174.71318
-1557,8812,4 Mt Albert Rd,-36.884325,174.71603
+1557,8812,10 Mt Albert Rd,-36.88473,174.71663
 1558,8814,26 Mt Albert Rd,-36.886482,174.71921
 1559,8816,58 Mt Albert Rd,-36.888199,174.72177
 1560,8818,100 Mt Albert Rd,-36.890195,174.7243
@@ -2399,7 +2399,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2616,5671,39 Oreil Ave,-36.820087,174.61601
 2617,5667,3 Oreil Ave,-36.818419,174.61666
 2618,5640,Westgate Outside Burger King,-36.820696,174.61268
-2619,5633,Westgate,-36.820654,174.61247
+2619,5633,Westgate Opp Burger King,-36.820654,174.61247
 2620,5563,499 Don Buck Rd,-36.827178,174.60784
 2621,5561,435 Don Buck Rd,-36.832496,174.60478
 2625,5608,18 Reynella Dr,-36.837951,174.61121
@@ -2639,7 +2639,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2919,5739,111 Metcalfe Rd,-36.866445,174.60788
 2920,5737,57 Metcalfe Rd,-36.864335,174.60974
 2921,5735,9 Metcalfe Rd,-36.862544,174.61193
-2922,5409,221 Swanson Rd,-36.864184,174.61497
+2922,5409,221 Swanson Rd,-36.864792,174.61524
 2923,5411,Opposite 182 Swanson Rd,-36.867532,174.61647
 2924,5413,105 Swanson Rd,-36.869684,174.61837
 2925,5415,85 Swanson Rd,-36.870476,174.61958
@@ -3163,6 +3163,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 3546,4900,Mill Rd By Baker St,-36.67791,174.44497
 3547,4896,20 Commercial Rd,-36.678753,174.44987
 3549,4923,51 Commercial Rd,-36.67571,174.45089
+3551,4902,16 Railway St,-36.671824,174.45104
 3552,4927,11 Railway St,-36.671867,174.45116
 3554,4921,Opposite 20 Commercial Rd,-36.678778,174.44998
 3555,4925,Mill Rd Opposite Baker St,-36.678036,174.44495
@@ -4650,7 +4651,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5134,7410,240 Remuera Rd,-36.879253,174.79132
 5135,7412,272 Remuera Rd,-36.880118,174.79404
 5136,8538,320 Remuera Rd,-36.880527,174.79654
-5137,7089,Aut - Wellesley Street,-36.852804,174.76716
+5137,7089,Wellesley St Near Aut,-36.852804,174.76716
 5138,7128,84 Wakefield St,-36.855079,174.76583
 5139,7014,18 Waterloo Qdrt,-36.849097,174.77113
 5140,7819,Mt Wellington Hwy Near Ellerslie/Panmure Highway,-36.898207,174.84516
@@ -4701,8 +4702,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5199,3975,11 Wakanui St,-36.817958,174.73528
 5200,4102,58 Hinemoa St,-36.818878,174.73413
 5201,4104,98 Hinemoa St,-36.817051,174.73232
-5202,4202,66 Aeroview Dr,-36.795491,174.68624
-5203,4069,53 Aeroview Dr,-36.795437,174.68626
 5204,4404,34 Eskdale Rd,-36.79415,174.70425
 5205,4264,Eskdale Rd Opposite Hobby Ave,-36.797765,174.71549
 5209,3488,Belmont,-36.807691,174.79009
@@ -5287,7 +5286,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6214,5953,Hobsonville Rd Cnr Marina View (Party Bus Co School Stop),-36.807838,174.6355
 6216,5933,Makora Rd Nr Marbella Dr,-36.836813,174.61788
 6217,4251,123 Upper Harbour Dr,-36.77787,174.68747
-6219,5949,Makora Rd Opp Helleur Rd (Party Bus Co School Stop),-36.834092,174.61842
+6219,5949,47 Makora Rd,-36.834092,174.61842
 6220,5945,Opposite 90 Granville Dr (Party Bus Co School Stop),-36.82775,174.62411
 6223,3648,Upper Harbour Dr Cnr Shelter Dr (Party Bus Co School Stop),-36.7777,174.68792
 6224,3654,42 Upper Harbour Dr (Party Bus Co School Stop),-36.780705,174.67913
@@ -5697,7 +5696,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6901,2054,30 Smales Rd,-36.943318,174.89817
 6902,2043,Smales Rd Near Snave Pl,-36.942492,174.90209
 6903,2056,90 Smales Rd,-36.94194,174.90324
-6904,2047,39 Charles Prevost Dr,-37.008956,174.91028
 6905,2060,50 Charles Prevost Dr,-37.008561,174.91021
 6906,2049,71 Charles Prevost Dr,-37.006201,174.91368
 6907,2062,92 Charles Prevost Dr,-37.006129,174.91368
@@ -5807,6 +5805,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7028,4435,79 Schnapper Rock Rd (Hail And Ride),-36.754182,174.6955
 7031,4266,Opposite 87 Apollo Dr,-36.737617,174.7269
 7043,1052,6 Muripara Ave,-36.866073,174.70261
+7044,4537,Sh 16 Near Old North Rd,-36.787338,174.57748
 7045,1033,35 Trafalgar St,-36.916163,174.77172
 7046,1042,30 Trafalgar St,-36.916142,174.77189
 7047,2144,780 Great South Rd,-36.999131,174.8862
@@ -5884,7 +5883,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7159,2564,86 Elliot St,-37.06785,174.93109
 7160,2569,Opposite 86 Elliot St,-37.067747,174.9308
 7161,2165,19 Lexington Dr,-36.905399,174.91598
-7163,5932,Buckley Ave By Hastings Cres,-36.790233,174.66067
+7163,5932,Buckley Ave Near Hastings Cres,-36.790233,174.66067
 7170,0900,10 Wellesley St (Arrive),-36.850994,174.76489
 7172,2136,140 Chapel Rd,-36.967611,174.90571
 7173,4245,Coliseum Dr Near The Warehouse,-36.729416,174.70389
@@ -6001,7 +6000,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7313,6973,129 Hill Rd,-37.013037,174.91092
 7314,3634,40 Kath Hopper Dr,-36.590021,174.67846
 7315,1755,41 Fowlds Ave,-36.887563,174.73268
-7316,1627,Edsel St Outside Henderson Primary School,-36.880847,174.63509
+7316,1627,Edsel St By Henderson Primary School,-36.880847,174.63509
 7317,2403,279 Great South Rd Manurewa,-37.029038,174.90308
 7318,2416,Opp 287 Great South Rd Manurewa,-37.029889,174.90392
 7319,1759,Panmure Interchange Platform 3,-36.898447,174.85009
@@ -6060,11 +6059,27 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7395,1665,Hobsonville Point Rd By Onekiritea Rd,-36.792523,174.66179
 7397,1626,Township Rd Waitakere,-36.849115,174.54419
 7398,6251,111 Whitford Rd,-36.914115,174.92762
+7409,1636,102 Totara Rd,-36.78826,174.6144
+7410,1612,Universal Dr Opp Pak''N''Ave,-36.856902,174.62907
+7411,1614,Fred Taylor Dr Outside Z Petrol Station,-36.821174,174.60852
+7412,1625,307 Forest Hill Rd,-36.924864,174.58273
+7413,1623,Opp 362 Forest Hill Rd,-36.930347,174.58129
 7414,1700,70 Melrose Rd,-36.915824,174.75339
 7422,2418,124 Favona Rd,-36.948132,174.81171
 7424,3672,20 Porritt Ave,-36.814438,174.71553
 7428,4533,Awaroa Rd And Cableigh Cnr,-36.674111,174.45763
+7429,4535,Sh 16 Near Foster Rd,-36.766428,174.51225
+7431,4938,Sh 16 Near Taupaki,-36.787456,174.57746
+7432,4936,Awaroa Rd Near Sports Grounds,-36.67764,174.46117
+7434,5967,Universal Dr Outside Pak''N''Ave,-36.856993,174.62904
+7435,5993,50 Brigham Creek Rd,-36.79318,174.61623
+7436,5995,Fred Taylor Dr Opp Z Station,-36.821039,174.6085
+7437,5999,Totara Rd Near Karaka Rd,-36.777868,174.63038
+7438,5985,Opp 120 Hobsonville Rd,-36.799197,174.6458
+7439,5991,1 Puriri Rd,-36.780704,174.6364
 7442,8297,Opp 58 Tiverton Rd,-36.90574,174.70704
+7444,9968,50 Harvest Rd,-36.874977,174.61346
 7446,1317,Stonefields Ave By Stonemason Ave,-36.887171,174.84383
 7447,1753,137 Market Rd Opp St Cuthberts,-36.887322,174.77765
 7448,2630,83 Rosehill Drive,-37.075157,174.93323
+7450,2863,Opposite 1088 Paerata Rd,-37.170187,174.89796
