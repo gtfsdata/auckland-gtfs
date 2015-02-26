@@ -145,7 +145,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1451GW6013,AT,145,Henderson Hopper Via Mclaren Park & Sturges Rd,3,64FF00,000000
 1460BCS6225,AT,S014,Kingsway School To Manly,3,FFFFFF,000000
 1461BCS6226,AT,S014,Manly To Kingsway School,3,FFFFFF,000000
-1492GW4246,AT,149,New Lynn To Sturges Road Via Great North Road And Sunnyvale And Henderson,3,64FF00,000000
 1492GW6725,AT,149,New Lynn To Sturges Road Via Great North Road And Sunnyvale And Henderson,3,64FF00,000000
 1493GW5818,AT,149,Sturges Road To New Lynn,3,64FF00,000000
 1511GW6742,AT,15X,Henderson To Downtown Express Via Glen Eden,3,64FF00,000000
@@ -543,10 +542,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7359RTS6529,AT,S073H,Titirangi To Avondale College,3,FFFFFF,000000
 7360RTS6530,AT,S073H,Avondale College To Titirangi,3,FFFFFF,000000
 7451ML4386,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
-7452ML6601,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
 7452ML6620,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
 7453ML6690,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
-7457ML5745,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
 7502ML5599,AT,750,Britomart To Panmure Night Flexi Via Mission Bay/Long Dr And Glen Innes,3,00F0FF,000000
 7551ML6670,AT,755,Glen Innes To Britomart Via Mission Bay,3,00F0FF,000000
 7552ML4884,AT,755,Britomart To Glen Innes Via Mission Bay And Long Drive,3,00F0FF,000000
@@ -711,13 +708,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9522NS5178,AT,952,Midtown To Glenfield Shops Via Coronation Rd,3,0096FF,000000
 9531BH6507,AT,953,Windy Ridge To Midtown,3,FFDC78,960000
 9532BH5460,AT,953,Midtown To Windy Ridge,3,FFDC78,960000
-9541BH6751,AT,954,Wairau Road To Midtown,3,FFDC78,960000
-9542BH4077,AT,954,Midtown To Wairau Rd,3,FFDC78,960000
 9551BH6508,AT,955,Bayview To Midtown,3,FFDC78,960000
 9552BH0815,AT,955,Midtown To Bayview,3,FFDC78,960000
-9553BH6472,AT,955,Bayview To Midtown,3,FFDC78,960000
 9554BH5067,AT,955,Midtown To Bayview,3,FFDC78,960000
-9556BH6473,AT,955,Midtown To Bayview,3,FFDC78,960000
 9558BH6392,AT,955,Midtown To Bayview,3,FFDC78,960000
 9561RT6284,AT,956,Greenhithe To Midtown,3,FFDCDC,0000FF
 9562RT6183,AT,956,Midtown To Westgate,3,FFDCDC,0000FF
@@ -1118,6 +1111,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61382HES2991,AT,S322,Smales Rd To Somerville Intermediate & Howick College,3,FFFFFF,000000
 61383NSS2533,AT,S059,Rangitoto College To Browns Bay Shops(Via East Coast Rd),3,FFFFFF,000000
 61385RTS4500,AT,S062,Albany Primary To Unsworth,3,FFFFFF,000000
+61386MLS2798,AT,S392,Onehunga Transport Centre To Onehunga Schools,3,FFFFFF,000000
 61387RTS3023,AT,S060,Albany Senior High & Junior High To Unsworth,3,FFFFFF,000000
 61389WPS2601,AT,S060,Auckland Girls Grammar To Southmall,3,FFFFFF,000000
 61391NSS2583,AT,S060,St Johns School To Pinehill,3,FFFFFF,000000
@@ -1293,7 +1287,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
 17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
-17023VTW4962,AT,WEST,Henderson To Newmarket,2,FFFFFF,000000
 17111VTW4540,AT,WEST,Swanson To Morningside,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
@@ -1306,7 +1299,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
-21114VTS5737,AT,STH,Newmarket To Penrose,2,FFFFFF,000000
 23101VTS2068,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
 23102VTS2077,AT,STH,Britomart To Pukekohe Via Newmarket,2,FFFFFF,000000
 24101VTS2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
@@ -1314,13 +1306,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
 24106VTS2052,AT,STH,Otahuhu To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
-40017VTO6754,AT,ONE,Penrose To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
-41001VTS2480,AT,STH,Penrose To Britomart,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50061VTS4912,AT,STH,Britomart To Penrose Via Newmarket,2,FFFFFF,000000
-50064VTS4915,AT,STH,Penrose To Papkura,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
 50098VTE6755,AT,EAST,Britomart To Otahuhu Via Glen Innes,2,FFFFFF,000000
