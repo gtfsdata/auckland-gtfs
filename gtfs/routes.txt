@@ -711,7 +711,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9551BH6508,AT,955,Bayview To Midtown,3,FFDC78,960000
 9552BH0815,AT,955,Midtown To Bayview,3,FFDC78,960000
 9554BH5067,AT,955,Midtown To Bayview,3,FFDC78,960000
-9558BH6392,AT,955,Midtown To Bayview,3,FFDC78,960000
 9561RT6284,AT,956,Greenhithe To Midtown,3,FFDCDC,0000FF
 9562RT6183,AT,956,Midtown To Westgate,3,FFDCDC,0000FF
 9563RT6184,AT,956,Westgate To Midtown,3,FFDCDC,0000FF
@@ -1306,9 +1305,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
 24106VTS2052,AT,STH,Otahuhu To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
+40017VTO6754,AT,ONE,Penrose To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
+40028VTO6757,AT,ONE,Britomart To Penrose,2,FFFFFF,000000
+41001VTS2480,AT,STH,Penrose To Britomart,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
+50061VTS4912,AT,STH,Britomart To Penrose Via Newmarket,2,FFFFFF,000000
+50064VTS4915,AT,STH,Penrose To Papkura,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
 50098VTE6755,AT,EAST,Britomart To Otahuhu Via Glen Innes,2,FFFFFF,000000
