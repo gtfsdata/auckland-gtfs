@@ -157,7 +157,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1542GW6716,AT,154,Britomart To Henderson Via Glen Eden,3,64FF00,000000
 1544GW6744,AT,154,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
 1559RTS6631,AT,015C,Glendene To Avondale College,3,FFFFFF,000000
-1560RTS6520,AT,S015C,Avondale College To Glendene,3,FFFFFF,000000
+1560RTS6768,AT,S015C,Avondale College To Glendene,3,FFFFFF,000000
 1561GW6064,AT,156,Forest Hill To New Lynn Via Glen Eden,3,64FF00,000000
 1562GW6745,AT,156,New Lynn To Forest Hill Via Glen Eden,3,64FF00,000000
 1564GWS6066,AT,S156B,Avondale College To New Lynn,3,FFFFFF,000000
@@ -326,7 +326,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3804PAC6302,AT,380,Onehunga To Manukau City Via Airport,3,FFFFFF,0064B4
 3805PAC6395,AT,380,Manukau City To International Airport,3,FFFFFF,0064B4
 3806PAC6304,AT,380,International Airport To Manukau City,3,FFFFFF,0064B4
-3921ML6323,AT,392,Te Papapa To Midtown,3,00F0FF,000000
+3921ML6758,AT,392,Te Papapa To Midtown,3,00F0FF,000000
 3922ML6576,AT,392,Midtown To Te Papapa,3,00F0FF,000000
 3924ML6660,AT,392,Newmarket To Te Papapa,3,00F0FF,000000
 4091WP5893,AT,409,Seaside Park To Otahuhu,3,B4FFFF,000000
@@ -461,7 +461,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5543HE6358,AT,554X,Bucklands Beach To Britomart Express Via Half Moon Bay,3,960000,FFFFFF
 5551RT4512,AT,555,Albany Station To Highbury,3,FFDCDC,0000FF
 5552RT5235,AT,555,Highbury To Albany Station,3,FFDCDC,0000FF
-5601RT3241,AT,560,Glenfield To Massey University,3,FFDCDC,0000FF
+5601RT6774,AT,560,Glenfield To Massey University,3,FFDCDC,0000FF
 5602RT3315,AT,560,Massey University To Glenfield,3,FFDCDC,0000FF
 5611HE4930,AT,561,Botany Town Centre To Weymouth Via Cavendish Drv & Highbrook,3,960000,FFFFFF
 5612HE5861,AT,561,Weymouth To East Tamaki Via Cavendish Drv & Highbrook,3,960000,FFFFFF
@@ -541,23 +541,23 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7358BHS6228,AT,S073,Wairau Intermediate To Birkdale,3,FFFFFF,000000
 7359RTS6529,AT,S073H,Titirangi To Avondale College,3,FFFFFF,000000
 7360RTS6530,AT,S073H,Avondale College To Titirangi,3,FFFFFF,000000
-7451ML4386,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
-7452ML6620,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
-7453ML6690,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
-7502ML5599,AT,750,Britomart To Panmure Night Flexi Via Mission Bay/Long Dr And Glen Innes,3,00F0FF,000000
-7551ML6670,AT,755,Glen Innes To Britomart Via Mission Bay,3,00F0FF,000000
-7552ML4884,AT,755,Britomart To Glen Innes Via Mission Bay And Long Drive,3,00F0FF,000000
-7561ML6602,AT,756,Panmure To Britomart Via Glen Innes And Mission Bay,3,00F0FF,000000
-7562ML5601,AT,756,Britomart To Panmure Via Mission Bay And Glen Innes,3,00F0FF,000000
-7571ML6603,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
-7572ML5603,AT,757,Britomart To Otahuhu Via Mission Bay And Glen Innes And Panmure,3,00F0FF,000000
+7451ML6759,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
+7452ML6760,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
+7453ML6769,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
+7502ML6761,AT,750,Britomart To Panmure Night Flexi Via Mission Bay/Long Dr And Glen Innes,3,00F0FF,000000
+7551ML6770,AT,755,Glen Innes To Britomart Via Mission Bay,3,00F0FF,000000
+7552ML6771,AT,755,Britomart To Glen Innes Via Mission Bay And Long Drive,3,00F0FF,000000
+7561ML6762,AT,756,Panmure To Britomart Via Glen Innes And Mission Bay,3,00F0FF,000000
+7562ML6763,AT,756,Britomart To Panmure Via Mission Bay And Glen Innes,3,00F0FF,000000
+7571ML6764,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
+7572ML6765,AT,757,Britomart To Otahuhu Via Mission Bay And Glen Innes And Panmure,3,00F0FF,000000
 7603NS5121,AT,76X,Long Bay To Midtown Express,3,0096FF,000000
 7604NS5166,AT,76X,Midtown To Long Bay Express,3,0096FF,000000
 7671ML6604,AT,767,Glendowie South To Britomart  Via Tamaki Drive,3,00F0FF,000000
-7672ML1442,AT,767,Britomart To Glendowie South Via Tamaki Drive,3,00F0FF,000000
+7672ML6766,AT,767,Britomart To Glendowie South Via Tamaki Drive,3,00F0FF,000000
 7681ML6671,AT,768,Glendowie To Britomart  Via Tamaki Drive,3,00F0FF,000000
 7691ML6605,AT,769,Glendowie North To Brtomart  Via Tamaki Drive,3,00F0FF,000000
-7692ML0462,AT,769,Britomart To Glendowie North Via Tamaki Drive,3,00F0FF,000000
+7692ML6767,AT,769,Britomart To Glendowie North Via Tamaki Drive,3,00F0FF,000000
 7701ML6606,AT,770,St Heliers To Newmarket Via Glendowie,3,00F0FF,000000
 7702ML5895,AT,770,Newmarket To St Heliers,3,00F0FF,000000
 7703ML6672,AT,770,St Heliers To Auckland Grammar School,3,00F0FF,000000
@@ -884,7 +884,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61131NSS2527,AT,S013,Rangitoto College To Unsworth Heights,3,FFFFFF,000000
 61132RTS6532,AT,S021,Henderson Valley To Kelston Schools,3,FFFFFF,000000
 61134MLS5541,AT,S021G,St Heliers To Baradene College,3,FFFFFF,000000
-61135BHS2665,AT,S014,Northcote College To Beach Haven,3,FFFFFF,000000
+61135BHS6772,AT,S014,Northcote College To Beach Haven,3,FFFFFF,000000
 61136BCS2922,AT,S022,Gulf Harbour To Stella Maris School,3,FFFFFF,000000
 61137MLS3104,AT,S014,Mt Albert Grammar To Downtown,3,FFFFFF,000000
 61138HES2898,AT,S022,Panmure To Baradene College.,3,FFFFFF,000000
@@ -1182,7 +1182,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61497WAS4322,AT,S094,Waiheke Primary To Palm Rd,3,FFFFFF,000000
 61499BCS6452,AT,S010,Kingsway School To Hobsonville,3,FFFFFF,000000
 61501BCS3040,AT,S011,Glenfield To Kingsway School,3,FFFFFF,000000
-61502BCS6453,AT,S011,Kingsway School To Glenfield,3,FFFFFF,000000
+61502BCS6773,AT,S011,Kingsway School To Glenfield,3,FFFFFF,000000
 61507RTS2920,AT,S116,Albany Junior High To Greenhithe,3,FFFFFF,000000
 61509RTS2986,AT,S116X,Albany Junior High To Greenhithe (Express),3,FFFFFF,000000
 61511RTS3025,AT,S116,Albany Junior High To Greenhithe,3,FFFFFF,000000

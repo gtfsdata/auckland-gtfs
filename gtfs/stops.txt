@@ -2047,11 +2047,9 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2252,7884,Opposite 108 Coates Ave,-36.857835,174.81668
 2253,7886,53 Coates Ave,-36.856283,174.81465
 2254,7312,Tamaki Drive By Ngapipi Rd (north Side),-36.852372,174.80609
-2255,7314,Tamaki Drv Near Royal Akoranga Yacht Club,-36.851064,174.81148
-2256,7316,Tamaki Drv Opp Okahu St,-36.851751,174.81401
+2256,7316,12 Tamaki Dr,-36.85134,174.81329
 2257,7318,Tamaki Drive Opposite Kitemoana St,-36.849624,174.8183
 2258,7320,Tamaki Drv Opp Kelly Tarltons,-36.846606,174.81712
-2259,0037,Tamaki Drv Near Okahu Bay Wharf,-36.845329,174.8175
 2260,7325,Tamaki Drv Opposite Hapimana St,-36.845681,174.82121
 2261,7324,Tamaki Drv Near Tamaki Yacht Club,-36.844657,174.82522
 2262,7326,Tamaki Drv Opp Atkin Ave,-36.847605,174.82947
@@ -2167,7 +2165,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2374,7323,Tamaki Drv Near Kelly Tarltons,-36.847724,174.81765
 2375,7321,Tamaki Drive Near Kitemoana St,-36.849394,174.81858
 2376,7319,Tamaki Drv Near Okahu St,-36.852018,174.81425
-2377,7317,Tamaki Drv Opposite Royal Akorana Yacht Club,-36.851164,174.81142
 2378,7315,Tamaki Drive Near Ngapipi Rd,-36.852257,174.80702
 2379,7778,234 Orakei Rd,-36.863364,174.81058
 2380,7769,Opposite 234 Orakei Rd,-36.86339,174.81068
@@ -2463,7 +2460,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2704,8333,169 Blockhouse Bay Rd,-36.898677,174.70114
 2705,1416,12 Wairau Ave,-36.89504,174.6867
 2707,8489,Opposite 47 Wairau Ave,-36.892783,174.68524
-2708,1471,45 Wairau Ave,-36.892791,174.68532
 2710,8468,64 Riversdale Rd,-36.893335,174.68278
 2711,8476,122 Riversdale Rd,-36.894825,174.67918
 2713,1662,18 Maple St,-36.893337,174.67812
@@ -4623,7 +4619,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5101,7059,305 Queen St,-36.853426,174.76334
 5102,7057,The Civic Queen St.,-36.851357,174.76416
 5103,7055,The Civic Queen St,-36.851112,174.76428
-5104,7086,22 Wellesley St,-36.850785,174.76391
+5104,7086,22 Wellesley St West,-36.850785,174.76391
 5106,7076,Mayoral Drive By Aotea Centre,-36.851162,174.76236
 5107,7083,Mayoral Drive Opposite Aotea Centre,-36.851186,174.76197
 5110,7056,Outside St James Queen St.,-36.851671,174.76424
@@ -4929,7 +4925,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5714,3588,Opposite N Ridge Plaza Don Mckinnon Dr,-36.729481,174.71108
 5715,3187,Hugh Green & Carrowmore,-36.727604,174.71792
 5717,7028,Commerce Street By Customs Street,-36.845448,174.76781
-5727,1094,10 Wellesley St,-36.851003,174.7649
+5727,1094,10 Wellesley St East,-36.851003,174.7649
 5755,7416,498 Remuera Road,-36.881332,174.80387
 5756,7418,524 Remuera Rd,-36.881647,174.80605
 5757,7420,536 Remuera Road,-36.882101,174.80747
@@ -5383,7 +5379,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6398,6961,205 Shirley Road,-36.972569,174.85131
 6399,6759,247a Shirley Road,-36.969868,174.85428
 6405,5438,22 Chadlington Ave,-36.88262,174.60867
-6408,3910,63 Birkenhead Ave.,-36.81108,174.72594
 6412,9821,250 Taniwha St (arrive),-36.878053,174.85461
 6415,6220,544 Chapel Road,-36.938898,174.91367
 6416,6295,523 Chapel Road,-36.939358,174.91366
@@ -5473,7 +5468,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6544,3060,124 Glamorgan Drv,-36.701497,174.73719
 6545,5892,4 Vodanovich Rd,-36.862929,174.64505
 6558,3855,43 Pupuke Rd,-36.802611,174.72962
-6559,4501,Silverdale Park And Ride,-36.614693,174.67877
+6559,4501,Silverdale St Outside Stella Maris,-36.614693,174.67877
 6578,0574,Celtic Cres Opp Innisfree Dr(Hail & Ride),-36.888159,174.82075
 6580,0575,Celtic Cres By Raphoe Pl(Hail & Ride),-36.889995,174.8241
 6582,5790,4 Sel Peacock Dr,-36.873528,174.62869
@@ -5845,7 +5840,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7092,3704,22 Ocean View Rd,-36.795433,174.74372
 7093,4101,13 Kaipatiki Rd,-36.781231,174.71963
 7095,1043,111 Valley Rd,-36.876103,174.75178
-7097,8186,29 Rockfield Rd,-36.903438,174.80409
 7098,2161,149 Kirkbride Rd,-36.970008,174.7858
 7099,2163,415 Massey Road,-36.96934,174.82183
 7100,4194,49 Stredwick Drive,-36.696681,174.73352
@@ -5875,16 +5869,16 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7148,1707,Customs St East Opposite Fort Lane (Arrive),-36.84483,174.76753
 7149,1096,8 Grafton Rd,-36.852467,174.77065
 7151,1077,65 St Lukes Rd,-36.883563,174.73198
-7152,1079,137 Wellesley St,-36.848835,174.75751
+7152,1079,137 Wellesley St West,-36.848835,174.75751
 7154,1088,Wellesley St Opposite Albion Hotel,-36.849848,174.76059
-7155,1090,Opposite 103 Wellesley St,-36.849403,174.75914
+7155,1090,Opposite 103 Wellesley St West,-36.849403,174.75914
 7156,9015,Customs St Near Queens Arcade (Arrive),-36.844864,174.76714
 7158,5934,Buckley Ave Nr Corsair St,-36.792167,174.65859
 7159,2564,86 Elliot St,-37.06785,174.93109
 7160,2569,Opposite 86 Elliot St,-37.067747,174.9308
 7161,2165,19 Lexington Dr,-36.905399,174.91598
 7163,5932,Buckley Ave Near Hastings Cres,-36.790233,174.66067
-7170,0900,10 Wellesley St (Arrive),-36.850994,174.76489
+7170,0900,10 Wellesley St East (Arrive),-36.850994,174.76489
 7172,2136,140 Chapel Rd,-36.967611,174.90571
 7173,4245,Coliseum Dr Near The Warehouse,-36.729416,174.70389
 7174,2174,8 Browns Rd,-37.009815,174.88907
