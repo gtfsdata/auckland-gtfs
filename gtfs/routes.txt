@@ -1064,7 +1064,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61324HES2894,AT,S088,Pakuranga To Sancta Maria College,3,FFFFFF,000000
 61325NSS2588,AT,S049,Westlake Boys To Manly,3,FFFFFF,000000
 61326HES5954,AT,S089,Botany Downs To Sancta Maria College,3,FFFFFF,000000
-61327RTS2936,AT,S050,West Harbour To Holy Cross School,3,FFFFFF,000000
 61329WPS6540,AT,S050,Remuera Intermediate To Drury,3,FFFFFF,000000
 61330BCS3044,AT,S009,Torbay To Kingsway School,3,FFFFFF,000000
 61331WPS6541,AT,S050,Remuera Schools To Papakura,3,FFFFFF,000000
@@ -1283,14 +1282,11 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
 10103VTW6417,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
-17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
 17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
-17111VTW4540,AT,WEST,Swanson To Morningside,2,FFFFFF,000000
-17112VTW4541,AT,WEST,Morningside To Waitakere,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
-19016VTW4542,AT,WEST,Waitakere To Morningside,2,FFFFFF,000000
+19001VTW2153,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
 20085VTS6418,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 20166VTS6420,AT,STH,Britomart To Pukekohe Via Newmarket,2,FFFFFF,000000
@@ -1300,6 +1296,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
+21111VTS3799,AT,STH,Papakura To Newmarket,2,FFFFFF,000000
 24101VTS2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
 24102VTS2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
 24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
@@ -1308,9 +1305,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
+50074VTW4942,AT,WEST,Swanson To Grafton,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50098VTE6755,AT,EAST,Britomart To Otahuhu Via Glen Innes,2,FFFFFF,000000
-50100VTW5673,AT,WEST,Morningside To Swanson,2,FFFFFF,000000
-50113VTW6777,AT,WEST,Kingsland To Britomart Not Mt Eden,2,FFFFFF,000000
+50077VTS4945,AT,STH,Britomart To Newmarket,2,FFFFFF,000000
+50097VTE6778,AT,EAST,Manukau To Newmarket Via Glen Innes (Not Britomart),2,FFFFFF,000000
+51103VTO3729,AT,ONE,Onehunga To Newmarket,2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000

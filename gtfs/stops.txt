@@ -2351,7 +2351,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2570,5618,58 Waimumu Rd,-36.846977,174.62101
 2571,5620,92 Waimumu Rd,-36.846602,174.6184
 2572,5622,128 Waimumu Rd,-36.845315,174.61413
-2573,5624,194 Waimumu Rd,-36.8446,174.609
 2574,5599,95 Reynella Dr,-36.842951,174.61012
 2575,5625,71 Triangle Rd,-36.836731,174.61083
 2576,5627,27 Triangle Rd,-36.836283,174.60709
@@ -5283,7 +5282,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6216,5933,Makora Rd Nr Marbella Dr,-36.836813,174.61788
 6217,4251,123 Upper Harbour Dr,-36.77787,174.68747
 6219,5949,47 Makora Rd,-36.834092,174.61842
-6220,5945,Opposite 90 Granville Dr (Party Bus Co School Stop),-36.82775,174.62411
 6223,3648,Upper Harbour Dr Cnr Shelter Dr (Party Bus Co School Stop),-36.7777,174.68792
 6224,3654,42 Upper Harbour Dr (Party Bus Co School Stop),-36.780705,174.67913
 6225,3660,66 Upper Harbour Dr (Party Bus Co School Stop),-36.780245,174.68086
