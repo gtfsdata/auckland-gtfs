@@ -842,7 +842,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61078NSS2539,AT,S014,Mairangi Bay To Westlake Schools,3,FFFFFF,000000
 61079MLS2729,AT,S008,Orakei Primary To Kohimarama,3,FFFFFF,000000
 61082MLS6364,AT,S015,St Heliers To Epsom Schools,3,FFFFFF,000000
-61083BHS6788,AT,S009,Westlake Girls To Verrans Corner,3,FFFFFF,000000
+61083BHS6791,AT,S009,Westlake Girls To Verrans Corner,3,FFFFFF,000000
+61083BHS6792,AT,S009,Westlake Girls To Verrans Corner,3,FFFFFF,000000
 61084HES4494,AT,S016,Howick To Sacred Heart College,3,FFFFFF,000000
 61085RTS2616,AT,S009,Blockhouse Bay Intermediate To Green Bay,3,FFFFFF,000000
 61086NSS5940,AT,S016B,Rothesay Bay Shops To Westlake Schools,3,FFFFFF,000000
@@ -1174,7 +1175,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61479RTS2517,AT,S083,Takapuna Grammar To Devonport,3,FFFFFF,000000
 61481RTS2518,AT,S084,Belmont Intermediate To Devonport,3,FFFFFF,000000
 61483MLS2698,AT,S084C,St Josephs School (Onehunga) To Mangere Town Centre,3,FFFFFF,000000
-61485HES6700,AT,S085,St Marks School To Pakuranga,3,FFFFFF,000000
+61485HES6700,AT,S085,Farm Cove Int And St Marks To Pakuranga,3,FFFFFF,000000
 61487RTS5962,AT,S087,Westlake Schools To Stanley Bay,3,FFFFFF,000000
 61489HES2895,AT,S088,Sancta Maria College To Pakuranga,3,FFFFFF,000000
 61491HES3959,AT,S089,Sancta Maria College To Botany Downs,3,FFFFFF,000000
