@@ -466,9 +466,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5601RT6774,AT,560,Glenfield To Massey University,3,FFDCDC,0000FF
 5602RT3315,AT,560,Massey University To Glenfield,3,FFDCDC,0000FF
 5611HE4930,AT,561,Botany Town Centre To Weymouth Via Cavendish Drv & Highbrook,3,960000,FFFFFF
-5612HE5861,AT,561,Weymouth To East Tamaki Via Cavendish Drv & Highbrook,3,960000,FFFFFF
+5612HE6794,AT,561,Weymouth To East Tamaki Via Cavendish Drv & Highbrook,3,960000,FFFFFF
 5613HE5862,AT,561,Panmure To Homai Via Cavendish Drv & Highbrook,3,960000,FFFFFF
-5614HE4932,AT,561,Homai To Panmure Via Cavendish Drv & Highbrook,3,960000,FFFFFF
+5614HE6795,AT,561,Homai To Panmure Via Cavendish Drv & Highbrook,3,960000,FFFFFF
 5651HE6192,AT,565,Half Moon Bay To Botany Town Centre Via Farm Cove,3,960000,FFFFFF
 5652HE6193,AT,565,Botany Town Centre To Half Moon Bay Via Farm Cove,3,960000,FFFFFF
 5658RTS6526,AT,S056E,Avondale College To Forest Hill,3,FFFFFF,000000
@@ -536,7 +536,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7256RTS6528,AT,S072D,Avondale College To Titirangi Village,3,FFFFFF,000000
 7311LNK6597,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
 7312LNK6598,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
-7313LNK6599,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
+7313LNK6793,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
 7314LNK6619,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
 7315LNK6600,AT,OUT,Outer Link Clockwise,3,FFFFFF,000000
 7355BHS6227,AT,S073,Birkdale To Wairau Intermediate,3,FFFFFF,000000
@@ -735,7 +735,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9665BH6552,AT,966,Highbury Shops To Newmarket,3,FFDC78,960000
 9711BH6514,AT,971,Chatswood To Auckland University,3,FFDC78,960000
 9712BH2303,AT,971,Auckland University To Chatswood,3,FFDC78,960000
-9721BH6515,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
+9721BH6796,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
 9722BH0707,AT,972,Auckland University To Beach Haven Wharf,3,FFDC78,960000
 9731BH6476,AT,973,Beach Haven To Midtown,3,FFDC78,960000
 9732BH1164,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
@@ -1284,7 +1284,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
-10103VTW6417,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
 17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
 17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
@@ -1302,7 +1301,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
-21111VTS3799,AT,STH,Papakura To Newmarket,2,FFFFFF,000000
 24101VTS2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
 24102VTS2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
 24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
@@ -1311,10 +1309,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50074VTW4942,AT,WEST,Swanson To Grafton,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50077VTS4945,AT,STH,Britomart To Newmarket,2,FFFFFF,000000
-50097VTE6778,AT,EAST,Manukau To Newmarket Via Glen Innes (Not Britomart),2,FFFFFF,000000
-51103VTO3729,AT,ONE,Onehunga To Newmarket,2,FFFFFF,000000
+50083VTW5185,AT,WEST,Kingsland To Britomart (Not Stopping At Newmarket),2,FFFFFF,000000
+87777VTW4585,AT,WEST,Britomart To Kingsland (Not Stopping At Newmarket),2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000

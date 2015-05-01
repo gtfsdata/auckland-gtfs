@@ -1116,7 +1116,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 1199,6893,87 Kerrs Rd,-37.005235,174.87882
 1200,6889,59 Druces Rd,-37.003364,174.87965
 1201,6902,26 Druces Rd,-37.001154,174.8787
-1202,6908,Opposite 87 Kerrs Rd,-37.005345,174.87872
+1202,6908,70 Kerrs Rd,-37.006077,174.87656
 1205,2089,3 Ash Rd,-37.002761,174.86557
 1206,6538,36 Cavendish Drv,-36.988938,174.87525
 1207,6963,56 Cavendish Drv,-36.988031,174.8787
@@ -4619,7 +4619,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5103,7055,The Civic Queen St,-36.851112,174.76428
 5104,7086,22 Wellesley St West,-36.850785,174.76391
 5106,7076,Mayoral Drive By Aotea Centre,-36.851162,174.76236
-5107,7083,Mayoral Drive Opposite Aotea Centre,-36.851186,174.76197
+5107,7083,Mayoral Drive Opposite Aotea Centre,-36.851833,174.76099
 5110,7056,Outside St James Queen St.,-36.851671,174.76424
 5111,7058,Outside St James Queen St,-36.851871,174.76417
 5112,7060,380 Queen St,-36.853632,174.76338
@@ -5326,7 +5326,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6302,4339,1 Verbena Rd,-36.80579,174.70679
 6303,4307,41 Verbena Rd,-36.802705,174.70869
 6304,4389,91 Verbena Rd,-36.798359,174.70936
-6305,4442,Verbena Rd Near Vandeleur Ave,-36.794693,174.70919
 6306,4393,57 Lauderdale Rd,-36.790284,174.70368
 6307,4444,60 Lauderdale Rd,-36.790072,174.70341
 6308,4391,7 Lauderdale Rd,-36.79261,174.707
@@ -6075,3 +6074,4 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7448,2630,83 Rosehill Drive,-37.075157,174.93323
 7450,2863,Opposite 1088 Paerata Rd,-37.170187,174.89796
 7451,2139,Opp 56 Chapel Rd,-36.978578,174.90279
+7452,2199,55 Ash Rd,-37.006718,174.86767
