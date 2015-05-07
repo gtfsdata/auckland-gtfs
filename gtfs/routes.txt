@@ -19,13 +19,13 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0102ML4552,AT,010,Wynyard Quarter To Onehunga Via Unitec,3,00F0FF,000000
 0111ML4180,AT,011,Onehunga To St Lukes Via Landscape Rd,3,00F0FF,000000
 0112ML6627,AT,011,St Lukes To Onehunga Via Landscape Rd,3,00F0FF,000000
-0157MBS5987,AT,S001K,Everglades To Manurewa High And Greenmeadows,3,FFFFFF,000000
+0157MBS6798,AT,S001K,Everglades To Manurewa High And Greenmeadows,3,FFFFFF,000000
 0170MBS5988,AT,S001K,Greenmeadows Intermediate & Manurewa High To Everglades,3,FFFFFF,000000
 0201ML6555,AT,020,Westmere To Britomart Via Richmond Rd,3,00F0FF,000000
 0202ML5257,AT,020,Britomart To Westmere Via Richmond Rd,3,00F0FF,000000
 0203ML6628,AT,020X,Westmere To Britomart Express,3,00F0FF,000000
 0204ML5260,AT,020X,Britomart To Westmere Express,3,00F0FF,000000
-0255MBS5989,AT,S002M,Clendon To Manurewa High & Greenmeadows,3,FFFFFF,000000
+0255MBS6799,AT,S002M,Clendon To Manurewa High & Greenmeadows,3,FFFFFF,000000
 0262MBS5990,AT,S002M,Greenmeadows Intermediate And Manurewa High To Clendon,3,FFFFFF,000000
 0301ML6556,AT,030,Pt Chevalier To Britomart Via Williamson Ave,3,00F0FF,000000
 0302ML6126,AT,030,Britomart To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
@@ -452,10 +452,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5522HE6001,AT,552,Britomart To Bucklands Beach Via Newmarket,3,960000,FFFFFF
 5523HE5617,AT,552,Bucklands Beach To Britomart Via Newmarket And Half Moon Bay,3,960000,FFFFFF
 5524HE6002,AT,552,Britomart To Bucklands Beach Via Newmarket And Half Moon Bay,3,960000,FFFFFF
-5525HE5695,AT,552,Bucklands Beach To Panmure,3,960000,FFFFFF
+5525HE6800,AT,552,Bucklands Beach To Panmure,3,960000,FFFFFF
 5526HE6003,AT,552,Panmure To Bucklands Beach,3,960000,FFFFFF
-5527HE5696,AT,552,Bucklands Beach To Panmure Via Half Moon Bay,3,960000,FFFFFF
-5529HE5691,AT,552,Bucklands Beach To Pakuranga Plaza,3,960000,FFFFFF
+5527HE6801,AT,552,Bucklands Beach To Panmure Via Half Moon Bay,3,960000,FFFFFF
+5529HE6797,AT,552,Bucklands Beach To Pakuranga Plaza,3,960000,FFFFFF
 5531HE6354,AT,553X,Eastern Beach To Britomart Express,3,960000,FFFFFF
 5532HE6355,AT,553X,Britomart To Eastern Beach Express,3,960000,FFFFFF
 5541HE6356,AT,554X,Bucklands Beach To Britomart Express,3,960000,FFFFFF
@@ -727,8 +727,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9582BH6550,AT,958,Midtown To Constellation Stn,3,FFDC78,960000
 9603BH5933,AT,960,Northcote Point To Birkenhead Wharf,3,FFDC78,960000
 9604BH0695,AT,960,Highbury To Northcote Point,3,FFDC78,960000
-9621NS2266,AT,962,Albany Station To Newmarket,3,0096FF,000000
-9622NS4294,AT,962,Newmarket To Albany Station,3,0096FF,000000
+9621NS6802,AT,962,Albany Station To Newmarket,3,0096FF,000000
+9622NS6803,AT,962,Newmarket To Albany Station,3,0096FF,000000
 9661BH6512,AT,966,Beach Haven To Newmarket Via Ponsonby,3,FFDC78,960000
 9662BH6513,AT,966,Newmarket To Beach Haven Via Ponsonby,3,FFDC78,960000
 9664BH6551,AT,966,Newmarket To Highbury Shops,3,FFDC78,960000
@@ -1284,9 +1284,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
-17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
-17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
 18003VTW3537,AT,WEST,Swanson To Kingsland,2,FFFFFF,000000

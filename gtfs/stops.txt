@@ -5123,7 +5123,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6005,4926,Hatfields Bridge,-36.562087,174.6962
 6006,1506,St Cuthberts Bus Bay,-36.886838,174.77859
 6007,1508,Margot Street,-36.878957,174.7777
-6008,1510,St Kentigern School,-36.864299,174.80214
+6008,1510,St Kentigern School,-36.864748,174.80174
 6009,4432,Margot Street And Clyde Street,-36.878424,174.77779
 6010,0434,Albany Primary Bus Stop,-36.736805,174.69101
 6012,3336,Opposite 79 Hastings Rd,-36.739441,174.74386
@@ -5297,9 +5297,9 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6242,2259,Sancta Maria Bus Bay,-36.959696,174.90479
 6247,3803,29 James Street,-36.77016,174.71982
 6248,5596,Makora Rd Opp Kasia Cl,-36.835827,174.61808
-6249,1453,St Kentigern,-36.864382,174.80205
+6249,1453,St Kentigern Near Victoria Ave,-36.864311,174.80036
 6250,2019,Wattle Farm Rd By Golf Club,-37.048932,174.88861
-6251,4530,Ferry Road,-36.644403,174.74084
+6251,4530,Ferry Road,-36.643667,174.74172
 6253,2340,Redcastle Crescent,-36.943169,174.90302
 6256,3640,Albany Junior High School,-36.747667,174.69148
 6257,1451,Ascot Ave For Remuera Intermediate (West Side),-36.885799,174.80142
