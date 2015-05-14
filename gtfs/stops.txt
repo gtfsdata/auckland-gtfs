@@ -5250,18 +5250,14 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6179,2277,Greenmeadows Intermediate,-37.029211,174.90708
 6180,0515,James Cook High,-37.034793,174.88587
 6181,2370,Scotts Rd For Manurewa East School,-37.022471,174.90849
-6183,2352,Sturdee Road For Manurewa High,-37.012207,174.88427
 6184,6239,Opposite 110 Golfland Drive,-36.925537,174.90873
 6185,6294,Ti Rakau Dr Near Te Irirangi Dr,-36.928903,174.91157
 6186,2354,Orams Rd By Mobil (H&e School Stop),-37.009073,174.89083
 6187,2249,Orams Rd Opp Mobil (H&e School Stop),-37.009181,174.8908
 6188,6632,102 Hyperion Dr,-37.024938,174.92242
-6189,2330,80 Maich Road,-37.015396,174.89004
 6192,6970,40 Stratford Rd,-37.013975,174.91899
 6193,2251,Lincoln - Myers (H&e School Stop),-37.02735,174.90429
-6194,0522,Manurewa Central School,-37.020713,174.89626
 6195,2356,Manurewa Intermediate Bus Bay,-37.02247,174.88546
-6196,2372,Manuroa - Great South (H&e School Stop),-37.040013,174.91557
 6197,2045,9 Charles Prevost Dr,-37.011373,174.91221
 6199,6988,522 Porchester Rd,-37.019071,174.92085
 6200,2253,Manuroa Opp Oakleigh (H&e School Stop),-37.03936,174.91833
