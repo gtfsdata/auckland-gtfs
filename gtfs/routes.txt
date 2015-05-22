@@ -180,7 +180,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1953GW6746,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,64FF00,000000
 1953UE6746,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,DCC8FF,C80000
 1954UE6075,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
+1955UE6828,AT,195,Blockhouse Bay To Downtown,3,DCC8FF,C80000
 1956GW6125,AT,195,Downtown To New Lynn Via Green Bay,3,64FF00,000000
+1956UE6125,AT,195,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
 1958GW6747,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,64FF00,000000
 2091UE6691,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
 2092UE6079,AT,209,Downtown To Titirangi Via Green Bay,3,DCC8FF,C80000
@@ -931,7 +933,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61180NSS2541,AT,S033,Long Bay To Westlake Schools,3,FFFFFF,000000
 61181MLS2791,AT,S020F,Western Springs College To Herne Bay,3,FFFFFF,000000
 61183NSS5945,AT,S020,Westlake Schools To Albany,3,FFFFFF,000000
-61184WPS2752,AT,S035,Mt Wellington To Otahuhu College,3,FFFFFF,000000
+61184WPS6827,AT,S035,Mt Wellington To Otahuhu College,3,FFFFFF,000000
 61185BCS2923,AT,S021,Stella Maris School To Orewa Via Hatfields Beach,3,FFFFFF,000000
 61186NSS5946,AT,S037,Glenfield To Westlake Schools,3,FFFFFF,000000
 61187HES2844,AT,S021,Sacred Heart College To Bucklands Beach,3,FFFFFF,000000
