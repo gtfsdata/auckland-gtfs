@@ -423,7 +423,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5223WP5610,AT,522,Mt Wellington To Britomart  Via Panmure Tc,3,B4FFFF,000000
 5224ML6580,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
 5226ML6581,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
-5231WP6326,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,000000
+5231WP6829,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,000000
 5247WP6468,AT,N47,Civic Centre To Papakura Via Great South Rd,3,B4FFFF,000000
 5250HE5586,AT,N50,Civic Centre To Pakuranga And Howick,3,960000,FFFFFF
 5255RT1790,AT,N05,Civic Centre To Te Atatu And Massey,3,FFDCDC,0000FF
@@ -598,10 +598,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8043RT6615,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
 8045RT6616,AT,804,Bayswater To Takapuna,3,FFDCDC,0000FF
 8047RT6621,AT,804,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
-8131NS4548,AT,813,Devonport To Takapuna Via Narrow Neck,3,0096FF,000000
 8131RT4548,AT,813,Devonport To Takapuna Via Narrow Neck,3,FFDCDC,0000FF
-8132NS4874,AT,813,Takapuna To Devonport Via Narrow Neck,3,0096FF,000000
 8132RT4874,AT,813,Takapuna To Devonport Via Narrow Neck,3,FFDCDC,0000FF
+8133NS6830,AT,813,Devonport To Takapuna Via Narrow Neck,3,0096FF,000000
+8134NS6831,AT,813,Takapuna To Devonport Via Narrow Neck,3,0096FF,000000
 8151RT0475,AT,815,Devonport To Westwell Rd Via Ngataringa Rd,3,FFDCDC,0000FF
 8152RT0476,AT,815,Westwell Rd To Devonport Via Ngataringa Rd,3,FFDCDC,0000FF
 8201NS0794,AT,820,Takapuna To Midtown,3,0096FF,000000
@@ -1279,7 +1279,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
-17014VTW2474,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
