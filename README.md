@@ -7,7 +7,7 @@ system.
 This is best used in a daily crontab.
 
 You shouldn't need to run this script yourself though, I already provide a
-repository at <https://github.com/micolous/auckland-gtfs>.  It has data
+repository at <https://github.com/gtfsdata/auckland-gtfs>.  It has data
 starting from January 2015.
 
 Copyright 2011,2015 Michael Farrell <http://micolous.id.au>
