@@ -174,6 +174,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1724GW6116,AT,172X,Britomart To Glen Eden Via Titirangi,3,64FF00,000000
 1759RTS6521,AT,S017,Te Atatu To Kelston Schools,3,FFFFFF,000000
 1861UE6394,AT,186,New Lynn Loop Via Seabrook Ave And Astley Ave,3,DCC8FF,C80000
+1950UE6833,AT,195,Downtown To Blockhouse Bay,3,DCC8FF,C80000
 1951GW6717,AT,195,New Lynn To Downtown Via Green Bay,3,64FF00,000000
 1951UE6717,AT,195,New Lynn To Downtown Via Green Bay,3,DCC8FF,C80000
 1952UE6027,AT,195,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
@@ -182,7 +183,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1954UE6075,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
 1955UE6828,AT,195,Blockhouse Bay To Downtown,3,DCC8FF,C80000
 1956GW6125,AT,195,Downtown To New Lynn Via Green Bay,3,64FF00,000000
-1956UE6125,AT,195,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
 1958GW6747,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,64FF00,000000
 2091UE6691,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
 2092UE6079,AT,209,Downtown To Titirangi Via Green Bay,3,DCC8FF,C80000
@@ -332,9 +332,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3922ML6576,AT,392,Midtown To Te Papapa,3,00F0FF,000000
 3924ML6660,AT,392,Newmarket To Te Papapa,3,00F0FF,000000
 4091WP5893,AT,409,Seaside Park To Otahuhu,3,B4FFFF,000000
-4092WP6458,AT,409,Otahuhu To Seaside Park,3,B4FFFF,000000
-4094WP6522,AT,409,Fairburn Primary To Seaside Park,3,B4FFFF,000000
-4096WP6523,AT,409,Otahuhu To Seaside Park And Otahuhu College,3,B4FFFF,000000
+4092WP4474,AT,409,Otahuhu To Seaside Park,3,B4FFFF,000000
+4094WP4563,AT,409,Fairburn Primary To Seaside Park,3,B4FFFF,000000
+4096WP6832,AT,409,Otahuhu To Seaside Park And Otahuhu College,3,B4FFFF,000000
 4281WP4757,AT,428,Manukau City Centre To Otahuhu,3,B4FFFF,000000
 4284WP4796,AT,428,Otahuhu To Manukau City Centre,3,B4FFFF,000000
 4471WP6480,AT,447,Manukau City To Britomart Via Middlemore Hospital,3,B4FFFF,000000
@@ -1302,12 +1302,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50066VTW4917,AT,WEST,Swanson To Newmarket,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50082VTW4972,AT,WEST,Newmarket To Swanson,2,FFFFFF,000000
 50083VTW5185,AT,WEST,Kingsland To Britomart (Not Stopping At Newmarket),2,FFFFFF,000000
-50093VTE6824,AT,EAST,Sylvia Park To Britomart Via Glen Innes,2,FFFFFF,000000
-50094VTE6825,AT,EAST,Britomart To Sylvia Park Via Glen Innes,2,FFFFFF,000000
 87777VTW4585,AT,WEST,Britomart To Kingsland (Not Stopping At Newmarket),2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000
