@@ -1282,9 +1282,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
-18003VTW3537,AT,WEST,Swanson To Kingsland,2,FFFFFF,000000
 19001VTW2153,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
-19102VTW3643,AT,WEST,Kingsland To Swanson,2,FFFFFF,000000
 20085VTS6418,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 20166VTS6420,AT,STH,Britomart To Pukekohe Via Newmarket,2,FFFFFF,000000
@@ -1304,6 +1302,4 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50083VTW5185,AT,WEST,Kingsland To Britomart (Not Stopping At Newmarket),2,FFFFFF,000000
-87777VTW4585,AT,WEST,Britomart To Kingsland (Not Stopping At Newmarket),2,FFFFFF,000000
 90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000
