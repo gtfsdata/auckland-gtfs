@@ -6036,6 +6036,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7369,1611,23 Luanda Dr,-36.862207,174.59846
 7370,0912,1 Umbria Lane,-36.981081,174.94948
 7371,0913,Papakura Train Station Arrive,-37.064831,174.94614
+7385,1309,O''Brien Rd Opp Valley Rd,-36.815666,175.05702
 7386,0975,53 Blakeborough Dr Hail And Ride,-36.757167,174.74402
 7387,0974,23 Blakeborough Dr Hail And Ride,-36.759434,174.74654
 7388,0976,25 Manutara Ave Hail And Ride,-36.756676,174.74761
@@ -6047,6 +6048,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7395,1665,Hobsonville Point Rd By Onekiritea Rd,-36.792523,174.66179
 7397,1626,Township Rd Waitakere,-36.849115,174.54419
 7398,6251,111 Whitford Rd,-36.914115,174.92762
+7405,1528,166 Ocean View Rd,-36.784754,175.01552
 7409,1636,102 Totara Rd,-36.78826,174.6144
 7410,1612,Universal Dr Opp Pak''N''Ave,-36.856902,174.62907
 7411,1614,Fred Taylor Dr Outside Z Petrol Station,-36.821174,174.60852
@@ -6061,7 +6063,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7432,4936,Awaroa Rd Near Sports Grounds,-36.67764,174.46117
 7434,5967,Universal Dr Outside Pak''N''Ave,-36.856993,174.62904
 7435,5993,50 Brigham Creek Rd,-36.79318,174.61623
-7436,5995,Fred Taylor Dr Opp Z Station,-36.821039,174.6085
 7437,5999,Totara Rd Near Karaka Rd,-36.777868,174.63038
 7438,5985,Opp 120 Hobsonville Rd,-36.799197,174.6458
 7439,5991,1 Puriri Rd,-36.780704,174.6364
@@ -6073,3 +6074,4 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7450,2863,Opposite 1088 Paerata Rd,-37.170187,174.89796
 7451,2139,Opp 56 Chapel Rd,-36.978578,174.90279
 7452,2199,55 Ash Rd,-37.006718,174.86767
+7453,3686,Albany Hwy Opp Wentworth Park,-36.741916,174.69263
