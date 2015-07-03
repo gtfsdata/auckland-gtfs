@@ -5128,7 +5128,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6008,1510,St Kentigern School,-36.864748,174.80174
 6009,4432,Margot Street And Clyde Street,-36.878424,174.77779
 6010,0434,Albany Primary Bus Stop,-36.736805,174.69101
-6012,3336,Opposite 79 Hastings Rd,-36.739441,174.74386
+6012,3336,89 Penzance Rd,-36.738914,174.74416
 6015,4428,Northcote College Bus Bay,-36.809561,174.73348
 6016,4434,Takapuna Grammar & Belmont Intermediate Stop,-36.804409,174.79069
 6019,3208,Opposite Murrays Bay Intermediate,-36.735283,174.74571
@@ -5193,7 +5193,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6101,1316,Royal Oak Intermediate (Trafalgar),-36.916425,174.77332
 6102,1454,Church St For Mcauley High,-36.944135,174.84695
 6103,1318,Otahuhu College Bus Bay,-36.953964,174.83983
-6104,1461,High St For St Josephs,-36.944851,174.84779
 6105,2241,Gray Ave For De La Salle College,-36.964525,174.83736
 6106,1463,Fairburn Rd For Fairburn Primary,-36.947116,174.84918
 6107,1320,Kalmia St For Ellerslie Primary,-36.898762,174.80613
