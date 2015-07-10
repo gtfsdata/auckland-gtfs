@@ -694,7 +694,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 0748,6636,Opposite 605 Massey Rd,-36.977931,174.80626
 0749,6638,654 Massey Rd,-36.977508,174.8035
 0750,6640,692 Massey Rd,-36.976555,174.80125
-0751,6642,730 Massey Rd,-36.976138,174.79762
 0752,6655,Opposite 210 Kirkbride Rd,-36.972825,174.78765
 0753,6660,2 Ascot Rd,-36.97217,174.78532
 0754,2364,Opp 9 Richard Pearse Dr,-36.973224,174.78477
@@ -4011,7 +4010,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 4451,3951,203 Onewa Rd,-36.809957,174.72901
 4452,3953,163 Onewa Rd,-36.810151,174.73266
 4453,3955,137 Onewa Rd,-36.810314,174.73539
-4454,3957,127 Onewa Rd,-36.810416,174.73739
+4454,3957,127 Onewa Rd,-36.810427,174.73784
 4455,3959,71 Onewa Rd,-36.810672,174.74217
 4456,3081,919 East Coast Rd,-36.706094,174.72494
 4457,3079,Glamorgan Drive Near Kate Sheppard Ave,-36.705269,174.72527
@@ -5236,7 +5235,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6153,5974,Massey High School Bus Bay,-36.841928,174.60149
 6155,5960,Rutherford High School,-36.850616,174.64696
 6156,5834,Hobsonville Primary,-36.805185,174.63743
-6157,5957,Tirimoana Primary,-36.880592,174.65046
 6158,5959,Divich - Metric For Tirimoana Prim,-36.878873,174.65026
 6160,5961,Henderson Valley Primary,-36.897827,174.59233
 6163,5951,Oratia Primary,-36.913652,174.62101
@@ -6049,7 +6047,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7398,6251,111 Whitford Rd,-36.914115,174.92762
 7405,1528,166 Ocean View Rd,-36.784754,175.01552
 7409,1636,102 Totara Rd,-36.78826,174.6144
-7410,1612,Universal Dr Opp Pak''N''Ave,-36.856902,174.62907
+7410,1612,Universal Dr Opp Pak''N''Ave,-36.856848,174.62851
 7411,1614,Fred Taylor Dr Outside Z Petrol Station,-36.821174,174.60852
 7412,1625,307 Forest Hill Rd,-36.924864,174.58273
 7413,1623,Opp 362 Forest Hill Rd,-36.930347,174.58129
@@ -6060,7 +6058,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7429,4535,Sh 16 Near Foster Rd,-36.766428,174.51225
 7431,4938,Sh 16 Near Taupaki,-36.787456,174.57746
 7432,4936,Awaroa Rd Near Sports Grounds,-36.67764,174.46117
-7434,5967,Universal Dr Outside Pak''N''Ave,-36.856993,174.62904
+7434,5967,Universal Dr Outside Pak''N''Ave,-36.856969,174.62827
 7435,5993,50 Brigham Creek Rd,-36.79318,174.61623
 7437,5999,Totara Rd Near Karaka Rd,-36.777868,174.63038
 7438,5985,Opp 120 Hobsonville Rd,-36.799197,174.6458
@@ -6074,3 +6072,4 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7451,2139,Opp 56 Chapel Rd,-36.978578,174.90279
 7452,2199,55 Ash Rd,-37.006718,174.86767
 7453,3686,Albany Hwy Opp Wentworth Park,-36.741916,174.69263
+7454,2238,166 Kilkenny Dr,-36.938983,174.91855

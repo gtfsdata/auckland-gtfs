@@ -45,6 +45,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0486GW6144,AT,048,Britomart To Te Atatu Peninsula,3,64FF00,000000
 0491GW6703,AT,049,Henderson To Britomart Via Te Atatu Peninsula,3,64FF00,000000
 0492GW6145,AT,049,Britomart To Te Atatu Peninsula To Henderson,3,64FF00,000000
+0493GW6908,AT,049,Henderson To Te Atatu Peninsula,3,64FF00,000000
 0501WP5972,AT,50,Port Waikato To Pukekohe,3,B4FFFF,000000
 0502WP5973,AT,50,Pukekohe To Port Waikato,3,B4FFFF,000000
 0601RT6840,AT,060,Helensville To Downtown,3,FFDCDC,0000FF
@@ -70,7 +71,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0852GW6266,AT,085,Downtown To Swanson Via Henderson,3,64FF00,000000
 0871GW6234,AT,087,Ranui To Downtown Via Henderson,3,64FF00,000000
 0872GW6260,AT,087,Downtown To Ranui Via Henderson,3,64FF00,000000
-0873GW6243,AT,087,Ranui To Downtown Via Henderson (Rsa),3,64FF00,000000
+0873GW6907,AT,087,Ranui To Downtown Via Henderson (Rsa),3,64FF00,000000
 0874GW6267,AT,087,Downtown To Ranui Via Henderson (Rsa),3,64FF00,000000
 0901RT6710,AT,090,Westgate To Britomart Via Massey East,3,FFDCDC,0000FF
 0902RT6236,AT,090,Britomart To Westgate Via Massey East,3,FFDCDC,0000FF
@@ -281,7 +282,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3241WP6868,AT,324,Papatoetoe To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
 3243WP6869,AT,324,Papatoetoe To Britomart  Via Massey Road,3,B4FFFF,000000
 3245WP6855,AT,324,Papatoetoe To Onehunga Via Massey Road,3,B4FFFF,000000
-3245WP6870,AT,324,Papatoetoe To Onehunga Via Massey Road,3,B4FFFF,000000
 3271WP6871,AT,327,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
 3272WP6872,AT,327,Britomart To Manukau City Centre Via Middlemore Hospital,3,B4FFFF,000000
 3273WP6873,AT,327,Manukau City Centre To Britomart  Via Massey Road,3,B4FFFF,000000
@@ -294,7 +294,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3322WP6249,AT,332,Ascot Park To Otahuhu,3,B4FFFF,000000
 3341WP6866,AT,334,Otahuhu To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
 3342WP6867,AT,334,Britomart To Otahuhu Via Mangere Town Centre,3,B4FFFF,000000
-3343WP6860,AT,334,Otahuhu To Britomart  Via Massey Road,3,B4FFFF,000000
+3343WP6905,AT,334,Otahuhu To Britomart  Via Massey Road,3,B4FFFF,000000
 3344WP6861,AT,334,Britomart To Otahuhu Via Massey Road,3,B4FFFF,000000
 3345WP6862,AT,334,Otahuhu To Onehunga Via Mangere Town Centre,3,B4FFFF,000000
 3346WP6863,AT,334,Onehunga To Otahuhu Via Mangere Town Centre,3,B4FFFF,000000
@@ -401,7 +401,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 4974WP4828,AT,497,Otahuhu To Manukau City Centre Via Flat Bush,3,B4FFFF,000000
 4975WP6502,AT,497X,Manukau To Britomart Flyer,3,B4FFFF,000000
 5001HE5584,AT,500,Mission Heights To Britomart Via Botany Town Centre,3,960000,FFFFFF
-5002HE5585,AT,500,Britomart To Mission Heights Via Botany Town Centre,3,960000,FFFFFF
+5002HE6906,AT,500,Britomart To Mission Heights Via Botany Town Centre,3,960000,FFFFFF
 5003WP0587,AT,50F,Mt Wellington To Britomart Flyer,3,B4FFFF,000000
 5004WP1664,AT,50F,Britomart  To Mt Wellington Flyer,3,B4FFFF,000000
 5005HE5605,AT,500,Botany Town Centre To Britomart,3,960000,FFFFFF
@@ -549,7 +549,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7358BHS6228,AT,S073,Wairau Intermediate To Birkdale,3,FFFFFF,000000
 7359RTS6529,AT,S073H,Titirangi To Avondale College,3,FFFFFF,000000
 7360RTS6530,AT,S073H,Avondale College To Titirangi,3,FFFFFF,000000
-7441RTS6787,AT,S074D,Avondale College To New Lynn,3,FFFFFF,000000
 7451ML6759,AT,745,Glen Innes Centre To Britomart Via Mission Bay,3,00F0FF,000000
 7452ML6760,AT,745,Britomart To Glen Innes Centre Via Mission Bay,3,00F0FF,000000
 7453ML6769,AT,745,Panmure To Britomart Via Glen Innes Centre And Mission Bay,3,00F0FF,000000
@@ -818,7 +817,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61040BHS5937,AT,S009,Onewa Road To Westlake Schools,3,FFFFFF,000000
 61041MLS2772,AT,S004,Royal Oak Intermediate To Onehunga,3,FFFFFF,000000
 61042NSS3303,AT,S009,Glenfield To Westlake Schools,3,FFFFFF,000000
-61043WPS6884,AT,S004,Seventh Day Adventist Primary To Mangere Bridge Shops,3,FFFFFF,000000
+61043WPS6909,AT,S004,Seventh Day Adventist Primary To Mangere Bridge Shops,3,FFFFFF,000000
 61044MLS2910,AT,S009,Remuera To Auckland Grammar,3,FFFFFF,000000
 61045BCS2877,AT,S005,Orewa College To Arkles Bay/ Manly,3,FFFFFF,000000
 61048HES6360,AT,S010,Botany Downs To Epsom Schools,3,FFFFFF,000000
@@ -953,7 +952,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61201RTS4496,AT,S022,Te Atatu Intermediate To Henderson & Glendene,3,FFFFFF,000000
 61202NSS3304,AT,S045,Orewa To Westlake Schools,3,FFFFFF,000000
 61203RTS2989,AT,S022,St Josephs School To Milford & Takapuna,3,FFFFFF,000000
-61204MLS6890,AT,S046,Mangere To Remuera Schools,3,FFFFFF,000000
+61204MLS6910,AT,S046,Mangere To Remuera Schools,3,FFFFFF,000000
 61205WPS6891,AT,S022,Mcauley High To Flat Bush,3,FFFFFF,000000
 61206NSS2956,AT,S046,Orewa To Westlake Boys & Rosmini College,3,FFFFFF,000000
 61207MLS2735,AT,S022I,Waikowhai Intermediate To Lynfield,3,FFFFFF,000000
@@ -1171,7 +1170,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61467BHS2871,AT,S081,Northcote College To Hillcrest,3,FFFFFF,000000
 61469HES3180,AT,S081,Macleans College To Botany Downs,3,FFFFFF,000000
 61471RTS2515,AT,S081,Belmont Intermediate To Stanley Bay,3,FFFFFF,000000
-61473HES2994,AT,S082,Macleans College To Botany,3,FFFFFF,000000
+61473HES6911,AT,S082,Macleans College To Botany,3,FFFFFF,000000
 61475HES2893,AT,S082,Macleans College To Dannemora,3,FFFFFF,000000
 61477RTS2516,AT,S082,Takapuna Grammar To Stanley Bay,3,FFFFFF,000000
 61479RTS2517,AT,S083,Takapuna Grammar To Devonport,3,FFFFFF,000000
@@ -1231,7 +1230,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61643RTS2810,AT,SRU810,Rutherford High To Westgate,3,FFFFFF,000000
 61645RTS4754,AT,SRU812,Rutherford College To Swanson,3,FFFFFF,000000
 61647RTS6378,AT,S014,Rutherford College To Henderson,3,FFFFFF,000000
-61649RTS3020,AT,TP1,Tirimoana Primary To Sabulite Rd,3,FFFFFF,000000
 61651MLS4003,AT,S099,St Peters & Auckland Grammar To Lynfield,3,FFFFFF,000000
 61652MLS3065,AT,S022I,Lynfield To Blockhouse Bay,3,FFFFFF,000000
 61654NSS3292,AT,S028,Rangitoto College To Sunnynook,3,FFFFFF,000000
