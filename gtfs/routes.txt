@@ -497,8 +497,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5894HE6212,AT,589,Botany Town Centre To Maraetai,3,960000,FFFFFF
 5951ML6583,AT,595,Glen Innes Centre To Britomart Via Panmure And Ellerslie,3,00F0FF,000000
 5952ML6584,AT,595,Britomart To Glen Innes Via Panmure,3,00F0FF,000000
-6001WA6880,AT,6,Onetangi To Matiatia Via Rocky Bay,3,FFFFFF,000000
-6002WA6881,AT,6,Matiatia To Onetangi Via Rocky Bay,3,FFFFFF,000000
+6001WA6912,AT,6,Onetangi To Matiatia Via Rocky Bay,3,FFFFFF,000000
+6002WA6913,AT,6,Matiatia To Onetangi Via Rocky Bay,3,FFFFFF,000000
 6051ML5038,AT,605,Benson Road To Civic Centre,3,00F0FF,000000
 6052ML5415,AT,605,Civic Centre To Benson Road,3,00F0FF,000000
 6053ML5011,AT,605,Victoria Ave To Civic Centre,3,00F0FF,000000
@@ -848,7 +848,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61079MLS2729,AT,S008,Orakei Primary To Kohimarama,3,FFFFFF,000000
 61082MLS6364,AT,S015,St Heliers To Epsom Schools,3,FFFFFF,000000
 61083BHS6792,AT,S009,Westlake Girls To Verrans Corner,3,FFFFFF,000000
-61084HES4494,AT,S016,Howick To Sacred Heart College,3,FFFFFF,000000
+61084HES6914,AT,S016,Howick To Sacred Heart College,3,FFFFFF,000000
 61085RTS2616,AT,S009,Blockhouse Bay Intermediate To Green Bay,3,FFFFFF,000000
 61086NSS5940,AT,S016B,Rothesay Bay Shops To Westlake Schools,3,FFFFFF,000000
 61087MLS2911,AT,S009,Auckland Grammar To Remuera,3,FFFFFF,000000
@@ -1279,7 +1279,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99314FF6290,AT,SBAY,Auckland To Stanley Bay (On Request Via Bayswater),4,FFFFFF,000000
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
-10034VTW6415,AT,WEST,Britomart To Waitakere,2,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
 17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
@@ -1287,27 +1286,20 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
 18003VTW3537,AT,WEST,Swanson To Kingsland,2,FFFFFF,000000
-19001VTW2153,AT,WEST,Waitakere To Britomart,2,FFFFFF,000000
 19102VTW3643,AT,WEST,Kingsland To Swanson,2,FFFFFF,000000
-20085VTS6418,AT,STH,Pukekohe To Britomart Via Newmarket,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
-20166VTS6420,AT,STH,Britomart To Pukekohe Via Newmarket,2,FFFFFF,000000
 20183VTS6421,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 20274VTS6428,AT,STH,Papakura To Pukekohe,2,FFFFFF,000000
 20377VTS6429,AT,STH,Pukekohe To Papakura,2,FFFFFF,000000
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
-24101VTS2046,AT,STH,Otahuhu To Britomart Via Newmarket,2,FFFFFF,000000
 24102VTS2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
-24104VTS2069,AT,STH,Otahuhu To Pukekohe,2,FFFFFF,000000
-24106VTS2052,AT,STH,Otahuhu To Papakura,2,FFFFFF,000000
 24107VTS6852,AT,STH,Homai To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
-50051VTE4661,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
-50052VTE4662,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
-50075VTE6424,AT,EAST,Manukau To Britomart Via Glen Innes,2,FFFFFF,000000
-50076VTE6425,AT,EAST,Britomart To Manukau Via Glen Innes,2,FFFFFF,000000
+50051VTE4661,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
+50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
+50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
+50076VTE6425,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
 50105VTS6853,AT,STH,Puhinui To Britomart,2,FFFFFF,000000
-90909VTE6427,AT,EAST,Otahuhu To Britomart Via Glen Innes,2,FFFFFF,000000

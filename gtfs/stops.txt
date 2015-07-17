@@ -3800,7 +3800,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 4239,4828,1443 Sh 17,-36.64784,174.64267
 4240,4674,80 Whangaparaoa Rd,-36.612693,174.69292
 4241,4672,Opposite 141 Whangaparaoa Rd,-36.611584,174.69801
-4242,4670,194 Whangaparaoa Rd,-36.610665,174.7053
+4242,4670,150 Whangaparaoa Rd,-36.61046,174.70294
 4243,4668,224 Whangaparaoa Rd,-36.611333,174.70806
 4244,4666,288 Whangaparaoa Rd,-36.612987,174.71339
 4245,4664,330 Whangaparaoa Rd,-36.61669,174.71402
@@ -4752,7 +4752,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5298,0130,Train Station - Panmure,-36.898108,174.84934
 5303,7023,Alfred St By University Of Auckland General Library,-36.851558,174.76945
 5344,0392,Papatoetoe Interchange (Stop Not Used),-36.979104,174.85076
-5360,0132,Train Station - Waitakere,-36.849166,174.54376
 5361,6105,Homai Interchange,-37.013529,174.87561
 5362,2332,Paparoa Road,-36.90383,174.93472
 5363,0596,Botany Town Centre (Arrive),-36.932498,174.91214
