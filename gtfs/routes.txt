@@ -286,7 +286,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3272WP6872,AT,327,Britomart To Manukau City Centre Via Middlemore Hospital,3,B4FFFF,000000
 3273WP6873,AT,327,Manukau City Centre To Britomart  Via Massey Road,3,B4FFFF,000000
 3281WP6856,AT,328,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
-3282WP6857,AT,328,Britomart To Manukau City Centre Via Mangere Town Centre,3,B4FFFF,000000
+3282WP6915,AT,328,Britomart To Manukau City Centre Via Mangere Town Centre,3,B4FFFF,000000
 3283WP6858,AT,328,Manukau City Centre To Britomart  Via Massey Road,3,B4FFFF,000000
 3284WP6859,AT,328,Britomart To Manukau City Centre Via Massey Road,3,B4FFFF,000000
 3302WP6347,AT,330,Symonds St To Onehunga,3,B4FFFF,000000
@@ -311,7 +311,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 3471WP6694,AT,347,Manukau City Centre To Britomart Via Mangere Town Centre,3,B4FFFF,000000
 3472WP6350,AT,347,Britomart To Manukau City Centre,3,B4FFFF,000000
 3481WP6835,AT,348,Manukau City Centre To Britomart  Via Mangere Town Centre,3,B4FFFF,000000
-3482WP5413,AT,348,Britomart To Manukau City Centre,3,B4FFFF,000000
+3482WP6916,AT,348,Britomart To Manukau City Centre,3,B4FFFF,000000
 3483WP6836,AT,348,Manukau City Centre To Onehunga Via Mangere Town Centre,3,B4FFFF,000000
 3484WP5363,AT,348,Onehunga To Manukau City Centre,3,B4FFFF,000000
 3511WP5265,AT,351,Otahuhu To Onehunga Via Mangere Town Centre,3,B4FFFF,000000
@@ -780,7 +780,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 31454HES6296,AT,S314,Owairoa Primary To Botany,3,FFFFFF,000000
 61001BHS2648,AT,S001,Birkenhead College To Beach Haven,3,FFFFFF,000000
 61002BHS2643,AT,S001,Beach Haven To Birkenhead College & Birkdale Intermediate,3,FFFFFF,000000
-61003MLS6677,AT,S001,Epsom Schools To Kohimarama,3,FFFFFF,000000
+61003MLS6917,AT,S001,Epsom Schools To Kohimarama,3,FFFFFF,000000
 61004BCS4910,AT,S002,Hatfields Beach To Orewa Schools,3,FFFFFF,000000
 61005WPS2688,AT,S001,Kedgley Intermediate To Puhinui,3,FFFFFF,000000
 61006BHS2646,AT,S002,Coronation Rd To Birkenhead College & Birkdale Intermediate,3,FFFFFF,000000
@@ -1022,7 +1022,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61273WPS6898,AT,S033,Otahuhu College To Otara,3,FFFFFF,000000
 61274MLS6899,AT,S063,Mt Wellington To St Marys School (Ellerslie),3,FFFFFF,000000
 61275NSS2548,AT,S033,Westlake Boys To Torbay,3,FFFFFF,000000
-61276NSS6426,AT,S064,Constellation Station To Epsom Schools,3,FFFFFF,000000
+61276NSS6918,AT,S064,Constellation Station To Epsom Schools,3,FFFFFF,000000
 61277RTS3232,AT,S034,Westlake Boys High To Milford & Takapuna,3,FFFFFF,000000
 61278MLS3754,AT,S065,Otahuhu Transport Centre To Ellerslie/Penrose Schools,3,FFFFFF,000000
 61279WPS6900,AT,S034A,Mcauley High To Mangere Bridge Shops & Onehunga Transport Centre,3,FFFFFF,000000
@@ -1280,21 +1280,13 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
-17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
-17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
-18003VTW3537,AT,WEST,Swanson To Kingsland,2,FFFFFF,000000
-19102VTW3643,AT,WEST,Kingsland To Swanson,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 20183VTS6421,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
-20274VTS6428,AT,STH,Papakura To Pukekohe,2,FFFFFF,000000
-20377VTS6429,AT,STH,Pukekohe To Papakura,2,FFFFFF,000000
 21001VTS2051,AT,STH,Papakura To Britomart Via Newmarket,2,FFFFFF,000000
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
-21004VTS6430,AT,STH,Britomart To Papakura Via Newmarket (Stop At Mangere),2,FFFFFF,000000
-24102VTS2057,AT,STH,Britomart To Otahuhu Via Newmarket,2,FFFFFF,000000
 24107VTS6852,AT,STH,Homai To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000

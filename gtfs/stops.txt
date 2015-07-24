@@ -430,11 +430,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 0476,6944,6 Valder Ave,-36.952764,174.88836
 0477,6945,Springs Rd Opposite Valder Ave,-36.952941,174.89118
 0478,8700,2 Manukau Rd,-36.876192,174.77705
-0479,8702,64 Manukau Rd,-36.878182,174.7766
 0480,8704,146-148 Manukau Rd,-36.881401,174.77598
-0481,8706,206 Manukau Rd,-36.883098,174.77583
 0482,8708,240 Manukau Rd,-36.884731,174.77575
-0483,8710,Manukau Rd Opposite Kimberly Rd,-36.887809,174.77546
 0484,8712,352 Manukau Rd,-36.890014,174.77511
 0485,8714,384 Manukau Rd,-36.892608,174.77465
 0486,8716,484 Manukau Rd,-36.894689,174.77419
@@ -4909,7 +4906,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 5659,1502,18 St Vincent Ave Hail & Ride,-36.882274,174.79932
 5660,6285,Sandspit Rd Opposite Cockle Bay School,-36.904918,174.93888
 5661,7217,167 Ponsonby Rd,-36.85444,174.74598
-5690,0134,Train Station - Pukekohe,-37.203266,174.91023
 5693,4071,Eskdale Road By Hobby Ave,-36.797564,174.71506
 5697,0595,Edsel 2 (Temp),-36.88084,174.63497
 5701,2326,Tarnica Opp Braystone,-36.924111,174.91855
