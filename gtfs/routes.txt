@@ -69,10 +69,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0822RT3821,AT,082,Te Atatu Peninnsula To Westgate,3,FFDCDC,0000FF
 0851GW6036,AT,085,Swanson To Downtown Via Henderson,3,64FF00,000000
 0852GW6266,AT,085,Downtown To Swanson Via Henderson,3,64FF00,000000
-0871GW6234,AT,087,Ranui To Downtown Via Henderson,3,64FF00,000000
-0872GW6260,AT,087,Downtown To Ranui Via Henderson,3,64FF00,000000
-0873GW6907,AT,087,Ranui To Downtown Via Henderson (Rsa),3,64FF00,000000
-0874GW6267,AT,087,Downtown To Ranui Via Henderson (Rsa),3,64FF00,000000
+0871GW6919,AT,087,Ranui To Downtown Via Henderson,3,64FF00,000000
+0872GW6920,AT,087,Downtown To Ranui Via Henderson,3,64FF00,000000
+0873GW6930,AT,087,Ranui To Downtown Via Henderson (Rsa),3,64FF00,000000
+0874GW6931,AT,087,Downtown To Ranui Via Henderson (Rsa),3,64FF00,000000
 0901RT6710,AT,090,Westgate To Britomart Via Massey East,3,FFDCDC,0000FF
 0902RT6236,AT,090,Britomart To Westgate Via Massey East,3,FFDCDC,0000FF
 0905RT3703,AT,090,Westgate To Henderson Via Massey East,3,FFDCDC,0000FF
@@ -95,9 +95,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0938RT6173,AT,093,Westgate To Whenuapai Via Hobsonville Wharf,3,FFDCDC,0000FF
 0951RT6737,AT,095,Whenuapai To Britomart,3,FFDCDC,0000FF
 0952RT6738,AT,095,Britomart To Whenuapai,3,FFDCDC,0000FF
-0971GW6245,AT,097,Ranui To Downtown Via Henderson,3,64FF00,000000
-0972GW6268,AT,097,Downtown To Ranui Via Henderson,3,64FF00,000000
-1001RT0781,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
+0971GW6932,AT,097,Ranui To Downtown Via Henderson,3,64FF00,000000
+0972GW6933,AT,097,Downtown To Ranui Via Henderson,3,64FF00,000000
+1001RT6971,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
 1002RT0780,AT,NEX,Britomart To Albany,3,FFDCDC,0000FF
 1013WA5748,AT,1,Onetangi To Matiatia Wharf,3,FFFFFF,000000
 1015WA5749,AT,2,Rocky Bay To Matiatia Wharf,3,FFFFFF,000000
@@ -136,12 +136,12 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1307RT6177,AT,130,Takapuna To Westgate,3,FFDCDC,0000FF
 1308RT6178,AT,130,Westgate To Takapuna,3,FFDCDC,0000FF
 1309RT6630,AT,130,Smales Farm To Westgate,3,FFDCDC,0000FF
-1311GW6097,AT,13X,Ranui To Downtown Express,3,64FF00,000000
-1312GW6204,AT,13X,Downtown To Ranui Express,3,64FF00,000000
+1311GW6934,AT,13X,Ranui To Downtown Express,3,64FF00,000000
+1312GW6935,AT,13X,Downtown To Ranui Express,3,64FF00,000000
 1351GW6057,AT,135,Swanson To Downtown Via Henderson,3,64FF00,000000
 1352GW6261,AT,135,Downtown To Swanson Via Henderson,3,64FF00,000000
 1353GW6059,AT,135,Swanson To New Lynn Via Henderson,3,64FF00,000000
-1361GW6017,AT,136,Ranui To Downtown Via Henderson,3,64FF00,000000
+1361GW6921,AT,136,Ranui To Downtown Via Henderson,3,64FF00,000000
 1362GW6262,AT,136,Downtown To Ranui Via Henderson,3,64FF00,000000
 1391GW6440,AT,139,Waitakere Station To Swanson Station,3,64FF00,000000
 1392GW6441,AT,139,Swanson Station To Waitakere Station,3,64FF00,000000
@@ -381,6 +381,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 4732WP6499,AT,473,Britomart To Keri Hill,3,B4FFFF,000000
 4752WP6723,AT,475,Papakura Shops To Pukekohe,3,B4FFFF,000000
 4753WP5326,AT,475,Pukekohe To Papakura,3,B4FFFF,000000
+4755WP6963,AT,475,Pukekohe To Papakura Via Wesley College,3,B4FFFF,000000
 4760WP4078,AT,476,Pukekohe To Tuakau To Pukekohe,3,B4FFFF,000000
 4766WP6224,AT,476,Pukekohe To Tuakau To Papakura,3,B4FFFF,000000
 4768WP6749,AT,476,Pukekohe To Tuakau To Pukekohe,3,B4FFFF,000000
@@ -451,7 +452,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5512HE6405,AT,551,Britomart To North Park Via Newmarket,3,960000,FFFFFF
 5513HE6406,AT,551X,North Park To Britomart Express,3,960000,FFFFFF
 5514HE6407,AT,551X,Britomart To North Park Express,3,960000,FFFFFF
-5520HE5986,AT,552,Pakuranga Plaza To Bucklands Beach,3,960000,FFFFFF
+5520HE5986,AT,552,Panmure To Bucklands Beach,3,960000,FFFFFF
 5521HE5615,AT,552,Bucklands Beach To Britomart Via Newmarket,3,960000,FFFFFF
 5522HE6001,AT,552,Britomart To Bucklands Beach Via Newmarket,3,960000,FFFFFF
 5523HE5617,AT,552,Bucklands Beach To Britomart Via Newmarket And Half Moon Bay,3,960000,FFFFFF
@@ -459,14 +460,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5525HE6800,AT,552,Bucklands Beach To Panmure,3,960000,FFFFFF
 5526HE6003,AT,552,Panmure To Bucklands Beach,3,960000,FFFFFF
 5527HE6801,AT,552,Bucklands Beach To Panmure Via Half Moon Bay,3,960000,FFFFFF
-5529HE6797,AT,552,Bucklands Beach To Pakuranga Plaza,3,960000,FFFFFF
+5529HE6797,AT,552,Bucklands Beach To Panmure,3,960000,FFFFFF
 5531HE6354,AT,553X,Eastern Beach To Britomart Express,3,960000,FFFFFF
 5532HE6355,AT,553X,Britomart To Eastern Beach Express,3,960000,FFFFFF
 5541HE6356,AT,554X,Bucklands Beach To Britomart Express,3,960000,FFFFFF
 5542HE6357,AT,554X,Britomart To Bucklands Beach Express,3,960000,FFFFFF
 5543HE6358,AT,554X,Bucklands Beach To Britomart Express Via Half Moon Bay,3,960000,FFFFFF
-5551RT4512,AT,555,Albany Station To Highbury,3,FFDCDC,0000FF
-5552RT5235,AT,555,Highbury To Albany Station,3,FFDCDC,0000FF
+5551RT6950,AT,555,Albany Station To Highbury,3,FFDCDC,0000FF
+5552RT6951,AT,555,Highbury To Albany Station,3,FFDCDC,0000FF
 5601RT6774,AT,560,Glenfield To Massey University,3,FFDCDC,0000FF
 5602RT3315,AT,560,Massey University To Glenfield,3,FFDCDC,0000FF
 5611HE4930,AT,561,Botany Town Centre To Weymouth Via Cavendish Drv & Highbrook,3,960000,FFFFFF
@@ -645,9 +646,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8794NS0846,AT,879,Takapuna To Long Bay,3,0096FF,000000
 8801RT4851,AT,880,Albany Loop Anticlockwise,3,FFDCDC,0000FF
 8802RT1611,AT,880,Albany Loop Clockwise,3,FFDCDC,0000FF
-8811NS4184,AT,881,Torbay To Newmarket,3,0096FF,000000
+8811NS6972,AT,881,Torbay To Newmarket,3,0096FF,000000
 8812NS5197,AT,881,Newmarket To Torbay,3,0096FF,000000
-8813NS3955,AT,881,Albany Station To Newmarket,3,0096FF,000000
+8813NS6973,AT,881,Albany Station To Newmarket,3,0096FF,000000
 8814NS3956,AT,881,Newmarket To Albany Station,3,0096FF,000000
 8861RT0801,AT,886,Long Bay To Constellation,3,FFDCDC,0000FF
 8862RT4725,AT,886,Constellation To Long Bay,3,FFDCDC,0000FF
@@ -655,7 +656,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8876RT6837,AT,887,Constellation To Long Bay,3,FFDCDC,0000FF
 8911NS5246,AT,891,Albany Station To Takapuna,3,0096FF,000000
 8912NS6838,AT,891,Takapuna To Albany Station,3,0096FF,000000
-8913NS6305,AT,891X,Albany Village To Newmarket,3,0096FF,000000
+8913NS6269,AT,891X,Albany Village To Newmarket,3,0096FF,000000
 8914NS6841,AT,891X,Newmarket To Albany Village,3,0096FF,000000
 8921NS5473,AT,892X,Orewa To Auckland Express,3,0096FF,000000
 8922NS6806,AT,892X,Auckland To Orewa Express And Maygrove Loop,3,0096FF,000000
@@ -667,7 +668,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8951NS2475,AT,895,Waiwera To Midtown,3,0096FF,000000
 8952NS6804,AT,895,Midtown To Waiwera,3,0096FF,000000
 8953NS2479,AT,895X,Waiwera To Midtown Express,3,0096FF,000000
-8954NS6810,AT,895X,Midtown To Waiwera Express,3,0096FF,000000
+8954NS6936,AT,895X,Midtown To Waiwera Express,3,0096FF,000000
 8957NS5474,AT,895X,Hatfields Beach To Midtown Express,3,0096FF,000000
 8959NS5471,AT,895,Hibiscus Coast To Midtown Via Albany & Takapuna,3,0096FF,000000
 8961NS2140,AT,896,Hibiscus Coast To Midtown,3,0096FF,000000
@@ -692,8 +693,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9002RT5176,AT,900X,Midtown To Unsworth Heights Express,3,FFDCDC,0000FF
 9053RT0809,AT,905,Glenfield To Takapuna,3,FFDCDC,0000FF
 9054RT1124,AT,905,Takapuna To Glenfield,3,FFDCDC,0000FF
-9112RT5418,AT,911,Takapuna To Glenfield,3,FFDCDC,0000FF
-9113RT5419,AT,911,Glenfield To Takapuna,3,FFDCDC,0000FF
+9112RT6952,AT,911,Takapuna To Glenfield,3,FFDCDC,0000FF
+9113RT6953,AT,911,Glenfield To Takapuna,3,FFDCDC,0000FF
 9131NS5714,AT,913,Windy Ridge To Takapuna Via North Shore Hospital,3,0096FF,000000
 9132NS4660,AT,913,Takapuna To Windy Ridge Via North Shore Hospital,3,0096FF,000000
 9133NS3980,AT,913,Windy Ridge To Takapuna,3,0096FF,000000
@@ -702,18 +703,18 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9153BH5882,AT,915,Bayview To Takapuna,3,FFDC78,960000
 9154BH6750,AT,915,Takapuna To Bayview,3,FFDC78,960000
 9156BH6482,AT,915,Takapuna To Glenfield/Bayview,3,FFDC78,960000
-9203RT5250,AT,920,Sylvan Ave To Auckland,3,FFDCDC,0000FF
+9203RT6954,AT,920,Sylvan Ave To Auckland,3,FFDCDC,0000FF
 9212RT5530,AT,921,Auckland To Hillcrest,3,FFDCDC,0000FF
-9222RT5420,AT,922,Midtown To Takapuna Via Northcote,3,FFDCDC,0000FF
-9223RT5421,AT,922,Takapuna To Midtown Via Northcote,3,FFDCDC,0000FF
-9451RT5422,AT,945,Takapuna To Glenfield Via Marlborough,3,FFDCDC,0000FF
-9452RT5423,AT,945,Glenfield To Takapuna Via Marlborough,3,FFDCDC,0000FF
-9453RT5136,AT,945X,Glenfield To Midtown,3,FFDCDC,0000FF
-9454RT5177,AT,945X,Midtown To Glenfield,3,FFDCDC,0000FF
+9222RT6955,AT,922,Midtown To Takapuna Via Northcote,3,FFDCDC,0000FF
+9223RT6956,AT,922,Takapuna To Midtown Via Northcote,3,FFDCDC,0000FF
+9451RT6957,AT,945,Takapuna To Glenfield Via Marlborough,3,FFDCDC,0000FF
+9452RT6958,AT,945,Glenfield To Takapuna Via Marlborough,3,FFDCDC,0000FF
+9453RT6959,AT,945X,Glenfield To Midtown,3,FFDCDC,0000FF
+9454RT6960,AT,945X,Midtown To Glenfield,3,FFDCDC,0000FF
 9511BH6547,AT,951,Wairau Rd To Auckland University,3,FFDC78,960000
 9513BH6548,AT,951,Glenfield Mall To Auckland University,3,FFDC78,960000
-9521NS5137,AT,952,Glenfield Shops To Midtown Via Coronation Rd,3,0096FF,000000
-9522NS5178,AT,952,Midtown To Glenfield Shops Via Coronation Rd,3,0096FF,000000
+9521NS6961,AT,952,Glenfield Shops To Midtown Via Coronation Rd,3,0096FF,000000
+9522NS6962,AT,952,Midtown To Glenfield Shops Via Coronation Rd,3,0096FF,000000
 9531BH6507,AT,953,Windy Ridge To Midtown,3,FFDC78,960000
 9532BH5460,AT,953,Midtown To Windy Ridge,3,FFDC78,960000
 9551BH6508,AT,955,Bayview To Midtown,3,FFDC78,960000
@@ -738,9 +739,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9662BH6513,AT,966,Newmarket To Beach Haven Via Ponsonby,3,FFDC78,960000
 9664BH6551,AT,966,Newmarket To Highbury Shops,3,FFDC78,960000
 9665BH6552,AT,966,Highbury Shops To Newmarket,3,FFDC78,960000
-9711BH6514,AT,971,Chatswood To Auckland University,3,FFDC78,960000
+9711BH6974,AT,971,Chatswood To Auckland University,3,FFDC78,960000
 9712BH2303,AT,971,Auckland University To Chatswood,3,FFDC78,960000
-9721BH6796,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
+9721BH6975,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
 9722BH0707,AT,972,Auckland University To Beach Haven Wharf,3,FFDC78,960000
 9731BH6476,AT,973,Beach Haven To Midtown,3,FFDC78,960000
 9732BH1164,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
@@ -820,10 +821,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61043WPS6909,AT,S004,Seventh Day Adventist Primary To Mangere Bridge Shops,3,FFFFFF,000000
 61044MLS2910,AT,S009,Remuera To Auckland Grammar,3,FFFFFF,000000
 61045BCS2877,AT,S005,Orewa College To Arkles Bay/ Manly,3,FFFFFF,000000
-61048HES6360,AT,S010,Botany Downs To Epsom Schools,3,FFFFFF,000000
+61048HES6964,AT,S010,Botany Downs To Epsom Schools,3,FFFFFF,000000
 61049MLS6681,AT,S016,Kadimah & Epsom Schools To St Heliers,3,FFFFFF,000000
 61053BCS2852,AT,S006,Orewa College To Stanmore Bay / Vipond Rd,3,FFFFFF,000000
-61054HES5622,AT,S011,Bucklands Beach To Remuera Schools,3,FFFFFF,000000
+61054HES6965,AT,S011,Bucklands Beach To Baradene College,3,FFFFFF,000000
 61055BHS5938,AT,S006,Westlake Boys To Beach Haven,3,FFFFFF,000000
 61057RTS6361,AT,S006,Remuera Schools To Titirangi/New Lynn.,3,FFFFFF,000000
 61058BCS6229,AT,S012,Gulf Harbour To Kingsway School,3,FFFFFF,000000
@@ -860,21 +861,20 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61094RTS5941,AT,S017,Bayswater To Westlake Schools,3,FFFFFF,000000
 61095BHS2659,AT,S010,Westlake Girls To Beach Haven,3,FFFFFF,000000
 61096RTS5942,AT,S017,Devonport To Westlake Schools,3,FFFFFF,000000
-61097HES2836,AT,S010,Epsom Schools To Botany Downs,3,FFFFFF,000000
+61097HES6966,AT,S010,Epsom Schools To Botany Downs,3,FFFFFF,000000
 61098MLS6367,AT,S017,Kohimarama To Epsom Schools,3,FFFFFF,000000
 61099MLS2908,AT,S010,Auckland Grammar To Remuera,3,FFFFFF,000000
 61101GWS2940,AT,S010C,Ponsonby Intermediate To Sandringham,3,FFFFFF,000000
 61102BCS2881,AT,S018,Orewa To Whangaparaoa College,3,FFFFFF,000000
 61103BHS2663,AT,S011,Glenfield College To Bayview,3,FFFFFF,000000
 61104HES2845,AT,S018,Highland Park To Sancta Maria College,3,FFFFFF,000000
-61105HES5866,AT,S011,Baradene College To Bucklands Beach,3,FFFFFF,000000
+61105HES6967,AT,S011,Baradene College To Bucklands Beach,3,FFFFFF,000000
 61107BHS6789,AT,S012,Takapuna And Northcote Schools To Beach Haven,3,FFFFFF,000000
 61108NSS6854,AT,S018,Wairau Valley To Westlake Schools,3,FFFFFF,000000
 61109MLS5731,AT,S011,St Ignatius School To Glendowie,3,FFFFFF,000000
 61110BCS2883,AT,S019,Army Bay To Whangaparaoa College,3,FFFFFF,000000
 61111BCS6230,AT,S012,Kingsway School To Gulf Harbour,3,FFFFFF,000000
 61112BCS2884,AT,S019,Whangaparaoa College To Gulf Harbour  School,3,FFFFFF,000000
-61113HES6695,AT,S012,Baradene College To Dannemora,3,FFFFFF,000000
 61114MLS5314,AT,S019,Ellerslie To Remuera Primary,3,FFFFFF,000000
 61115RTS2622,AT,S012,Kelston Schools To Henderson,3,FFFFFF,000000
 61116MLS2737,AT,S019D,Lynfield To Waikowhai Intermediate,3,FFFFFF,000000
@@ -1054,7 +1054,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61307NSS4453,AT,S046,Carmel College & Westlake Girls To Glenfield,3,FFFFFF,000000
 61308BHS2869,AT,S080,Chatswood To Northcote Schools,3,FFFFFF,000000
 61309WPS2783,AT,S046,De La Salle College To Otara,3,FFFFFF,000000
-61310RTS2514,AT,S080,Devonport To Belmont Schools,3,FFFFFF,000000
 61311MLS6901,AT,S046E,Remuera Schools To Mangere,3,FFFFFF,000000
 61312BHS2870,AT,S081,Hillcrest To Northcote Schools,3,FFFFFF,000000
 61313MLS5733,AT,S046,Selwyn College To Panmure,3,FFFFFF,000000
@@ -1082,7 +1081,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61339WPS2764,AT,S051,Seventh Day Adventist Primary To Middlemore,3,FFFFFF,000000
 61340RTS2987,AT,S116X,Greenhithte To Albany Junior High (Express),3,FFFFFF,000000
 61341NSS5955,AT,S052,Westlake Schools To Sunnynook,3,FFFFFF,000000
-61342RTS6232,AT,S116X,Greenhithe To Albany Schools (Express),3,FFFFFF,000000
 61343WPS6543,AT,S053,St Peters To Papakura,3,FFFFFF,000000
 61345NSS2532,AT,S053,Long Bay College To Murrays Bay,3,FFFFFF,000000
 61347NSS5956,AT,S053,Westlake Schools To Campbells Bay,3,FFFFFF,000000
@@ -1187,8 +1185,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61501BCS6822,AT,S011,Glenfield To Kingsway School,3,FFFFFF,000000
 61502BCS6823,AT,S011,Kingsway School To Glenfield,3,FFFFFF,000000
 61507RTS2920,AT,S116,Albany Junior High To Greenhithe,3,FFFFFF,000000
-61509RTS2986,AT,S116X,Albany Junior High To Greenhithe (Express),3,FFFFFF,000000
-61511RTS3025,AT,S116,Albany Junior High To Greenhithe,3,FFFFFF,000000
+61509RTS6968,AT,S116X,Albany Junior High To Greenhithe (Express),3,FFFFFF,000000
+61511RTS6969,AT,S116X,Albany Senior High To Greenhithe Express,3,FFFFFF,000000
 61513RTS3024,AT,S116,Albany Senior High To Greenhithe,3,FFFFFF,000000
 61529GWS5963,AT,S202,Auckland Girls Grammar To New Windsor,3,FFFFFF,000000
 61537BCS5689,AT,S025,Long Bay College  Northcross & Rangitoto College To Orewa,3,FFFFFF,000000
@@ -1223,7 +1221,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61623RTS3006,AT,SMA10B,Massey High To Westgate,3,FFFFFF,000000
 61625RTS3008,AT,SMA13,Massey High To Waimauku,3,FFFFFF,000000
 61627RTS3011,AT,SMA14,Massy High To Falls Rd,3,FFFFFF,000000
-61629RTS3290,AT,SMA200,Massey High To Ranui,3,FFFFFF,000000
+61629RTS6949,AT,SMA200,Massey High To Ranui,3,FFFFFF,000000
 61633MBS4791,AT,SPBS3,Green Meadows Intermediate To Weymouth,3,FFFFFF,000000
 61637MBS3291,AT,SPBS5,Manurewa Intermediate To Wattle Downs & Weymouth,3,FFFFFF,000000
 61639MBS5888,AT,SPBS6,Greenmeadows Intermediate To Clendon,3,FFFFFF,000000
@@ -1280,7 +1278,10 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
+17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
+17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
+17111VTW4540,AT,WEST,Swanson To Morningside,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
@@ -1294,4 +1295,5 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
+50100VTW5673,AT,WEST,Morningside To Swanson,2,FFFFFF,000000
 50105VTS6853,AT,STH,Puhinui To Britomart,2,FFFFFF,000000
