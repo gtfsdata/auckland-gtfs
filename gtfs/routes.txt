@@ -1278,10 +1278,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
-17006VTW4538,AT,WEST,Britomart To Kingsland Not Via Newmarket And Mt Eden,2,FFFFFF,000000
 17015VTW3112,AT,WEST,Henderson To Britomart,2,FFFFFF,000000
-17019VTW3229,AT,WEST,Kingsland To Britomart Not Via Mt Eden And Newmarket,2,FFFFFF,000000
-17111VTW4540,AT,WEST,Swanson To Morningside,2,FFFFFF,000000
 18001VTW2154,AT,WEST,Swanson To Britomart,2,FFFFFF,000000
 18002VTW2151,AT,WEST,Britomart To Swanson,2,FFFFFF,000000
 20136VTS6419,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
@@ -1295,5 +1292,4 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
-50100VTW5673,AT,WEST,Morningside To Swanson,2,FFFFFF,000000
 50105VTS6853,AT,STH,Puhinui To Britomart,2,FFFFFF,000000
