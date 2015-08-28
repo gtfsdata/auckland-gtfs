@@ -681,7 +681,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8983NS0729,AT,898,Army Bay To Silverdale,3,0096FF,000000
 8984NS3761,AT,898,Silverdale To Army Bay,3,0096FF,000000
 8986NS4034,AT,898,999 Silverdale To Army Bay To Orewa,3,0096FF,000000
-8987NS4175,AT,898,898 Orewa To Army Bay To Silverdale To Takapuna,3,0096FF,000000
+8987NS6976,AT,898,898 Orewa To Army Bay To Silverdale To Takapuna,3,0096FF,000000
 8988NS6014,AT,898,896 Takapuna To Army Bay To Midtown,3,0096FF,000000
 8991NS1557,AT,899,Army Bay To Takapuna,3,0096FF,000000
 8992NS6813,AT,899,Takapuna To Army Bay,3,0096FF,000000
@@ -739,9 +739,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9662BH6513,AT,966,Newmarket To Beach Haven Via Ponsonby,3,FFDC78,960000
 9664BH6551,AT,966,Newmarket To Highbury Shops,3,FFDC78,960000
 9665BH6552,AT,966,Highbury Shops To Newmarket,3,FFDC78,960000
-9711BH6974,AT,971,Chatswood To Auckland University,3,FFDC78,960000
+9711BH6977,AT,971,Chatswood To Auckland University,3,FFDC78,960000
 9712BH2303,AT,971,Auckland University To Chatswood,3,FFDC78,960000
-9721BH6975,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
+9721BH6978,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
 9722BH0707,AT,972,Auckland University To Beach Haven Wharf,3,FFDC78,960000
 9731BH6476,AT,973,Beach Haven To Midtown,3,FFDC78,960000
 9732BH1164,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
@@ -1155,9 +1155,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61445MLS4698,AT,S073,St Thomas Primary To Remuera,3,FFFFFF,000000
 61447NSS5959,AT,S073,Westlake Schools To Totaravale,3,FFFFFF,000000
 61449NSS4442,AT,S074,Westlake Schools To Glenfield Shops,3,FFFFFF,000000
-61450RTS5867,AT,SRU810,Westgate To Rutherford High School,3,FFFFFF,000000
 61451HES2818,AT,S075,Bucklands Beach Intermediate To Highland Park,3,FFFFFF,000000
-61452RTS3305,AT,SRU812,Swanson To Rutherford College,3,FFFFFF,000000
 61455BHS4146,AT,S077,Glenfield Schools To Verrans Corner,3,FFFFFF,000000
 61457BHS6821,AT,S078,Glenfield College To Totaravale,3,FFFFFF,000000
 61459HES6698,AT,S078,Farm Cove Intermediate To Golflands,3,FFFFFF,000000
@@ -1225,8 +1223,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61633MBS4791,AT,SPBS3,Green Meadows Intermediate To Weymouth,3,FFFFFF,000000
 61637MBS3291,AT,SPBS5,Manurewa Intermediate To Wattle Downs & Weymouth,3,FFFFFF,000000
 61639MBS5888,AT,SPBS6,Greenmeadows Intermediate To Clendon,3,FFFFFF,000000
-61643RTS2810,AT,SRU810,Rutherford High To Westgate,3,FFFFFF,000000
-61645RTS4754,AT,SRU812,Rutherford College To Swanson,3,FFFFFF,000000
 61647RTS6378,AT,S014,Rutherford College To Henderson,3,FFFFFF,000000
 61651MLS4003,AT,S099,St Peters & Auckland Grammar To Lynfield,3,FFFFFF,000000
 61652MLS3065,AT,S022I,Lynfield To Blockhouse Bay,3,FFFFFF,000000
@@ -1258,12 +1254,19 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 14001FF2091,AT,DEV,Devonport To Auckland,4,FFFFFF,000000
 14002FF2090,AT,DEV,Auckland To Devonport,4,FFFFFF,000000
 15001360D2093,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
+15001360D6979,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
 15002360D2092,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
+15002360D6980,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
+15003360D6981,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
+15004360D6982,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
 20001FF2094,AT,HMB,Half Moon Bay To Auckland,4,FFFFFF,000000
 20004FF2495,AT,HMB,Auckland To Half Moon Bay,4,FFFFFF,000000
 25001360D6432,AT,HOBS,Hobsonville To Auckland Via Beach Haven,4,FFFFFF,000000
+25001360D6983,AT,HOBS,Hobsonville To Auckland Via Beach Haven,4,FFFFFF,000000
 25002360D6433,AT,HOBS,Auckland To Hobsonville Via Beach Haven,4,FFFFFF,000000
+25002360D6984,AT,HOBS,Auckland To Hobsonville Via Beach Haven,4,FFFFFF,000000
 25003360D6434,AT,HOBS,Beach Haven To Auckland Via Hobsonville,4,FFFFFF,000000
+25003360D6985,AT,HOBS,Beach Haven To Auckland Via Hobsonville,4,FFFFFF,000000
 25004360D5080,AT,HOBS,Beach Haven To Hobsonville,4,FFFFFF,000000
 98011FF6280,AT,MTIA,Waiheke Island To Auckland Direct,4,FFFFFF,000000
 98012FF6281,AT,MTIA,Auckland To Waiheke Island Direct,4,FFFFFF,000000
@@ -1273,6 +1276,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 99011PH6272,AT,PINE,Pine Harbour To Auckland,4,FFFFFF,000000
 99012PH6273,AT,PINE,Auckland To Pine Harbour,4,FFFFFF,000000
 99311FF6288,AT,SBAY,Stanley Bay To Auckland,4,FFFFFF,000000
+99311FF6986,AT,SBAY,Stanley Bay To Auckland,4,FFFFFF,000000
 99312FF6289,AT,SBAY,Auckland To Stanley Bay,4,FFFFFF,000000
 99314FF6290,AT,SBAY,Auckland To Stanley Bay (On Request Via Bayswater),4,FFFFFF,000000
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
@@ -1287,7 +1291,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 24107VTS6852,AT,STH,Homai To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
+40017VTO6754,AT,ONE,Penrose To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
+40028VTO6757,AT,ONE,Britomart To Penrose,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000

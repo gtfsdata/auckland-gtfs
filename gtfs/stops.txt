@@ -3183,7 +3183,6 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 3580,5705,41 Fred Taylor Dr,-36.8182,174.60255
 3581,5559,397 Don Buck Rd,-36.835113,174.6028
 3582,5557,355 Don Buck Rd,-36.837284,174.6011
-3583,5873,283 Don Buck Rd,-36.842102,174.60253
 3584,5555,263 Don Buck Rd,-36.842823,174.6049
 3585,5553,211 Don Buck Rd,-36.845999,174.60821
 3586,5551,185 Don Buck Rd,-36.848002,174.60867
@@ -3449,7 +3448,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 3866,3103,43 Browns Bay Rd,-36.720841,174.7448
 3867,3105,31 Browns Bay Rd,-36.718926,174.74616
 3868,3122,30 Clyde Rd,-36.71591,174.74815
-3869,4553,1 Manly Esp,-36.713028,174.74911
+3869,4253,1 Manly Esp,-36.713028,174.74911
 3870,1432,16 Valley Rd,-36.712279,174.74754
 3871,3088,844 Beach Rd,-36.710149,174.74552
 3872,3086,864 Beach Rd,-36.708087,174.74814
@@ -3930,7 +3929,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 4374,4726,28 Ladies Mile,-36.635448,174.75432
 4375,4731,21 Ladies Mile,-36.637877,174.75459
 4376,4729,3 Ladies Mile,-36.638824,174.75403
-4377,4569,Painton Rd,-36.624261,174.66758
+4377,4569,Hibiscus Coast Station,-36.624261,174.66758
 4378,4849,Opposite 1433 Sh 17,-36.649101,174.6427
 4379,4830,Opposite 1327 Sh 17,-36.657025,174.64144
 4380,4832,1248 Sh 17,-36.665384,174.63943
@@ -4272,6 +4271,11 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 4734,4118,106 Chelsea View Dr,-36.816512,174.70985
 4735,4001,Opposite 12 Onetaunga Rd,-36.817506,174.70799
 4736,4126,Opposite 49 Balmain Rd,-36.81491,174.70799
+4737,4124,10 Onetaunga Rd,-36.817254,174.70797
+4738,4237,105 Chelsea View Drv,-36.814194,174.70996
+4739,3993,53 Chelsea View Drv,-36.812011,174.71346
+4740,4114,68 Porritt Ave,-36.816413,174.71769
+4741,4112,120 Porritt Ave,-36.812951,174.71886
 4742,4210,Opposite 155 Mokoia Rd,-36.810807,174.71434
 4743,4013,Opposite 185 Mokoia Rd,-36.810891,174.71133
 4744,4130,6 Waipa St,-36.810199,174.70955
@@ -5216,8 +5220,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6143,0495,Orewa College Bus Bay,-36.591465,174.68967
 6144,0496,Gulf Harbour School Bus Bay,-36.609795,174.79993
 6145,0497,Kingsway School Bus Bay,-36.605347,174.68103
-6146,0499,Waiora Rd Outside Stanmore Bay Primary,-36.623973,174.7274
-6147,0498,Waiora Rd Opp Stanmore Bay Primary,-36.624055,174.72735
+6146,4932,Waiora Rd Outside Stanmore Bay Primary,-36.623973,174.7274
+6147,4527,Waiora Rd Opp Stanmore Bay Primary,-36.624055,174.72735
 6148,0500,Weiti - Hbc Coast Highway (Bayes School Bus),-36.592427,174.69832
 6149,5405,379 Swanson Rd,-36.863623,174.60439
 6152,0906,Morningside Dr Near Station,-36.874771,174.73618
@@ -5283,7 +5287,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6248,5596,Makora Rd Opp Kasia Cl,-36.835827,174.61808
 6249,1453,St Kentigern Near Victoria Ave,-36.864311,174.80036
 6250,2019,Wattle Farm Rd By Golf Club,-37.048932,174.88861
-6251,4530,Ferry Road,-36.643667,174.74172
+6251,4530,Opp 102 Ferry Road,-36.643667,174.74172
 6253,2340,Redcastle Crescent,-36.943169,174.90302
 6256,3640,Albany Junior High School,-36.747667,174.69148
 6257,1451,Ascot Ave For Remuera Intermediate (West Side),-36.885799,174.80142
@@ -5305,10 +5309,14 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6297,4706,Gulf Harbour Dr Near Laurie Southwick Pde,-36.612785,174.79043
 6298,4712,Gulf Harbour Dr Near Binnacle Rise,-36.611104,174.78746
 6299,4714,Gulf Harbour Dr Near Careen Grove,-36.610857,174.78338
-6300,4708,Laurie Southwick Pde Near Ferry Terminal,-36.624373,174.78629
+6300,4708,Laurie Southwick Pde Near Ferry Terminal,-36.624825,174.78728
 6301,4214,Massey University,-36.73267,174.70163
+6302,4339,1 Verbena Rd,-36.80579,174.70679
+6303,4307,41 Verbena Rd,-36.802705,174.70869
 6304,4389,91 Verbena Rd,-36.798359,174.70936
+6306,4393,57 Lauderdale Rd,-36.790284,174.70368
 6307,4444,60 Lauderdale Rd,-36.790072,174.70341
+6308,4391,7 Lauderdale Rd,-36.79261,174.707
 6310,4449,13 Balmain Rd,-36.811874,174.70961
 6311,4451,49 Balmain Rd,-36.814811,174.70802
 6312,4143,Opposite 322 Rosedale Rd,-36.742171,174.70096
@@ -5521,6 +5529,9 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6708,5831,Opposite 140 Railside Ave,-36.889931,174.63163
 6711,3555,5 The Avenue,-36.722633,174.69123
 6714,4120,132 Chelsea View Dr,-36.818886,174.71187
+6715,3997,Opposite 148 Chelsea View Dr,-36.82014,174.71122
+6716,3995,169 Chelsea View Dr,-36.817943,174.71108
+6717,4122,62 Onetaunga Rd,-36.820199,174.70812
 6718,3999,71 Onetaunga Rd,-36.820828,174.7088
 6720,2127,Davies Ave Near Putney Way,-36.993076,174.87782
 6722,6013,Opposite 270 Great South Rd Papatoetoe,-36.971737,174.86249
@@ -5546,6 +5557,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6747,3409,5 Calliope Rd,-36.828544,174.79624
 6748,3188,2 Calliope Rd,-36.828471,174.7963
 6749,3608,Opposite 241 Rosedale Rd,-36.741719,174.7106
+6750,4218,72 Eskdale Rd,-36.793697,174.70889
 6751,4427,27 Medallion Dr,-36.719008,174.7167
 6752,4534,Opposite 37 Medallion Dr,-36.71991,174.71717
 6753,4230,10 Hugh Green Dr,-36.727459,174.71798
@@ -6033,6 +6045,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7413,1623,Opp 362 Forest Hill Rd,-36.930347,174.58129
 7414,1700,70 Melrose Rd,-36.915824,174.75339
 7422,2418,124 Favona Rd,-36.948132,174.81171
+7424,3672,20 Porritt Ave,-36.814438,174.71553
 7428,4533,Awaroa Rd And Cableigh Cnr,-36.674111,174.45763
 7429,4535,Sh 16 Near Foster Rd,-36.766428,174.51225
 7431,4938,Sh 16 Near Taupaki,-36.787456,174.57746
@@ -6055,3 +6068,4 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7455,4320,Opp 72 Akoranga Dr,-36.799065,174.75694
 7456,4319,72 Akoranga Dr,-36.799556,174.75775
 7457,2894,Wesley College,-37.149527,174.89085
+7458,1315,Fanshawe St Opp Victoria Park,-36.845669,174.75543
