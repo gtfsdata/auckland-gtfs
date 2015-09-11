@@ -97,7 +97,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0952RT6738,AT,095,Britomart To Whenuapai,3,FFDCDC,0000FF
 0971GW6932,AT,097,Ranui To Downtown Via Henderson,3,64FF00,000000
 0972GW6933,AT,097,Downtown To Ranui Via Henderson,3,64FF00,000000
-1001RT6971,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
+1001RT0781,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
 1002RT0780,AT,NEX,Britomart To Albany,3,FFDCDC,0000FF
 1013WA5748,AT,1,Onetangi To Matiatia Wharf,3,FFFFFF,000000
 1015WA5749,AT,2,Rocky Bay To Matiatia Wharf,3,FFFFFF,000000
@@ -145,7 +145,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1362GW6262,AT,136,Downtown To Ranui Via Henderson,3,64FF00,000000
 1391GW6440,AT,139,Waitakere Station To Swanson Station,3,64FF00,000000
 1392GW6441,AT,139,Swanson Station To Waitakere Station,3,64FF00,000000
-1451GW6013,AT,145,Henderson Hopper Via Mclaren Park & Sturges Rd,3,64FF00,000000
+1451GW6987,AT,145,Henderson Hopper Via Mclaren Park & Sturges Rd,3,64FF00,000000
 1460BCS6225,AT,S014,Kingsway School To Manly,3,FFFFFF,000000
 1461BCS6226,AT,S014,Manly To Kingsway School,3,FFFFFF,000000
 1492GW6725,AT,149,New Lynn To Sturges Road Via Great North Road And Sunnyvale And Henderson,3,64FF00,000000
@@ -178,15 +178,15 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1759RTS6521,AT,S017,Te Atatu To Kelston Schools,3,FFFFFF,000000
 1861UE6394,AT,186,New Lynn Loop Via Seabrook Ave And Astley Ave,3,DCC8FF,C80000
 1950UE6833,AT,195,Downtown To Blockhouse Bay,3,DCC8FF,C80000
-1951GW6717,AT,195,New Lynn To Downtown Via Green Bay,3,64FF00,000000
 1951UE6717,AT,195,New Lynn To Downtown Via Green Bay,3,DCC8FF,C80000
 1952UE6027,AT,195,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
-1953GW6746,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,64FF00,000000
 1953UE6746,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,DCC8FF,C80000
 1954UE6075,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
 1955UE6828,AT,195,Blockhouse Bay To Downtown,3,DCC8FF,C80000
 1956GW6125,AT,195,Downtown To New Lynn Via Green Bay,3,64FF00,000000
+1957GW6988,AT,195,New Lynn To Downtown Via Green Bay,3,64FF00,000000
 1958GW6747,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,64FF00,000000
+1959GW6989,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,64FF00,000000
 2091UE6691,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
 2092UE6079,AT,209,Downtown To Titirangi Via Green Bay,3,DCC8FF,C80000
 2093GW6692,AT,209,Titirangi To Downtown Via Green Bay,3,64FF00,000000
@@ -681,7 +681,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8983NS0729,AT,898,Army Bay To Silverdale,3,0096FF,000000
 8984NS3761,AT,898,Silverdale To Army Bay,3,0096FF,000000
 8986NS4034,AT,898,999 Silverdale To Army Bay To Orewa,3,0096FF,000000
-8987NS6976,AT,898,898 Orewa To Army Bay To Silverdale To Takapuna,3,0096FF,000000
+8987NS4175,AT,898,898 Orewa To Army Bay To Silverdale To Takapuna,3,0096FF,000000
 8988NS6014,AT,898,896 Takapuna To Army Bay To Midtown,3,0096FF,000000
 8991NS1557,AT,899,Army Bay To Takapuna,3,0096FF,000000
 8992NS6813,AT,899,Takapuna To Army Bay,3,0096FF,000000
@@ -1253,19 +1253,14 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 13102BF4459,AT,RAK,Downtown To Rakino Island Ferry,4,FFFFFF,000000
 14001FF2091,AT,DEV,Devonport To Auckland,4,FFFFFF,000000
 14002FF2090,AT,DEV,Auckland To Devonport,4,FFFFFF,000000
-15001360D2093,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
 15001360D6979,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
-15002360D2092,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
 15002360D6980,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
 15003360D6981,AT,GULF,Gulf Harbour To Auckland,4,FFFFFF,000000
 15004360D6982,AT,GULF,Auckland To Gulf Harbour,4,FFFFFF,000000
 20001FF2094,AT,HMB,Half Moon Bay To Auckland,4,FFFFFF,000000
 20004FF2495,AT,HMB,Auckland To Half Moon Bay,4,FFFFFF,000000
-25001360D6432,AT,HOBS,Hobsonville To Auckland Via Beach Haven,4,FFFFFF,000000
 25001360D6983,AT,HOBS,Hobsonville To Auckland Via Beach Haven,4,FFFFFF,000000
-25002360D6433,AT,HOBS,Auckland To Hobsonville Via Beach Haven,4,FFFFFF,000000
 25002360D6984,AT,HOBS,Auckland To Hobsonville Via Beach Haven,4,FFFFFF,000000
-25003360D6434,AT,HOBS,Beach Haven To Auckland Via Hobsonville,4,FFFFFF,000000
 25003360D6985,AT,HOBS,Beach Haven To Auckland Via Hobsonville,4,FFFFFF,000000
 25004360D5080,AT,HOBS,Beach Haven To Hobsonville,4,FFFFFF,000000
 98011FF6280,AT,MTIA,Waiheke Island To Auckland Direct,4,FFFFFF,000000
@@ -1275,10 +1270,8 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 98020FF6287,AT,MTIA,Devonport To Waiheke Island,4,FFFFFF,000000
 99011PH6272,AT,PINE,Pine Harbour To Auckland,4,FFFFFF,000000
 99012PH6273,AT,PINE,Auckland To Pine Harbour,4,FFFFFF,000000
-99311FF6288,AT,SBAY,Stanley Bay To Auckland,4,FFFFFF,000000
 99311FF6986,AT,SBAY,Stanley Bay To Auckland,4,FFFFFF,000000
-99312FF6289,AT,SBAY,Auckland To Stanley Bay,4,FFFFFF,000000
-99314FF6290,AT,SBAY,Auckland To Stanley Bay (On Request Via Bayswater),4,FFFFFF,000000
+99312FF6990,AT,SBAY,Auckland To Stanley Bay,4,FFFFFF,000000
 99511BF6291,AT,WSTH,West Harbour To Auckland,4,FFFFFF,000000
 99512BF6292,AT,WSTH,Auckland To West Harbour,4,FFFFFF,000000
 10044VTW6416,AT,WEST,Britomart To Henderson,2,FFFFFF,000000
@@ -1291,9 +1284,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 21002VTS2054,AT,STH,Britomart To Papakura Via Newmarket,2,FFFFFF,000000
 24107VTS6852,AT,STH,Homai To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
-40017VTO6754,AT,ONE,Penrose To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
-40028VTO6757,AT,ONE,Britomart To Penrose,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
