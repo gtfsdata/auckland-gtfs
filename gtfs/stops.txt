@@ -31,6 +31,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 0033,7050,110 Queen St,-36.846902,174.766
 0034,7052,174 Queen St,-36.848088,174.76565
 0035,7094,Victoria St Near Queen St,-36.848984,174.76486
+0036,7098,66 Victoria St,-36.848379,174.76275
 0037,7100,Victoria St West Outside Sky Tower,-36.848217,174.76221
 0038,7102,100 Victoria St,-36.847842,174.7609
 0039,7104,156 Victoria St,-36.847911,174.75888
@@ -1551,6 +1552,8 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 1714,6850,118 Kilkenny Drv,-36.934684,174.91954
 1715,6360,208 Kilkenny Dr,-36.942066,174.91752
 1716,6245,19 Smales Rd,-36.943396,174.89785
+1717,7082,134 Hobson St,-36.850514,174.76065
+1719,7084,206 Hobson St,-36.852698,174.75934
 1720,7078,156 Vincent St,-36.854812,174.75907
 1721,7085,143 Vincent St,-36.854423,174.75916
 1723,7132,278 Karangahape Rd,-36.85768,174.7584
@@ -1825,7 +1828,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 2022,8611,5 Staveley Ave,-36.919596,174.74702
 2028,8963,43 Hayr Rd,-36.912852,174.75546
 2029,8533,Mt Eden Rd Near Three Kings Plaza,-36.908755,174.7585
-2030,8529,Opposite 918 Mt Eden Rd,-36.904291,174.75923
+2030,8529,Mt Eden Rd Opp Kingsway,-36.90505,174.75912
 2031,8531,Opposite 880 Mt Eden Rd,-36.90237,174.7593
 2032,8527,953 Mt Eden Rd,-36.901239,174.75846
 2033,8525,931 Mt Eden Rd,-36.899636,174.75673
@@ -5550,6 +5553,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6738,5836,120 Hobsonville Rd,-36.799154,174.64572
 6740,4801,461 Hibiscus Coast Highway,-36.575279,174.69071
 6741,4705,Opposite 342 Gulf Harbour Dr,-36.610611,174.80284
+6743,4654,578 Whangaparaoa Rd,-36.628757,174.73194
 6744,4646,696 Whangaparaoa Rd,-36.635113,174.74566
 6745,4632,936 Whangaparaoa Rd,-36.631625,174.76369
 6746,3185,942 East Coast Rd,-36.70995,174.72782
@@ -5825,6 +5829,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7095,1043,111 Valley Rd,-36.876103,174.75178
 7098,2161,149 Kirkbride Rd,-36.970008,174.7858
 7099,2163,415 Massey Road,-36.96934,174.82183
+7100,4194,49 Stredwick Drive,-36.696681,174.73352
 7104,0710,103 Centreway Rd (Arrive),-36.586347,174.69183
 7105,0711,20 Silverdale St (Arrive),-36.617458,174.67663
 7106,0004,Wellesley St Near Albert St (Arrive),-36.850113,174.762
@@ -6044,6 +6049,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7414,1700,70 Melrose Rd,-36.915824,174.75339
 7422,2418,124 Favona Rd,-36.948132,174.81171
 7424,3672,20 Porritt Ave,-36.814438,174.71553
+7427,4457,5 Stredwick Dr,-36.694647,174.73055
 7428,4533,Awaroa Rd And Cableigh Cnr,-36.674111,174.45763
 7429,4535,Sh 16 Near Foster Rd,-36.766428,174.51225
 7431,4938,Sh 16 Near Taupaki,-36.787456,174.57746
@@ -6067,3 +6073,29 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 7456,4319,72 Akoranga Dr,-36.799556,174.75775
 7457,2894,Wesley College,-37.149527,174.89085
 7458,1315,Fanshawe St Opp Victoria Park,-36.845669,174.75543
+7460,4539,115 Ferry Road,-36.642395,174.74348
+7461,4543,17 Link Crescent,-36.636653,174.74514
+7462,4532,8 Link Crescent,-36.636484,174.74504
+7465,4538,Laurie Southwick Pde By Bella Vista,-36.614595,174.78946
+7466,4540,Millwater Parkway Opp Polarity Rise,-36.612684,174.68385
+7467,4547,Millwater Parkway Opp Cannon St Walkway,-36.612639,174.68326
+7468,4549,Opp 26 Millwater Parkway Nr Stella Maris Lane,-36.609026,174.6781
+7469,4542,26 Millwater Parkway Nr Stella Maris Lane,-36.608852,174.67827
+7470,4551,Bankside Rd By Stables Lane,-36.604984,174.67779
+7471,4544,Bankside Rd By Miller Rise,-36.604939,174.67717
+7472,4546,58 Bankside Rd By Manuel Rd,-36.604726,174.67297
+7473,4553,Opp 62 Bankside Rd By Butler Stoney Crescent,-36.60463,174.67337
+7474,4555,Opp 26 Bankside Rd By Maddison Terrace,-36.602349,174.66881
+7475,4548,20 Bankside Rd,-36.602019,174.66801
+7477,4557,7 Bankside Rd,-36.601731,174.66511
+7478,4550,Opp 3 Bankside Rd,-36.601578,174.66452
+7480,4563,345 Millwater Parkway,-36.59826,174.66804
+7484,4556,Opp 299 Millwater Parkway,-36.597989,174.67042
+7485,4565,Opp 126 Grand Dr,-36.589366,174.67655
+7486,4560,126 Grand Dr,-36.58935,174.67412
+7487,4575,55 Grand Dr,-36.588383,174.68057
+7488,4562,Opp 37 Grand Dr,-36.586534,174.68236
+7490,4564,82 Florence Ave,-36.586234,174.68822
+7491,4573,Opp Retirement Village West Hoe Rd,-36.583358,174.68601
+7492,4577,131 Lakeside Drv,-36.589395,174.68154
+7493,4566,Silverdale St Opp Stella Maris,-36.614735,174.67896

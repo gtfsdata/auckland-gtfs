@@ -30,59 +30,97 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0255MBS6799,AT,S002M,Clendon To Manurewa High & Greenmeadows,3,FFFFFF,000000
 0262MBS5990,AT,S002M,Greenmeadows Intermediate And Manurewa High To Clendon,3,FFFFFF,000000
 0301ML6556,AT,030,Pt Chevalier To Britomart Via Williamson Ave,3,00F0FF,000000
+0301ML6992,AT,030,Pt Chevalier To Midtown Via Williamson Ave,3,00F0FF,000000
 0302ML6126,AT,030,Britomart To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
+0302ML6993,AT,030,Midtown To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
 0303ML6557,AT,030,Pt Chevalier To Britomart Via Muripara And Williamson Ave,3,00F0FF,000000
+0303ML7049,AT,030,Pt Chevalier To Midtown Via Muripara And Williamson Ave,3,00F0FF,000000
 0304ML6558,AT,030,Britomart To Pt Chevalier Via Williamson And Muripara Ave,3,00F0FF,000000
+0304ML7050,AT,030,Midtown To Pt Chevalier Via Williamson And Muripara Ave,3,00F0FF,000000
 0306ML6157,AT,030,Britomart To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
+0306ML7051,AT,030,Midtown To Pt Chevalier Via Williamson Ave,3,00F0FF,000000
 0353MBS5991,AT,S003G,Flat Bush To Alfriston Sch And Takanini To Alfriston Col,3,FFFFFF,000000
 0362MBS5992,AT,S003G,Alfriston Sch To Flat Bush And Alfrsiton Col To Takanini,3,FFFFFF,000000
 0411GW6095,AT,04X,Te Atatu Peninsula To Downtown Express,3,64FF00,000000
+0411GW7052,AT,04X,Te Atatu Peninsula To Midtown Express,3,64FF00,000000
 0412GW6158,AT,04X,Downtown To Te Atatu Peninsula Express,3,64FF00,000000
+0412GW7053,AT,04X,Midtown To Te Atatu Peninsula Express,3,64FF00,000000
 0450MBS5993,AT,S004G,Manurewa High To Weymouth And Wattle Downs,3,FFFFFF,000000
 0453MBS5994,AT,S004G,Weymouth And Wattle Downs To Manurewa High,3,FFFFFF,000000
 0481GW6701,AT,048,Te Atatu Peninsula To Britomart,3,64FF00,000000
+0481GW6994,AT,048,Te Atatu Peninsula To Midtown,3,64FF00,000000
 0482GW6702,AT,048,Britomart To Te Atatu Peninsula,3,64FF00,000000
+0482GW6995,AT,048,Midtown To Te Atatu Peninsula,3,64FF00,000000
 0486GW6144,AT,048,Britomart To Te Atatu Peninsula,3,64FF00,000000
+0486GW6996,AT,048,Midtown To Te Atatu Peninsula,3,64FF00,000000
 0491GW6703,AT,049,Henderson To Britomart Via Te Atatu Peninsula,3,64FF00,000000
+0491GW6997,AT,049,Henderson To Midtown Via Te Atatu Peninsula,3,64FF00,000000
 0492GW6145,AT,049,Britomart To Te Atatu Peninsula To Henderson,3,64FF00,000000
+0492GW6998,AT,049,Midtown To Te Atatu Peninsula To Henderson,3,64FF00,000000
 0493GW6908,AT,049,Henderson To Te Atatu Peninsula,3,64FF00,000000
 0501WP5972,AT,50,Port Waikato To Pukekohe,3,B4FFFF,000000
 0502WP5973,AT,50,Pukekohe To Port Waikato,3,B4FFFF,000000
 0601RT6840,AT,060,Helensville To Downtown,3,FFDCDC,0000FF
+0601RT7054,AT,060,Helensville To Midtown,3,FFDCDC,0000FF
 0602RT6727,AT,060,Downtown To Helensville,3,FFDCDC,0000FF
+0602RT7055,AT,060,Midtown To Helensville,3,FFDCDC,0000FF
 0603RT6834,AT,060,Helensville To Westgate,3,FFDCDC,0000FF
 0604RT6705,AT,060,Westgate To Helensville,3,FFDCDC,0000FF
 0701RT6728,AT,070,Westgate To Downtown,3,FFDCDC,0000FF
+0701RT7056,AT,070,Westgate To Midtown,3,FFDCDC,0000FF
 0702RT6160,AT,070,Downtown To Westgate,3,FFDCDC,0000FF
+0702RT7057,AT,070,Midtown To Westgate,3,FFDCDC,0000FF
 0711GW6729,AT,07X,Parrs Corner To Britomart Express,3,64FF00,000000
+0711GW7058,AT,07X,Parrs Corner To Midtown Express,3,64FF00,000000
 0712GW6730,AT,07X,Britomart To Parrs Corner Express,3,64FF00,000000
+0712GW7059,AT,07X,Midtown To Parrs Corner Express,3,64FF00,000000
 0791GW6781,AT,079,Sturges Road To Britomart,3,64FF00,000000
+0791GW7060,AT,079,Sturges Road To Midtown,3,64FF00,000000
 0792GW6731,AT,079,Britomart To Sturges Road Via Sunnyvale,3,64FF00,000000
+0792GW7061,AT,079,Britomart To Sturges Road Via Sunnyvale,3,64FF00,000000
 0801RT6706,AT,080,Westgate To Britomart,3,FFDCDC,0000FF
+0801RT6999,AT,080,Westgate To Midtown,3,FFDCDC,0000FF
 0802UE6707,AT,008,New Lynn To Otahuhu,3,DCC8FF,C80000
 0803UE6708,AT,008,Otahuhu To New Lynn,3,DCC8FF,C80000
 0804RT6709,AT,080,Britomart To Westgate,3,FFDCDC,0000FF
+0804RT7000,AT,080,Midtown To Westgate,3,FFDCDC,0000FF
 0808RT6732,AT,080,Henderson To Westgate Via Don Buck Rd,3,FFDCDC,0000FF
 0811RT6733,AT,081,Westgate To Downtown,3,FFDCDC,0000FF
+0811RT7062,AT,081,Westgate To Midtown,3,FFDCDC,0000FF
 0812RT6734,AT,081,Downtown To Westgate,3,FFDCDC,0000FF
+0812RT7063,AT,081,Midtown To Westgate,3,FFDCDC,0000FF
 0821RT3820,AT,082,Westgate To Te Atatu Peninnsula,3,FFDCDC,0000FF
 0822RT3821,AT,082,Te Atatu Peninnsula To Westgate,3,FFDCDC,0000FF
 0851GW6036,AT,085,Swanson To Downtown Via Henderson,3,64FF00,000000
+0851GW7064,AT,085,Swanson To Midtown Via Henderson,3,64FF00,000000
 0852GW6266,AT,085,Downtown To Swanson Via Henderson,3,64FF00,000000
+0852GW7065,AT,085,Midtown To Swanson Via Henderson,3,64FF00,000000
 0871GW6919,AT,087,Ranui To Downtown Via Henderson,3,64FF00,000000
+0871GW7066,AT,087,Ranui To Midtown Via Henderson,3,64FF00,000000
 0872GW6920,AT,087,Downtown To Ranui Via Henderson,3,64FF00,000000
+0872GW7067,AT,087,Midtown To Ranui Via Henderson,3,64FF00,000000
 0873GW6930,AT,087,Ranui To Downtown Via Henderson (Rsa),3,64FF00,000000
+0873GW7068,AT,087,Ranui To Midtown Via Henderson (Rsa),3,64FF00,000000
 0874GW6931,AT,087,Downtown To Ranui Via Henderson (Rsa),3,64FF00,000000
+0874GW7069,AT,087,Midtown To Ranui Via Henderson (Rsa),3,64FF00,000000
 0901RT6710,AT,090,Westgate To Britomart Via Massey East,3,FFDCDC,0000FF
+0901RT7070,AT,090,Westgate To Midtown Via Massey East,3,FFDCDC,0000FF
 0902RT6236,AT,090,Britomart To Westgate Via Massey East,3,FFDCDC,0000FF
+0902RT7071,AT,090,Midtown To Westgate Via Massey East,3,FFDCDC,0000FF
 0905RT3703,AT,090,Westgate To Henderson Via Massey East,3,FFDCDC,0000FF
 0906RT3651,AT,090,Henderson To Westgate Via Massey East,3,FFDCDC,0000FF
 0911RT6735,AT,091,Westgate To Downtown,3,FFDCDC,0000FF
+0911RT7072,AT,091,Westgate To Midtown,3,FFDCDC,0000FF
 0912RT6736,AT,091,Downtown To Westgate,3,FFDCDC,0000FF
+0912RT7073,AT,091,Midtown To Westgate,3,FFDCDC,0000FF
 0913GW6121,AT,09X,Sturges Rd To Britomart Express,3,64FF00,000000
+0913GW7074,AT,09X,Sturges Rd To Midtown Express,3,64FF00,000000
 0914GW6202,AT,09X,Britomart To Sturges Rd Express,3,64FF00,000000
+0914GW7075,AT,09X,Midtown To Sturges Rd Express,3,64FF00,000000
 0921RT6711,AT,092,Hobsonville To Britomart,3,FFDCDC,0000FF
+0921RT7076,AT,092,Hobsonville To Midtown,3,FFDCDC,0000FF
 0922RT6712,AT,092,Britomart To Hobsonville,3,FFDCDC,0000FF
+0922RT7077,AT,092,Midtown To Hobsonville,3,FFDCDC,0000FF
 0923RT6713,AT,092,Hobsonville To Henderson,3,FFDCDC,0000FF
 0924RT6714,AT,092,Henderson To Hobsonville,3,FFDCDC,0000FF
 0925RT6203,AT,092,Hobsonville To Westgate,3,FFDCDC,0000FF
@@ -94,11 +132,18 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0937RT6402,AT,093,Whenuapai To Westgate Via Hobsonville Wharf,3,FFDCDC,0000FF
 0938RT6173,AT,093,Westgate To Whenuapai Via Hobsonville Wharf,3,FFDCDC,0000FF
 0951RT6737,AT,095,Whenuapai To Britomart,3,FFDCDC,0000FF
+0951RT7078,AT,095,Whenuapai To Midtown,3,FFDCDC,0000FF
 0952RT6738,AT,095,Britomart To Whenuapai,3,FFDCDC,0000FF
+0952RT7079,AT,095,Midtown To Whenuapai,3,FFDCDC,0000FF
 0971GW6932,AT,097,Ranui To Downtown Via Henderson,3,64FF00,000000
+0971GW7080,AT,097,Ranui To Midtown Via Henderson,3,64FF00,000000
 0972GW6933,AT,097,Downtown To Ranui Via Henderson,3,64FF00,000000
+0972GW7081,AT,097,Midtown To Ranui Via Henderson,3,64FF00,000000
 1001RT0781,AT,NEX,Albany To Britomart,3,FFDCDC,0000FF
 1002RT0780,AT,NEX,Britomart To Albany,3,FFDCDC,0000FF
+1003RT7001,AT,NEX,Hibiscus Coast Station To Britomart,3,FFDCDC,0000FF
+1004RT7002,AT,NEX,Britomart To Hc Station Via All Busway Stations,3,FFDCDC,0000FF
+1005RT7082,AT,NEX,Hibiscus Coast Station To Britomart (Morning Peak),3,FFDCDC,0000FF
 1013WA5748,AT,1,Onetangi To Matiatia Wharf,3,FFFFFF,000000
 1015WA5749,AT,2,Rocky Bay To Matiatia Wharf,3,FFFFFF,000000
 1018WA5750,AT,2,Matiatia Wharf To Rocky Bay,3,FFFFFF,000000
@@ -114,14 +159,21 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1111WA5878,AT,1A,Onetangi To Matiatia Wharf,3,FFFFFF,000000
 1112WA5720,AT,4,Matiatia Wharf To Onetangi Direct,3,FFFFFF,000000
 1113GW6050,AT,11X,Henderson To Britomart Express Via Glendene,3,64FF00,000000
+1113GW7083,AT,11X,Henderson To Midtown Express Via Glendene,3,64FF00,000000
 1114GW6739,AT,11X,Britomart To Henderson Via Glendene Express,3,64FF00,000000
+1114GW7084,AT,11X,Midown To Henderson Via Glendene Express,3,64FF00,000000
 1131GW6084,AT,113,Henderson To Britomart Via Glendene,3,64FF00,000000
+1131GW7003,AT,113,Henderson To Midtown Via Glendene,3,64FF00,000000
 1132GW6724,AT,113,Downtown To Henderson Via Glendene,3,64FF00,000000
+1132GW7004,AT,113,Midtown To Henderson Via Glendene,3,64FF00,000000
 1133GW6085,AT,113,Henderson To New Lynn Via Great North Road,3,64FF00,000000
 1134GW6009,AT,113,New Lynn To Henderson Via Great North Road,3,64FF00,000000
 1136GW6740,AT,113,Downtown To Henderson And Liston College Via Glendene,3,64FF00,000000
+1136GW7085,AT,113,Midtown To Henderson And Liston College Via Glendene,3,64FF00,000000
 1151GW6086,AT,115,Henderson To Britomart Via Glendene,3,64FF00,000000
+1151GW7086,AT,115,Henderson To Midtown Via Glendene,3,64FF00,000000
 1152GW6053,AT,115,Downtown To Henderson Via Glendene,3,64FF00,000000
+1152GW7087,AT,115,Midtown To Henderson Via Glendene,3,64FF00,000000
 1153GW6087,AT,115,Henderson To New Lynn Via Glendene,3,64FF00,000000
 1154GW6011,AT,115,New Lynn To Henderson Via Glendene,3,64FF00,000000
 1158GWS6054,AT,S115B,Avondale College To New Lynn,3,FFFFFF,000000
@@ -137,12 +189,18 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1308RT6178,AT,130,Westgate To Takapuna,3,FFDCDC,0000FF
 1309RT6630,AT,130,Smales Farm To Westgate,3,FFDCDC,0000FF
 1311GW6934,AT,13X,Ranui To Downtown Express,3,64FF00,000000
+1311GW7088,AT,13X,Ranui To Midtown Express,3,64FF00,000000
 1312GW6935,AT,13X,Downtown To Ranui Express,3,64FF00,000000
+1312GW7089,AT,13X,Midtown To Ranui Express,3,64FF00,000000
 1351GW6057,AT,135,Swanson To Downtown Via Henderson,3,64FF00,000000
+1351GW7090,AT,135,Swanson To Midtown Via Henderson,3,64FF00,000000
 1352GW6261,AT,135,Downtown To Swanson Via Henderson,3,64FF00,000000
+1352GW7091,AT,135,Midtown To Swanson Via Henderson (Crl),3,64FF00,000000
 1353GW6059,AT,135,Swanson To New Lynn Via Henderson,3,64FF00,000000
 1361GW6921,AT,136,Ranui To Downtown Via Henderson,3,64FF00,000000
+1361GW7005,AT,136,Ranui To Midtown Via Henderson,3,64FF00,000000
 1362GW6262,AT,136,Downtown To Ranui Via Henderson,3,64FF00,000000
+1362GW7006,AT,136,Midtown To Ranui Via Henderson,3,64FF00,000000
 1391GW6440,AT,139,Waitakere Station To Swanson Station,3,64FF00,000000
 1392GW6441,AT,139,Swanson Station To Waitakere Station,3,64FF00,000000
 1451GW6987,AT,145,Henderson Hopper Via Mclaren Park & Sturges Rd,3,64FF00,000000
@@ -151,13 +209,19 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1492GW6725,AT,149,New Lynn To Sturges Road Via Great North Road And Sunnyvale And Henderson,3,64FF00,000000
 1493GW6779,AT,149,Sturges Road To New Lynn,3,64FF00,000000
 1511GW6742,AT,15X,Henderson To Downtown Express Via Glen Eden,3,64FF00,000000
+1511GW7092,AT,15X,Henderson To Midtown Express Via Glen Eden,3,64FF00,000000
 1512GW6205,AT,15X,Downtown To Henderson Express Via Glen Eden,3,64FF00,000000
+1512GW7093,AT,15X,Midtown To Henderson Express Via Glen Eden,3,64FF00,000000
 1531GW6019,AT,153,Henderson To Britomart Via Glen Eden And New Lynn,3,64FF00,000000
+1531GW7007,AT,153,Henderson To Midtown Via Glen Eden And New Lynn,3,64FF00,000000
 1532GW6209,AT,153,Britomart To Henderson Via Glen Eden,3,64FF00,000000
+1532GW7008,AT,153,Midtown To Henderson Via Glen Eden,3,64FF00,000000
 1533GW6743,AT,153,Henderson To New Lynn Via Great North Road And Glen Eden,3,64FF00,000000
 1534GW6063,AT,153,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
 1541GW6715,AT,154,Henderson To Britomart  Via Glen Eden And New Lynn And Great North Road,3,64FF00,000000
+1541GW7009,AT,154,Henderson To Midtown Via Glen Eden And New Lynn And Great North Road,3,64FF00,000000
 1542GW6716,AT,154,Britomart To Henderson Via Glen Eden,3,64FF00,000000
+1542GW7010,AT,154,Midtown To Henderson Via Glen Eden,3,64FF00,000000
 1544GW6744,AT,154,New Lynn To Henderson Via Glen Eden,3,64FF00,000000
 1559RTS6631,AT,015C,Glendene To Avondale College,3,FFFFFF,000000
 1560RTS6768,AT,S015C,Avondale College To Glendene,3,FFFFFF,000000
@@ -170,26 +234,39 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 1711RT6306,AT,171,Laingholm To New Lynn,3,FFDCDC,0000FF
 1712RT6113,AT,171,New Lynn To Laingholm,3,FFDCDC,0000FF
 1713RT6123,AT,171X,Laingholm To Downtown Express,3,FFDCDC,0000FF
+1713RT7094,AT,171X,Laingholm To Midtown Express,3,FFDCDC,0000FF
 1714RT6181,AT,171X,Downtown To Laingholm Express,3,FFDCDC,0000FF
+1714RT7095,AT,171X,Midtown To Laingholm Express,3,FFDCDC,0000FF
 1721GW6120,AT,172,Glen Eden To New Lynn Via Titirangi,3,64FF00,000000
 1722GW6115,AT,172,New Lynn To Glen Eden Via Titirangi,3,64FF00,000000
 1723GW6124,AT,172X,Glen Eden To Britomart Express Via Titirangi,3,64FF00,000000
+1723GW7096,AT,172X,Glen Eden To Midtown Express Via Titirangi,3,64FF00,000000
 1724GW6116,AT,172X,Britomart To Glen Eden Via Titirangi,3,64FF00,000000
+1724GW7097,AT,172X,Midtown To Glen Eden Via Titirangi,3,64FF00,000000
 1759RTS6521,AT,S017,Te Atatu To Kelston Schools,3,FFFFFF,000000
 1861UE6394,AT,186,New Lynn Loop Via Seabrook Ave And Astley Ave,3,DCC8FF,C80000
 1950UE6833,AT,195,Downtown To Blockhouse Bay,3,DCC8FF,C80000
+1950UE7098,AT,195,Midtown To Blockhouse Bay,3,DCC8FF,C80000
 1951UE6717,AT,195,New Lynn To Downtown Via Green Bay,3,DCC8FF,C80000
+1951UE7011,AT,195,New Lynn To Midtown Via Green Bay,3,DCC8FF,C80000
 1952UE6027,AT,195,Downtown To New Lynn Via Green Bay,3,DCC8FF,C80000
+1952UE7012,AT,195,Midtown To New Lynn Via Green Bay,3,DCC8FF,C80000
 1953UE6746,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,DCC8FF,C80000
 1954UE6075,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,DCC8FF,C80000
 1955UE6828,AT,195,Blockhouse Bay To Downtown,3,DCC8FF,C80000
+1955UE7099,AT,195,Blockhouse Bay To Midtown,3,DCC8FF,C80000
 1956GW6125,AT,195,Downtown To New Lynn Via Green Bay,3,64FF00,000000
+1956GW7100,AT,195,Midtown To New Lynn Via Green Bay,3,64FF00,000000
 1957GW6988,AT,195,New Lynn To Downtown Via Green Bay,3,64FF00,000000
+1957GW7101,AT,195,New Lynn To Midtown Via Green Bay,3,64FF00,000000
 1958GW6747,AT,195,Blockhouse Bay To New Lynn Via Green Bay,3,64FF00,000000
 1959GW6989,AT,195,New Lynn To Blockhouse Bay Via Green Bay,3,64FF00,000000
 2091UE6691,AT,209,Titirangi To Downtown Via Green Bay,3,DCC8FF,C80000
+2091UE7102,AT,209,Titirangi To Midtown Via Green Bay,3,DCC8FF,C80000
 2092UE6079,AT,209,Downtown To Titirangi Via Green Bay,3,DCC8FF,C80000
+2092UE7103,AT,209,Midtown To Titirangi Via Green Bay,3,DCC8FF,C80000
 2093GW6692,AT,209,Titirangi To Downtown Via Green Bay,3,64FF00,000000
+2093GW7104,AT,209,Titirangi To Midtown Via Green Bay,3,64FF00,000000
 2201GW5847,AT,220,St Lukes To Midtown,3,64FF00,000000
 2202GW5848,AT,220,Midtown To St Lukes,3,64FF00,000000
 2211GW6109,AT,221,Rosebank Road To Midtown,3,64FF00,000000
@@ -421,16 +498,24 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 5203WP0405,AT,52F,Mt Wellington To Britomart Flyer,3,B4FFFF,000000
 5204WP1661,AT,52F,Britomart  To Mt Wellington Flyer,3,B4FFFF,000000
 5213ML6579,AT,N13,Civic Centre To New Lynn And Henderson,3,00F0FF,000000
+5213ML7160,AT,N13,Civic Centre To New Lynn And Henderson,3,00F0FF,000000
 5221WP4743,AT,522,Mt Wellington To Britomart  Via Mt Wellington Highway,3,B4FFFF,000000
 5222WP1653,AT,522,Britomart To Mt Wellington Via Panama Road,3,B4FFFF,000000
 5223WP5610,AT,522,Mt Wellington To Britomart  Via Panmure Tc,3,B4FFFF,000000
 5224ML6580,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
+5224ML7161,AT,N24,Civic Centre To Blockhouse Bay And New Nth Rd Via Sandringham Rd,3,00F0FF,000000
 5226ML6581,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
+5226ML7162,AT,N26,Civic Centre To Lynfield Via Dominion Rd,3,00F0FF,000000
 5231WP6829,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,000000
+5231WP7163,AT,N31,Civic Centre To Onehunga And Mangere & Papatoetoe,3,B4FFFF,000000
 5247WP6468,AT,N47,Civic Centre To Papakura Via Great South Rd,3,B4FFFF,000000
+5247WP7164,AT,N47,Civic Centre To Papakura Via Great South Rd,3,B4FFFF,000000
 5250HE5586,AT,N50,Civic Centre To Pakuranga And Howick,3,960000,FFFFFF
+5250HE7165,AT,N50,Civic Centre To Pakuranga And Howick,3,960000,FFFFFF
 5255RT1790,AT,N05,Civic Centre To Te Atatu And Massey,3,FFDCDC,0000FF
+5255RT7166,AT,N05,Civic Centre To Te Atatu And Massey,3,FFDCDC,0000FF
 5262ML6582,AT,N62,Civic To Remuera And Panmure,3,00F0FF,000000
+5262ML7167,AT,N62,Civic To Remuera And Panmure,3,00F0FF,000000
 5283NS1789,AT,N83,Civic Centre To Takapuna And East Coast Bays,3,0096FF,000000
 5297BH1421,AT,N97,Onewa - Auckland,3,FFDC78,960000
 5298BH6469,AT,N97,Civic Centre To Birkenhead & Beach Haven,3,FFDC78,960000
@@ -561,7 +646,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7571ML6764,AT,757,Otahuhu To Britomart  Via Panmure And Glen Innes And Mission Bay,3,00F0FF,000000
 7572ML6765,AT,757,Britomart To Otahuhu Via Mission Bay And Glen Innes And Panmure,3,00F0FF,000000
 7603NS5121,AT,76X,Long Bay To Midtown Express,3,0096FF,000000
+7603NS7105,AT,76X,Long Bay To Midtown Express,3,0096FF,000000
 7604NS5166,AT,76X,Midtown To Long Bay Express,3,0096FF,000000
+7604NS7106,AT,76X,Midtown To Long Bay Express,3,0096FF,000000
 7671ML6604,AT,767,Glendowie South To Britomart  Via Tamaki Drive,3,00F0FF,000000
 7672ML6766,AT,767,Britomart To Glendowie South Via Tamaki Drive,3,00F0FF,000000
 7681ML6182,AT,768,Glendowie To Britomart  Via Tamaki Drive,3,00F0FF,000000
@@ -580,15 +667,22 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 7792RT0687,AT,779,Devonport Wharf To Stanley Bay And Return,3,FFDCDC,0000FF
 7972LNK4423,AT,CTY,Wynyard Quarter,3,FFFFFF,000000
 7981LNK6435,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
+7981LNK7013,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
 7982LNK6610,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
 7983LNK6611,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
 7984LNK6675,AT,INN,Inner Link Anticlockwise,3,FFFFFF,000000
 7991LNK6436,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7991LNK7014,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
 7992LNK6612,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7992LNK7015,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
 7993LNK6676,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7993LNK7107,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
 7994LNK6613,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
+7994LNK7016,AT,INN,Inner Link Clockwise,3,FFFFFF,000000
 8020RT5194,AT,802X,Midtown To Bayswater Express,3,FFDCDC,0000FF
+8020RT7108,AT,802X,Midtown To Bayswater Express,3,FFDCDC,0000FF
 8025RT5122,AT,802X,Bayswater To Midtown Express,3,FFDCDC,0000FF
+8025RT7109,AT,802X,Bayswater To Midtown Express,3,FFDCDC,0000FF
 8031RT6220,AT,803,Bayswater Wharf To Takapuna,3,FFDCDC,0000FF
 8032RT4447,AT,803,Takapuna To Bayswater Via Francis St,3,FFDCDC,0000FF
 8033RT6221,AT,803,Bayswater To Takapuna Via Francis St,3,FFDCDC,0000FF
@@ -609,46 +703,77 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8151RT0475,AT,815,Devonport To Westwell Rd Via Ngataringa Rd,3,FFDCDC,0000FF
 8152RT0476,AT,815,Westwell Rd To Devonport Via Ngataringa Rd,3,FFDCDC,0000FF
 8201NS0794,AT,820,Takapuna To Midtown,3,0096FF,000000
+8201NS7110,AT,820,Takapuna To Midtown,3,0096FF,000000
 8221NS5123,AT,822,Castor Bay To Midtown,3,0096FF,000000
+8221NS7111,AT,822,Castor Bay To Midtown,3,0096FF,000000
 8222NS5168,AT,822,Midtown To Castor Bay,3,0096FF,000000
+8222NS7112,AT,822,Midtown To Castor Bay,3,0096FF,000000
 8341NS5124,AT,834,Browns Bay To Midtown,3,0096FF,000000
+8341NS7113,AT,834,Browns Bay To Midtown,3,0096FF,000000
 8371NS5125,AT,837,Torbay To Midtown,3,0096FF,000000
+8371NS7114,AT,837,Torbay To Midtown,3,0096FF,000000
 8391NS5098,AT,839,Long Bay To Midtown,3,0096FF,000000
+8391NS7017,AT,839,Long Bay To Midtown,3,0096FF,000000
 8392NS5152,AT,839,Midtown To Long Bay,3,0096FF,000000
+8392NS7018,AT,839,Midtown To Long Bay,3,0096FF,000000
 8399NS5746,AT,839,Mairangi Bay To Long Bay To Auckland Via Long Bay College,3,0096FF,000000
+8399NS7115,AT,839,Mairangi Bay To Long Bay To Midtown Via Long Bay College,3,0096FF,000000
 8431NS5906,AT,843,Constellation To Akoranga Station Via Takapuna,3,0096FF,000000
 8432NS5907,AT,843,Akoranga Station To Constellation Via Takapuna,3,0096FF,000000
 8503NS5127,AT,85X,Torbay To Midtown Express Via Browns Bay,3,0096FF,000000
+8503NS7116,AT,85X,Torbay To Midtown Express Via Browns Bay,3,0096FF,000000
 8504NS5169,AT,85X,Midtown To Torbay Express Via Browns Bay,3,0096FF,000000
+8504NS7117,AT,85X,Midtown To Torbay Express Via Browns Bay,3,0096FF,000000
 8581NS5543,AT,858,Long Bay To Midtown,3,0096FF,000000
+8581NS7019,AT,858,Long Bay To Midtown,3,0096FF,000000
 8582NS5712,AT,858,Midtown To Long Bay,3,0096FF,000000
+8582NS7020,AT,858,Midtown To Long Bay,3,0096FF,000000
 8583NS6265,AT,858,Long Bay To Midtown Via North Shore Hospital,3,0096FF,000000
+8583NS7021,AT,858,Long Bay To Midtown Via North Shore Hospital,3,0096FF,000000
 8584NS5713,AT,858,Midtown To Long Bay Via North Shore Hospital,3,0096FF,000000
+8584NS7022,AT,858,Midtown To Long Bay Via North Shore Hospital,3,0096FF,000000
 8603NS5128,AT,86X,Browns Bay To Midtown Express,3,0096FF,000000
+8603NS7118,AT,86X,Browns Bay To Midtown Express,3,0096FF,000000
 8604NS5170,AT,86X,Midtown To Browns Bay Express,3,0096FF,000000
+8604NS7119,AT,86X,Midtown To Browns Bay Express,3,0096FF,000000
 8633NS6222,AT,863X,Mairangi Bay To Midtown Express,3,0096FF,000000
+8633NS7120,AT,863X,Mairangi Bay To Midtown Express,3,0096FF,000000
 8634NS5724,AT,863X,Midtown To Mairangi Bay Express,3,0096FF,000000
+8634NS7121,AT,863X,Midtown To Mairangi Bay Express,3,0096FF,000000
 8665NS5130,AT,866X,Torbay To Midtown Express,3,0096FF,000000
+8665NS7122,AT,866X,Torbay To Midtown Express,3,0096FF,000000
 8703NS5131,AT,87X,Long Bay To Midtown Express,3,0096FF,000000
+8703NS7123,AT,87X,Long Bay To Midtown Express,3,0096FF,000000
 8704NS5172,AT,87X,Midtown To Long Bay Express,3,0096FF,000000
+8704NS7124,AT,87X,Midtown To Long Bay Express,3,0096FF,000000
 8731NS5925,AT,873,Constellation To Takapuna,3,0096FF,000000
 8732NS5926,AT,873,Takapuna To Constellation,3,0096FF,000000
 8733NS5927,AT,873X,Constellation To Midtown Express,3,0096FF,000000
+8733NS7125,AT,873X,Constellation To Midtown Express,3,0096FF,000000
 8734NS5928,AT,873X,Midtown To Constellation  Express,3,0096FF,000000
+8734NS7126,AT,873X,Midtown To Constellation  Express,3,0096FF,000000
 8743NS5133,AT,874X,Constellation  To Midtown Express,3,0096FF,000000
+8743NS7127,AT,874X,Constellation  To Midtown Express,3,0096FF,000000
 8744NS5174,AT,874X,Midtown To Constellation  Express,3,0096FF,000000
+8744NS7128,AT,874X,Midtown To Constellation  Express,3,0096FF,000000
 8751NS5101,AT,875,Browns Bay To Midtown,3,0096FF,000000
+8751NS7023,AT,875,Browns Bay To Midtown,3,0096FF,000000
 8752NS5155,AT,875,Midtown To Browns Bay,3,0096FF,000000
+8752NS7024,AT,875,Midtown To Browns Bay,3,0096FF,000000
 8774NS5929,AT,877X,Midtown To Torbay Express,3,0096FF,000000
+8774NS7129,AT,877X,Midtown To Torbay Express,3,0096FF,000000
 8775NS5930,AT,877X,Torbay To Midtown Express,3,0096FF,000000
+8775NS7130,AT,877X,Torbay To Midtown Express,3,0096FF,000000
 8791NS5102,AT,879,Long Bay To Midtown,3,0096FF,000000
+8791NS7025,AT,879,Long Bay To Midtown,3,0096FF,000000
 8792NS5156,AT,879,Midtown To Long Bay,3,0096FF,000000
+8792NS7026,AT,879,Midtown To Long Bay,3,0096FF,000000
 8794NS0846,AT,879,Takapuna To Long Bay,3,0096FF,000000
 8801RT4851,AT,880,Albany Loop Anticlockwise,3,FFDCDC,0000FF
 8802RT1611,AT,880,Albany Loop Clockwise,3,FFDCDC,0000FF
-8811NS6972,AT,881,Torbay To Newmarket,3,0096FF,000000
+8811NS6991,AT,881,Torbay To Newmarket,3,0096FF,000000
 8812NS5197,AT,881,Newmarket To Torbay,3,0096FF,000000
-8813NS6973,AT,881,Albany Station To Newmarket,3,0096FF,000000
+8813NS3955,AT,881,Albany Station To Newmarket,3,0096FF,000000
 8814NS3956,AT,881,Newmarket To Albany Station,3,0096FF,000000
 8861RT0801,AT,886,Long Bay To Constellation,3,FFDCDC,0000FF
 8862RT4725,AT,886,Constellation To Long Bay,3,FFDCDC,0000FF
@@ -656,7 +781,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8876RT6837,AT,887,Constellation To Long Bay,3,FFDCDC,0000FF
 8911NS5246,AT,891,Albany Station To Takapuna,3,0096FF,000000
 8912NS6838,AT,891,Takapuna To Albany Station,3,0096FF,000000
-8913NS6269,AT,891X,Albany Village To Newmarket,3,0096FF,000000
+8913NS6305,AT,891X,Albany Village To Newmarket,3,0096FF,000000
 8914NS6841,AT,891X,Newmarket To Albany Village,3,0096FF,000000
 8921NS5473,AT,892X,Orewa To Auckland Express,3,0096FF,000000
 8922NS6806,AT,892X,Auckland To Orewa Express And Maygrove Loop,3,0096FF,000000
@@ -690,7 +815,9 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 8996NS4037,AT,899,998 Silverdale To Army Bay To Orewa,3,0096FF,000000
 8997NS0838,AT,899X,Army Bay To Takapuna Express,3,0096FF,000000
 9001RT5135,AT,900X,Unsworth Heights To Midtown Express,3,FFDCDC,0000FF
+9001RT7131,AT,900X,Unsworth Heights To Midtown Express,3,FFDCDC,0000FF
 9002RT5176,AT,900X,Midtown To Unsworth Heights Express,3,FFDCDC,0000FF
+9002RT7132,AT,900X,Midtown To Unsworth Heights Express,3,FFDCDC,0000FF
 9053RT0809,AT,905,Glenfield To Takapuna,3,FFDCDC,0000FF
 9054RT1124,AT,905,Takapuna To Glenfield,3,FFDCDC,0000FF
 9112RT6952,AT,911,Takapuna To Glenfield,3,FFDCDC,0000FF
@@ -704,33 +831,52 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9154BH6750,AT,915,Takapuna To Bayview,3,FFDC78,960000
 9156BH6482,AT,915,Takapuna To Glenfield/Bayview,3,FFDC78,960000
 9203RT6954,AT,920,Sylvan Ave To Auckland,3,FFDCDC,0000FF
+9203RT7133,AT,920,Sylvan Ave To Midtown,3,FFDCDC,0000FF
 9212RT5530,AT,921,Auckland To Hillcrest,3,FFDCDC,0000FF
+9212RT7134,AT,921,Midtown To Hillcrest,3,FFDCDC,0000FF
 9222RT6955,AT,922,Midtown To Takapuna Via Northcote,3,FFDCDC,0000FF
+9222RT7027,AT,922,Midtown To Takapuna Via Northcote,3,FFDCDC,0000FF
 9223RT6956,AT,922,Takapuna To Midtown Via Northcote,3,FFDCDC,0000FF
+9223RT7028,AT,922,Takapuna To Midtown Via Northcote,3,FFDCDC,0000FF
 9451RT6957,AT,945,Takapuna To Glenfield Via Marlborough,3,FFDCDC,0000FF
 9452RT6958,AT,945,Glenfield To Takapuna Via Marlborough,3,FFDCDC,0000FF
 9453RT6959,AT,945X,Glenfield To Midtown,3,FFDCDC,0000FF
+9453RT7135,AT,945X,Glenfield To Midtown,3,FFDCDC,0000FF
 9454RT6960,AT,945X,Midtown To Glenfield,3,FFDCDC,0000FF
+9454RT7136,AT,945X,Midtown To Glenfield,3,FFDCDC,0000FF
 9511BH6547,AT,951,Wairau Rd To Auckland University,3,FFDC78,960000
 9513BH6548,AT,951,Glenfield Mall To Auckland University,3,FFDC78,960000
 9521NS6961,AT,952,Glenfield Shops To Midtown Via Coronation Rd,3,0096FF,000000
+9521NS7137,AT,952,Glenfield Shops To Midtown Via Coronation Rd,3,0096FF,000000
 9522NS6962,AT,952,Midtown To Glenfield Shops Via Coronation Rd,3,0096FF,000000
+9522NS7138,AT,952,Midtown To Glenfield Shops Via Coronation Rd,3,0096FF,000000
 9531BH6507,AT,953,Windy Ridge To Midtown,3,FFDC78,960000
+9531BH7139,AT,953,Windy Ridge To Midtown,3,FFDC78,960000
 9532BH5460,AT,953,Midtown To Windy Ridge,3,FFDC78,960000
+9532BH7140,AT,953,Midtown To Windy Ridge,3,FFDC78,960000
 9551BH6508,AT,955,Bayview To Midtown,3,FFDC78,960000
+9551BH7029,AT,955,Bayview To Midtown,3,FFDC78,960000
 9552BH0815,AT,955,Midtown To Bayview,3,FFDC78,960000
+9552BH7030,AT,955,Midtown To Bayview,3,FFDC78,960000
 9554BH5067,AT,955,Midtown To Bayview,3,FFDC78,960000
+9554BH7031,AT,955,Midtown To Bayview,3,FFDC78,960000
 9561RT6284,AT,956,Greenhithe To Midtown,3,FFDCDC,0000FF
+9561RT7141,AT,956,Greenhithe To Midtown,3,FFDCDC,0000FF
 9562RT6183,AT,956,Midtown To Westgate,3,FFDCDC,0000FF
+9562RT7142,AT,956,Midtown To Westgate,3,FFDCDC,0000FF
 9563RT6184,AT,956,Westgate To Midtown,3,FFDCDC,0000FF
+9563RT7143,AT,956,Westgate To Midtown,3,FFDCDC,0000FF
 9564RT5313,AT,956,Midtown To Greenhithe,3,FFDCDC,0000FF
+9564RT7144,AT,956,Midtown To Greenhithe,3,FFDCDC,0000FF
 9571BH6839,AT,957,Birkenhead Wharf To Albany Station,3,FFDC78,960000
 9572BH6475,AT,957,Albany Station To Birkenhead Wharf,3,FFDC78,960000
 9573BH6842,AT,957,Beach Haven To Albany Station Via Massey,3,FFDC78,960000
 9574BH6510,AT,957,Albany Station To Highbury Shops,3,FFDC78,960000
 9576BH5899,AT,957,Highbury Shops To Birkenhead Wharf,3,FFDC78,960000
 9581BH6549,AT,958,Constellation Stn To Midtown,3,FFDC78,960000
+9581BH7145,AT,958,Constellation Stn To Midtown,3,FFDC78,960000
 9582BH6550,AT,958,Midtown To Constellation Stn,3,FFDC78,960000
+9582BH7146,AT,958,Midtown To Constellation Stn,3,FFDC78,960000
 9603BH5933,AT,960,Northcote Point To Birkenhead Wharf,3,FFDC78,960000
 9604BH0695,AT,960,Highbury To Northcote Point,3,FFDC78,960000
 9621NS6802,AT,962,Albany Station To Newmarket,3,0096FF,000000
@@ -744,14 +890,23 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9721BH6978,AT,972,Beach Haven Wharf To Auckland University,3,FFDC78,960000
 9722BH0707,AT,972,Auckland University To Beach Haven Wharf,3,FFDC78,960000
 9731BH6476,AT,973,Beach Haven To Midtown,3,FFDC78,960000
+9731BH7032,AT,973,Beach Haven To Midtown,3,FFDC78,960000
 9732BH1164,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
+9732BH7033,AT,973,Midtown To Verrans Corner,3,FFDC78,960000
 9734BH0004,AT,973,Midtown To Beach Haven,3,FFDC78,960000
+9734BH7034,AT,973,Midtown To Beach Haven,3,FFDC78,960000
 9735BH0007,AT,973,Beach Haven To Midtown Via Highbury Bypass,3,FFDC78,960000
+9735BH7147,AT,973,Beach Haven To Midtown Via Highbury Bypass,3,FFDC78,960000
 9741BH6477,AT,974,Beach Haven To Midtown,3,FFDC78,960000
+9741BH7035,AT,974,Beach Haven To Midtown,3,FFDC78,960000
 9742BH1625,AT,974,Midtown To Verrans Corner,3,FFDC78,960000
+9742BH7036,AT,974,Midtown To Verrans Corner,3,FFDC78,960000
 9744BH3699,AT,974,Midtown To Beach Haven,3,FFDC78,960000
+9744BH7037,AT,974,Midtown To Beach Haven,3,FFDC78,960000
 9745BH0011,AT,974,Beach Haven To Midtown Via Highbury Bypass,3,FFDC78,960000
+9745BH7148,AT,974,Beach Haven To Midtown Via Highbury Bypass,3,FFDC78,960000
 9746BH6553,AT,974,Midtown To Beach Haven,3,FFDC78,960000
+9746BH7149,AT,974,Midtown To Beach Haven,3,FFDC78,960000
 9751BH0014,AT,975,Beach Haven To Takapuna,3,FFDC78,960000
 9752BH0726,AT,975,Takapuna To Verrans Corner,3,FFDC78,960000
 9753BH6223,AT,975,Beach Haven To Takapuna Via  Hospital,3,FFDC78,960000
@@ -762,6 +917,25 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9763BH6218,AT,976,Beach Haven To Takapuna Via Hospital,3,FFDC78,960000
 9764BH0481,AT,976,Takapuna To Beach Haven,3,FFDC78,960000
 9767BH1676,AT,976,Beach Haven Wharf To Takapuna,3,FFDC78,960000
+9811NS7038,AT,981,Waiwera To Manly Shops Via Hc Station And Silverdale,3,0096FF,000000
+9812NS7039,AT,981,Manly Shops To Waiwera Via Hc Station And Silverdale,3,0096FF,000000
+9814NS7040,AT,981,Manly Shops To Orewa Via Hc Station And Silverdale,3,0096FF,000000
+9821NS7041,AT,982,Orewa To Gulf Harbour Via Hc Station And Silverdale,3,0096FF,000000
+9822NS7042,AT,982,Gulf Harbour To Orewa Via Hc Station And Silverdale,3,0096FF,000000
+9831NS7043,AT,983,Gulf Harbour To Hc Station Via Manly Shops  Vipond Rd  Red B,3,0096FF,000000
+9832NS7044,AT,983,Hc Station To Gulf Harbour Via Silverdale  Red Beach  Vipond,3,0096FF,000000
+9841NS7045,AT,984,Orewa To Hc Station  Via Maygrove  Red Beach And Silverdale,3,0096FF,000000
+9842NS7046,AT,984,Hc Station To Orewa  Via Silverdale And Red Beach Rd,3,0096FF,000000
+9851NS7047,AT,985,Orewa To Hc Station Via Millwater And Silverdale,3,0096FF,000000
+9852NS7048,AT,985,Hc Station To Orewa Via Silverdale And Millwater,3,0096FF,000000
+9861NS7150,AT,986,Hc Station To Albany Station Via Dairy Flat Highway  Massey,3,0096FF,000000
+9862NS7151,AT,986,Albany Station To Hc Station Via Albany Centre  Massey Uni,3,0096FF,000000
+9871NS7152,AT,987,Arkles Bay To The Plaza,3,0096FF,000000
+9881NS7153,AT,988,Gulf Harbour Ferry To The Plaza Via Shakespear Regional Park,3,0096FF,000000
+9882NS7154,AT,988,The Plaza To Gulf Harbour Ferry Via Shakespear Regional Park,3,0096FF,000000
+9911NS7155,AT,991X,Waiwera To City Centre (Wellesley St) Via Hc Station,3,0096FF,000000
+9912NS7156,AT,991X,City Centre (Wellesley St) To Waiwera Via Hc Station,3,0096FF,000000
+9921NS7157,AT,992X,Gulf Harbour To City Centre (Wellesley St) Via Hc Station,3,0096FF,000000
 9942NS1374,AT,994,Orewa - Maygrove Loop,3,0096FF,000000
 9961NS6119,AT,996,West Orewa Maygrove Loop To Silverdale,3,0096FF,000000
 9962NS5345,AT,996,Silverdale To Orewa,3,0096FF,000000
@@ -882,6 +1056,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61119WPS2789,AT,S012,Otahuhu Intermediate To Mangere Town Centre,3,FFFFFF,000000
 61120BCS2925,AT,S020,Gulf Harbour To Whangaparaoa College,3,FFFFFF,000000
 61121MLS2739,AT,S012,St Marys College To Downtown,3,FFFFFF,000000
+61121MLS7158,AT,S012,St Marys College To Downtown,3,FFFFFF,000000
 61122BHS6790,AT,S020,Beach Haven To Rosmini  St Josephs &takapuna Normal,3,FFFFFF,000000
 61123BCS2939,AT,S013,Kingsway School To Stanmore Bay,3,FFFFFF,000000
 61124HES2831,AT,S020,Remuera To Sacred Heart College,3,FFFFFF,000000
@@ -1243,6 +1418,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61712WAS4569,AT,S097,Rocky Bay To Te Huruhi School,3,FFFFFF,000000
 61713MLS4658,AT,S095,St Marys College To Pt Chevalier Beach,3,FFFFFF,000000
 61714MLS4659,AT,S095,Pt Chevalier To St Marys College,3,FFFFFF,000000
+99202NS7159,AT,992X,City Centre (Wellesley St) To Gulf Harbour Via Hc Station,3,0096FF,000000
 11001FF2089,AT,BIRK,Birkenhead To Auckland Via Northcote Point,4,FFFFFF,000000
 11002FF2088,AT,BIRK,Auckland To Birkenhead Via Northcote Point,4,FFFFFF,000000
 11003FF2128,AT,BIRK,Auckland To Birkenhead,4,FFFFFF,000000
@@ -1267,7 +1443,6 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 98012FF6281,AT,MTIA,Auckland To Waiheke Island Direct,4,FFFFFF,000000
 98014FF6282,AT,MTIA,Auckland To Waiheke Island Indirect (Via Devonport),4,FFFFFF,000000
 98017FF6283,AT,MTIA,Waiheke Island To Auckland Indirect (Via Devonport),4,FFFFFF,000000
-98020FF6287,AT,MTIA,Devonport To Waiheke Island,4,FFFFFF,000000
 99011PH6272,AT,PINE,Pine Harbour To Auckland,4,FFFFFF,000000
 99012PH6273,AT,PINE,Auckland To Pine Harbour,4,FFFFFF,000000
 99311FF6986,AT,SBAY,Stanley Bay To Auckland,4,FFFFFF,000000
