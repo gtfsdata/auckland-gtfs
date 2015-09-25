@@ -95,7 +95,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 0851GW7064,AT,085,Swanson To Midtown Via Henderson,3,64FF00,000000
 0852GW6266,AT,085,Downtown To Swanson Via Henderson,3,64FF00,000000
 0852GW7065,AT,085,Midtown To Swanson Via Henderson,3,64FF00,000000
-0871GW6919,AT,087,Ranui To Downtown Via Henderson,3,64FF00,000000
+0871GW6919,AT,087,Ranui To Midtown Via Henderson,3,64FF00,000000
 0871GW7066,AT,087,Ranui To Midtown Via Henderson,3,64FF00,000000
 0872GW6920,AT,087,Downtown To Ranui Via Henderson,3,64FF00,000000
 0872GW7067,AT,087,Midtown To Ranui Via Henderson,3,64FF00,000000
@@ -299,7 +299,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 2493ML6563,AT,249,Blockhouse Bay To Midtown Via Sandringham Road,3,00F0FF,000000
 2494ML6564,AT,249,Midtown To Blockhouse Bay Via Sandringham Road,3,00F0FF,000000
 2495ML6639,AT,249X,Blockhouse Bay To Midtown Express,3,00F0FF,000000
-2496ML5913,AT,249X,Midtown To Blockhouse Bay Express,3,00F0FF,000000
+2496ML7168,AT,249X,Midtown To Blockhouse Bay Express,3,00F0FF,000000
 2497ML6640,AT,249,Wesley To Midtown Via Sandringham Rd,3,00F0FF,000000
 2498ML5855,AT,249,Midtown To Wesley Via Sandringham Road,3,00F0FF,000000
 2499ML6641,AT,249,New Lynn To Midtown Via Blockhouse Bay And Sandringham Road,3,00F0FF,000000
@@ -919,6 +919,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9767BH1676,AT,976,Beach Haven Wharf To Takapuna,3,FFDC78,960000
 9811NS7038,AT,981,Waiwera To Manly Shops Via Hc Station And Silverdale,3,0096FF,000000
 9812NS7039,AT,981,Manly Shops To Waiwera Via Hc Station And Silverdale,3,0096FF,000000
+9813NS7173,AT,981,Orewa To Manly Shops Via Hc Station And Silverdale,3,0096FF,000000
 9814NS7040,AT,981,Manly Shops To Orewa Via Hc Station And Silverdale,3,0096FF,000000
 9821NS7041,AT,982,Orewa To Gulf Harbour Via Hc Station And Silverdale,3,0096FF,000000
 9822NS7042,AT,982,Gulf Harbour To Orewa Via Hc Station And Silverdale,3,0096FF,000000
@@ -934,7 +935,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 9881NS7153,AT,988,Gulf Harbour Ferry To The Plaza Via Shakespear Regional Park,3,0096FF,000000
 9882NS7154,AT,988,The Plaza To Gulf Harbour Ferry Via Shakespear Regional Park,3,0096FF,000000
 9911NS7155,AT,991X,Waiwera To City Centre (Wellesley St) Via Hc Station,3,0096FF,000000
-9912NS7156,AT,991X,City Centre (Wellesley St) To Waiwera Via Hc Station,3,0096FF,000000
+9912NS7171,AT,991X,City Centre (Wellesley St) To Waiwera Via Hc Station,3,0096FF,000000
 9921NS7157,AT,992X,Gulf Harbour To City Centre (Wellesley St) Via Hc Station,3,0096FF,000000
 9942NS1374,AT,994,Orewa - Maygrove Loop,3,0096FF,000000
 9961NS6119,AT,996,West Orewa Maygrove Loop To Silverdale,3,0096FF,000000
@@ -1000,7 +1001,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61053BCS2852,AT,S006,Orewa College To Stanmore Bay / Vipond Rd,3,FFFFFF,000000
 61054HES6965,AT,S011,Bucklands Beach To Baradene College,3,FFFFFF,000000
 61055BHS5938,AT,S006,Westlake Boys To Beach Haven,3,FFFFFF,000000
-61057RTS6361,AT,S006,Remuera Schools To Titirangi/New Lynn.,3,FFFFFF,000000
+61057RTS7169,AT,S006,Remuera Schools To Titirangi/New Lynn.,3,FFFFFF,000000
 61058BCS6229,AT,S012,Gulf Harbour To Kingsway School,3,FFFFFF,000000
 61060BHS2675,AT,S012,Spinella Dr. To Glenfield Intermediate  Primary,3,FFFFFF,000000
 61061MLS2774,AT,S006,Onehunga High To Onehunga,3,FFFFFF,000000
@@ -1253,7 +1254,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61334BCS6847,AT,S010,Hobsonville To Kingsway School,3,FFFFFF,000000
 61335WPS6687,AT,S051B,Epsom Schools To Drury,3,FFFFFF,000000
 61338RTS6231,AT,S116,Greenhithe To Albany Schools,3,FFFFFF,000000
-61339WPS2764,AT,S051,Seventh Day Adventist Primary To Middlemore,3,FFFFFF,000000
+61339WPS7170,AT,S051,Seventh Day Adventist Primary To Middlemore,3,FFFFFF,000000
 61340RTS2987,AT,S116X,Greenhithte To Albany Junior High (Express),3,FFFFFF,000000
 61341NSS5955,AT,S052,Westlake Schools To Sunnynook,3,FFFFFF,000000
 61343WPS6543,AT,S053,St Peters To Papakura,3,FFFFFF,000000
@@ -1418,7 +1419,7 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 61712WAS4569,AT,S097,Rocky Bay To Te Huruhi School,3,FFFFFF,000000
 61713MLS4658,AT,S095,St Marys College To Pt Chevalier Beach,3,FFFFFF,000000
 61714MLS4659,AT,S095,Pt Chevalier To St Marys College,3,FFFFFF,000000
-99202NS7159,AT,992X,City Centre (Wellesley St) To Gulf Harbour Via Hc Station,3,0096FF,000000
+99202NS7172,AT,992X,City Centre (Wellesley St) To Gulf Harbour Via Hc Station,3,0096FF,000000
 11001FF2089,AT,BIRK,Birkenhead To Auckland Via Northcote Point,4,FFFFFF,000000
 11002FF2088,AT,BIRK,Auckland To Birkenhead Via Northcote Point,4,FFFFFF,000000
 11003FF2128,AT,BIRK,Auckland To Birkenhead,4,FFFFFF,000000
@@ -1460,8 +1461,12 @@ route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route
 24107VTS6852,AT,STH,Homai To Papakura,2,FFFFFF,000000
 40013VTO6422,AT,ONE,Onehunga To Britomart,2,FFFFFF,000000
 40024VTO6423,AT,ONE,Britomart To Onehunga,2,FFFFFF,000000
+41001VTS2480,AT,STH,Penrose To Britomart,2,FFFFFF,000000
 50051VTE4661,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50052VTE4662,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
+50061VTS4912,AT,STH,Britomart To Penrose Via Newmarket,2,FFFFFF,000000
 50075VTE6424,AT,EAST,Manukau To Britomart Via Panmure,2,FFFFFF,000000
 50076VTE6425,AT,EAST,Britomart To Manukau Via Panmure,2,FFFFFF,000000
+50093VTE6824,AT,EAST,Sylvia Park To Britomart Via Panmure,2,FFFFFF,000000
+50094VTE6825,AT,EAST,Britomart To Sylvia Park Via Panmure,2,FFFFFF,000000
 50105VTS6853,AT,STH,Puhinui To Britomart,2,FFFFFF,000000

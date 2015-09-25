@@ -5401,7 +5401,7 @@ stop_id,stop_code,stop_name,stop_lat,stop_lon
 6453,7238,Sylvia Park,-36.91569,174.84009
 6454,7239,Sylvia Park.,-36.915957,174.84026
 6455,0570,3 Wairau Rd(Carmel College),-36.781974,174.75215
-6456,9750,Ferry Terminal - Rakino,-36.726293,174.95263
+6456,9750,Ferry Terminal - Rakino,-36.726526,174.95221
 6457,6044,Manurewa Interchange Northbound,-37.023614,174.89579
 6458,6048,Manurewa Interchange Southbound,-37.023634,174.89567
 6459,6305,Ti Rakau Drive Opposite Botany Town Center,-36.929204,174.91494
