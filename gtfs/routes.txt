@@ -1,841 +1,846 @@
 route_long_name,route_type,route_text_color,agency_id,route_id,route_color,route_short_name
-Britomart (Quay St) To Bayview (Full Loop),3,,RTH,09506-20200401133848_v89.54,,95B
 Smales Farm To Constellation Station Via Wairau Rd,3,,RTH,90111-20200401133848_v89.54,,901
-Pukekohe Train Station to Papakura Train Station,2,,AM,830003-20200325155230_v89.42,,PUK
+Britomart To Manukau Eastern Rail Bus,3,,ATMB,55510-20200416152125_v89.61,,RBE
+Rosebank Rd To City Centre Via New North Rd,3,,NZB,02201-20200416152125_v89.61,,22R
 Papakura Interchange To Waiuku,3,,RTH,39502-20200401133848_v89.54,,395
+Helensville To Westgate,3,,NZB,12501-20200416152125_v89.61,,125
+Lynfield To City Centre Via Dominion Rd,3,,NZB,02503-20200416152125_v89.61,,25L
 Britomart To Swanson Western Rail Bus,3,,ATMB,11110-20200401133848_v89.54,,RBW
-City Centre To New Lynn Via Great North Rd,3,,NZB,01804-20200325155230_v89.42,,18
-Britomart (Quay St) To Bayview,3,,RTH,09504-20200325155230_v89.42,,95B
-Westgate To Hobsonville Pt Via Whenuapai And Herald Island,3,,PC,11402-20200325155230_v89.42,,114
-Hibiscus Coast Station To Orewa Via Maygrove,3,,GBT,98404-20200325155230_v89.42,,984
+Huapai to Westgate,3,,NZB,12203-20200416152125_v89.61,,122
+Highbury To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96607-20200416152125_v89.61,,966
+Constellation Station To Schnapper Rock,3,,RTH,88302-20200416152125_v89.61,,883
+Benson Rd To Britomart Via Portland Rd,3,,NZB,75503-20200416152125_v89.61,,755
 Waiheke Island 1 To Auckland 2,4,,FGL,98011-20200401133848_v89.54,,MTIA
-Inner Link Clockwise (S),3,,NZB,79932-20200325155230_v89.42,,INN
 Papakura Train Station to Britomart Train Station,2,,AM,820057-20200401133848_v89.54,,STH
-Botany To Britomart Via Panmure,3,,HE,07005-20200325155230_v89.42,,70
-Milford To Mayoral Dr Via Takapuna,3,,NZB,08203-20200325155230_v89.42,,82
+Akoranga Station To Bayswater Wharf Via Takapuna,3,,NZB,80102-20200416152125_v89.61,,801
 Titirangi South to New Lynn,3,,RTH,17027-20200401133848_v89.54,,170
+Pukekohe Northwest Loop,3,,RTH,39218-20200416152125_v89.61,,392
 Mission Bay To Museum Via Orakei,3,,NZB,78101-20200401133848_v89.54,,781
-Britomart To Waikowhai Via Mt Eden Rd And Hillsborough Rd,3,,NZB,02704-20200325155230_v89.42,,27H
+Wynyard Quarter To St Lukes Via Kingsland,3,,NZB,02006-20200416152125_v89.61,,20
+Hibiscus Coast Station To Orewa,3,,GBT,98112-20200416152125_v89.61,,981
 West Harbour To Auckland Pier 4,4,,BFL,99513-20200401133848_v89.54,,WSTH
-Glen Innes To Wynyard Quarter Via Remuera Rd,3,,NZB,07501-20200325155230_v89.42,,75
-Otahuhu Train Station to Britomart Train Station,2,,AM,820139-20200325155230_v89.42,,STH
+Botany To Manukau Bus Station Via Chapel Rd And Ormiston,3,,HE,03508-20200416152125_v89.61,,35
+Albany Station To Takapuna Via Beach Rd And Milford,3,,RTH,85601-20200416152125_v89.61,,856
 Onehunga Train Station to Britomart Train Station,2,,AM,840001-20200401133848_v89.54,,ONE
-Manukau Bus Station To Panmure Via East Tamaki,3,,HE,35203-20200325155230_v89.42,,352
-Pukekohe To Tuakau,3,,RTH,39804-20200325155230_v89.42,,398
+Auckland Universities To Albany Station Via Wellesley St,3,,TZG,20008-20200416152125_v89.61,,NX2
+Middlemore Station To Ellerslie Station Via Otahuhu,3,,NZB,32103-20200416152125_v89.61,,321
+Westmere To Britomart Via Richmond Rd,3,,NZB,10501-20200416152125_v89.61,,105
+Beach Haven To Britomart (Lower Albert St),3,,RTH,09703-20200416152125_v89.61,,97R
+Otahuhu Station To Panmure Via Panama Rd,3,,GBT,32301-20200401133848_v89.54,,323
 Smales Farm To Constellation Via Archers Rd And Windy Ridge,3,,RTH,90602-20200401133848_v89.54,,906
-Bucklands Beach To Panmure,3,,GBT,71201-20200325155230_v89.42,,712
-Henderson to New Lynn via Glendene,3,,NZB,16201-20200401133848_v89.54,,162
-"New Lynn to Westgate via Henderson, Lincoln Rd & Waimumu Rd",3,,NZB,01408-20200325155230_v89.42,,14W
+Britomart Train Station to Henderson Train Station,2,,AM,810066-20200416152125_v89.61,,WEST
 City Centre To New Lynn Via Great North Rd,3,,NZB,01804-20200401133848_v89.54,,18
 Mangere Town Centre To Seaside Park Via Otahuhu,3,,GBT,32411-20200401133848_v89.54,,324
-Selwyn Village To Glen Innes Via Balmoral Rd And Greenlane,3,,NZB,65003-20200325155230_v89.42,,650
-Mayoral Dr To Browns Bay Via Milford and Takapuna,3,,NZB,08208-20200325155230_v89.42,,82
-Henderson to New Lynn via Glen Eden,3,,PC,15405-20200325155230_v89.42,,154
+Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,86601-20200401133848_v89.54,,866
+"New Lynn to Westgate via Henderson, Lincoln Rd & Waimumu Rd",3,,NZB,01408-20200416152125_v89.61,,14W
+Hibiscus Coast Station To Britomart (Lower Albert St),3,,RTH,27003-20200416152125_v89.61,,NX1
+Bayview To Britomart (Lower Albert St),3,,RTH,09503-20200416152125_v89.61,,95B
 Matiatia Wharf to Rocky Bay,3,,WBC,50202-20200401133848_v89.54,,502
 Britomart Train Station to Penrose Train Station,2,,AM,820092-20200401133848_v89.54,,STH
 Bucklands Beach to Half Moon Bay,3,,GBT,71401-20200401133848_v89.54,,714
-Britomart Train Station to Otahuhu Train Station,2,,AM,820016-20200401133848_v89.54,,STH
+Henderson to Waitakere Village via Central Park Dr and Swans,3,,PC,14602-20200416152125_v89.61,,146
+Tuakau To Pukekohe,3,,RTH,39803-20200416152125_v89.61,,398
+Royal Heights Loop,3,,PC,11101-20200416152125_v89.61,,111
 Auckland Universities To Albany Station Via Wellesley St,3,,TZG,20008-20200401133848_v89.54,,NX2
-Manukau To Otahuhu Eastern Rail Bus,3,,ATMB,55513-20200325155230_v89.42,,RBE
-Pukekohe Train Station to Papakura Train Station,2,,AM,830001-20200325155230_v89.42,,PUK
-New Lynn to Henderson via Glendene,3,,NZB,16202-20200325155230_v89.42,,162
+Britomart Train Station to Papakura Train Station,2,,AM,820058-20200401133848_v89.54,,STH
+New Lynn To Otahuhu Via Avondale Stoddard Rd And Onehunga,3,,NZB,67011-20200416152125_v89.61,,670
 Britomart To Otahuhu Limited Stops Via Great South Rd,3,,NZB,33302-20200401133848_v89.54,,333X
-Britomart To Botany Via Ellerslie And Panmure,3,,HE,07014-20200401133848_v89.54,,70
-Papakura Train Station to Britomart Train Station,2,,AM,820087-20200325155230_v89.42,,STH
-Onehunga Train Station to Britomart Train Station,2,,AM,840007-20200325155230_v89.42,,ONE
 Westgate To Hobsonville Pt Via Whenuapai And Herald Island,3,,PC,11402-20200401133848_v89.54,,114
-Manukau Bus Station To Botany Via Ormiston & Mission Heights,3,,HE,35505-20200325155230_v89.42,,355
-Schnapper Rock To Constellation Station,3,,RTH,88301-20200325155230_v89.42,,883
+Onehunga Train Station to Britomart Train Station,2,,AM,840001-20200416152125_v89.61,,ONE
 Pukekohe To Otahuhu Southern Rail Bus,3,,ATMB,22215-20200401133848_v89.54,,RBS
-Westgate to Huapai,3,,NZB,12206-20200325155230_v89.42,,122
-Massey University To Takapuna Via Browns Bay,3,,RTH,08301-20200325155230_v89.42,,83
-Akoranga Station To Bayswater Wharf Via Takapuna,3,,NZB,80102-20200325155230_v89.42,,801
-Hibiscus Coast Station To Britomart (Lower Albert St),3,,RTH,27003-20200325155230_v89.42,,NX1
+Long Bay To Constellation Station Via Bush Rd,3,,RTH,86101-20200416152125_v89.61,,861
+Smales Farm To Beach Haven And Takapuna Anticlockwise (Late),3,,RTH,94104-20200401133848_v89.54,,941
+Britomart To Otahuhu Limited Stops Via Great South Rd,3,,NZB,33302-20200416152125_v89.61,,333X
+Panmure To Bucklands Beach,3,,GBT,71202-20200401133848_v89.54,,712
+Glen Innes To Onehunga Via Tripoli Rd and Sylvia Park,3,,GBT,74302-20200416152125_v89.61,,743
+"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",3,,HE,07209-20200416152125_v89.61,,72M
 Panmure To Manukau Bus Station Via East Tamaki,3,,HE,35204-20200401133848_v89.54,,352
-Britomart (Quay St) To Beach Haven Via Rangatira Rd,3,,RTH,09706-20200325155230_v89.42,,97R
-Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,3,,NZB,02707-20200401133848_v89.54,,27H
-Outer Link Anticlockwise Herne Bay To City Centre,3,,NZB,72117-20200325155230_v89.42,,OUT
-Onehunga To New Lynn.,3,,NZB,06804-20200325155230_v89.42,,68
-Glen Innes To Britomart Via St Heliers And Tamaki Dr,3,,NZB,07701-20200325155230_v89.42,,TMK
-Britomart Train Station to Otahuhu Train Station,2,,AM,820124-20200325155230_v89.42,,STH
+Panmure To Otahuhu Station Via Panama Rd,3,,GBT,32302-20200416152125_v89.61,,323
+Inner Link Clockwise (VP),3,,NZB,79934-20200416152125_v89.61,,INN
+Britomart To Waikowhai Via Mt Eden Rd And Hillsborough Rd,3,,NZB,02704-20200416152125_v89.61,,27H
 Botany To Half Moon Bay Via Highland Park,3,,GBT,73401-20200401133848_v89.54,,734
-Huapai to Westgate,3,,NZB,12203-20200325155230_v89.42,,122
-Henderson To City Centre Via Edmonton Rd,3,,PC,13403-20200401133848_v89.54,,134
-Takapuna To Constellation Station Via Forrest Hill Rd,3,,NZB,87102-20200325155230_v89.42,,871
-Westgate To Albany Via Riverhead,3,,PC,12602-20200325155230_v89.42,,126
-Pahurehure To Papakura Interchange,3,,RTH,37701-20200325155230_v89.42,,377
+Pukekohe South Loop,3,,RTH,39304-20200416152125_v89.61,,393
+Auckland 2 To Waiheke Island 1,4,,FGL,98012-20200416152125_v89.61,,MTIA
+New Lynn To City Centre Via New North Rd,3,,NZB,02203-20200416152125_v89.61,,22N
 Auckland Pier 4 To West Harbour,4,,BFL,99514-20200401133848_v89.54,,WSTH
-"Westgate to New Lynn via Waimumu Rd, Lincoln Rd & Henderson",3,,NZB,01405-20200325155230_v89.42,,14W
+Henderson West Loop Clockwise,3,,PC,14205-20200416152125_v89.61,,142
+Westgate To Helensville,3,,NZB,12502-20200416152125_v89.61,,125
+Panmure To Glen Innes Via Stonefields,3,,GBT,74701-20200416152125_v89.61,,747
 Otahuhu Station To Mangere Town Centre Via Tidal Road,3,,GBT,32602-20200401133848_v89.54,,326
-Beach Haven To Britomart (Lower Albert St),3,,RTH,09703-20200325155230_v89.42,,97R
-City Centre To Henderson Via Edmonton Rd,3,,PC,13406-20200325155230_v89.42,,134
-Papakura Train Station to Pukekohe Train Station,2,,AM,830006-20200325155230_v89.42,,PUK
+Manukau Bus Station To Manurewa Via The Gardens,3,,RTH,36606-20200416152125_v89.61,,366
+Hibiscus Coast Station To Albany Station Via Dariy Flat,3,,GBT,98603-20200416152125_v89.61,,986
+Pine Harbour To Auckland Pier 1C,4,,SLPH,99013-20200416152125_v89.61,,PINE
 Birkenhead Wharf To Albany Station Via Glenfield Rd,3,,RTH,91701-20200401133848_v89.54,,917
 Akoranga Station To Glenfield Via Hillcrest West,3,,RTH,92602-20200401133848_v89.54,,926
+City Centre To Mangere Town Centre,3,,GBT,30902-20200416152125_v89.61,,309
 Howick To Panmure Via Cascades Road,3,,GBT,71101-20200401133848_v89.54,,711
+Algies Bay To Warkworth Via Snells Beach,3,,RTH,99605-20200416152125_v89.61,,996
 Mission Bay To Sylvia Park Via Meadowbank And Ellerslie,3,,GBT,78202-20200401133848_v89.54,,782
 Pukekohe Northwest Loop,3,,RTH,39218-20200401133848_v89.54,,392
-Britomart To Middlemore Station Via Greenlane Hospital,3,,NZB,32102-20200401133848_v89.54,,321
-Warkworth To Omaha Via Matakana And Pt Wells,3,,RTH,99701-20200325155230_v89.42,,997
-Devonport Wharf To Cheltenham Loop,3,,NZB,80701-20200325155230_v89.42,,807
-Britomart To Howick And Botany Via Ellerslie And Panmure,3,,HE,07010-20200325155230_v89.42,,70H
-Waiheke Island 1 To Auckland 1,4,,FGL,98015-20200401133848_v89.54,,MTIA
-Mission Bay To Sylvia Park Via Meadowbank And Ellerslie,3,,GBT,78202-20200325155230_v89.42,,782
-Constellation Station To Campbells Bay Via Sunnynook Station,3,,RTH,90702-20200325155230_v89.42,,907
-Middlemore Station To Ellerslie Station Via Otahuhu,3,,NZB,32103-20200325155230_v89.42,,321
-Sylvia Park To Pt Chevalier Beach Via Mt Albert Park,3,,PC,06602-20200325155230_v89.42,,66
-Botany To Half Moon Bay Via Highland Park,3,,GBT,73401-20200325155230_v89.42,,734
-Constellation To Smales Farm via Windy Ridge And Archers Rd,3,,RTH,90603-20200325155230_v89.42,,906
-City Centre To New Lynn Via Sandringham Rd,3,,NZB,02402-20200325155230_v89.42,,24R
-Botany To Beachlands And Maraetai Via Ormiston And Whitford,3,,GBT,73902-20200325155230_v89.42,,739
-Blockhouse Bay To City Centre Via Dominion Rd,3,,NZB,02505-20200325155230_v89.42,,25B
-Papakura Interchange To Waiuku,3,,RTH,39502-20200325155230_v89.42,,395
+Papakura Train Station to Pukekohe Train Station,2,,AM,830002-20200416152125_v89.61,,PUK
+Manukau Bus Station To Weymouth Via Great South Rd,3,,RTH,36204-20200401133848_v89.54,,362
+Westgate to Hobsonville Point via West Harbour,3,,PC,11202-20200416152125_v89.61,,112
+Hibiscus Coast Station To Warkworth,3,,RTH,99502-20200401133848_v89.54,,995
+Inner Link Clockwise Customs St To Victoria Park,3,,NZB,79924-20200416152125_v89.61,,INN
+Botany To The Parade Via Highland Park,3,,GBT,73301-20200401133848_v89.54,,733
+New Lynn And Blockhouse Bay To City Centre Via Sandingham Rd,3,,NZB,02403-20200416152125_v89.61,,24B
+City Centre To Henderson Via Great North Rd,3,,NZB,01806-20200401133848_v89.54,,18
+Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,3,,RTH,94101-20200416152125_v89.61,,941
+Otahuhu Station to Papakura Interchange Via Great South Rd,3,,RTH,03302-20200416152125_v89.61,,33
+Newmarket To Panmure Via Marua Rd And Remuera Rd,3,,NZB,75102-20200401133848_v89.54,,751
+Britomart (Quay St) To Beach Haven,3,,RTH,09704-20200401133848_v89.54,,97R
 Pine Harbour To Auckland Pier 1C,4,,SLPH,99013-20200401133848_v89.54,,PINE
-Long Bay To Constellation Station Via Bush Rd,3,,RTH,86101-20200325155230_v89.42,,861
-Otahuhu Station To Panmure Via Panama Rd,3,,GBT,32301-20200325155230_v89.42,,323
-Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,3,,GBT,98303-20200325155230_v89.42,,983
-Browns Bay To Constellation Station Via and East Coast Rd,3,,RTH,87801-20200325155230_v89.42,,878
-Albany Station To Britomart (Lower Albert St),3,,RTH,27001-20200325155230_v89.42,,NX1
-City Centre To Blockhouse Bay New Lynn Via Sandringham Rd,3,,NZB,02404-20200325155230_v89.42,,24B
-Britomart Train Station to Papakura Train Station,2,,AM,820060-20200401133848_v89.54,,STH
-"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",3,,HE,07207-20200401133848_v89.54,,72C
-Takapuna to Beach Haven (Late Night),3,,RTH,94208-20200325155230_v89.42,,942
-Bucklands Beach To Panmure,3,,GBT,71201-20200401133848_v89.54,,712
-Titirangi South to New Lynn,3,,RTH,17027-20200325155230_v89.42,,170
+Onehunga To Glen Innes Via Sylvia Park And Tripoli Rd,3,,GBT,74301-20200416152125_v89.61,,743
+Constellation Station To Takapuna Via Forrest Hill Rd,3,,NZB,87101-20200416152125_v89.61,,871
+Orewa To Hibiscus Coast Station Via Maygrove,3,,GBT,98403-20200416152125_v89.61,,984
+City Centre To New Lynn Via Sandringham Rd,3,,NZB,02402-20200416152125_v89.61,,24R
+New Lynn To City Centre Via Green Bay And Blockhouse Bay Rd,3,,RTH,19507-20200401133848_v89.54,,195
+Henderson Train Station to Britomart Train Station,2,,AM,810053-20200416152125_v89.61,,WEST
+Hibiscus Coast Station To Gulf Harbour,3,,GBT,98208-20200416152125_v89.61,,982
+City Centre To New Lynn Via Blockhouse Bay Rd And Green Bay,3,,RTH,19508-20200416152125_v89.61,,195
+Henderson to Te Atatu Peninsula,3,,PC,13106-20200401133848_v89.54,,131
 St Lukes To Wynyard Quarter Via Kingsland,3,,NZB,02005-20200401133848_v89.54,,20
-Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,3,,GBT,32503-20200325155230_v89.42,,325
-City Centre To Blockhouse Bay Via Dominion Rd,3,,NZB,02506-20200325155230_v89.42,,25B
+Glen Innes To Britomart Via St Heliers And Tamaki Dr,3,,NZB,07701-20200416152125_v89.61,,TMK
+New Lynn To City Centre Via Great North Rd,3,,NZB,01803-20200416152125_v89.61,,18
+Takapuna to Albany Station Via Milford And Beach Rd,3,,RTH,85602-20200416152125_v89.61,,856
 Papakura Interchange To Otahuhu Station Via Great South Rd,3,,RTH,03301-20200401133848_v89.54,,33
+Britomart Train Station to Sylvia Park Train Station,2,,AM,850014-20200416152125_v89.61,,EAST
 Akoranga Station To Constellation Station Via Takapuna,3,,NZB,84303-20200401133848_v89.54,,843
-Constellation Station To Schnapper Rock,3,,RTH,88302-20200325155230_v89.42,,883
-Helensville To Westgate,3,,NZB,12501-20200325155230_v89.42,,125
+Orewa To Hibiscus Coast Station,3,,GBT,98111-20200416152125_v89.61,,981
+Manukau To Otahuhu Eastern Rail Bus,3,,ATMB,55513-20200416152125_v89.61,,RBE
 New Lynn To City Centre Via New North Rd,3,,NZB,02203-20200401133848_v89.54,,22N
-Northcote Point To Smales Farm Stn Via North Shore Hospital,3,,RTH,92801-20200325155230_v89.42,,928
-Inner Link Clockwise Newmarkt To Victoria Park,3,,NZB,79926-20200401133848_v89.54,,INN
-City Centre To Henderson Via Te Atatu Rd,3,,PC,13302-20200401133848_v89.54,,133
+Manukau Bus Station To Botany Via Chapel Rd And Ormiston,3,,HE,03505-20200401133848_v89.54,,35
+Britomart Train Station to Onehunga Train Station,2,,AM,840028-20200416152125_v89.61,,ONE
 Auckland To Hobsonville Point,4,,360D,96028-20200401133848_v89.54,,HOBS
-Puhinui Shuttle Loop,3,,GBT,34901-20200325155230_v89.42,,349
+Hibiscus Coast Station To Warkworth,3,,RTH,99502-20200416152125_v89.61,,995
 Britomart Train Station to Onehunga Train Station,2,,AM,840004-20200401133848_v89.54,,ONE
-New Lynn To Otahuhu Via Avondale Stoddard Rd And Onehunga,3,,NZB,67011-20200325155230_v89.42,,670
 Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,3,,RTH,39607-20200401133848_v89.54,,396
 Onehunga To Manukau Bus Station Via Airport,3,,GBT,38014-20200401133848_v89.54,,380
-Britomart To Benson Rd Via Portland Rd,3,,NZB,75504-20200325155230_v89.42,,755
-Britomart (Quay St) To Verrans Corner,3,,RTH,09712-20200325155230_v89.42,,97B
+Britomart Train Station to Otahuhu Train Station,2,,AM,850062-20200416152125_v89.61,,EAST
+Glen Innes To Panmure via Stonefields,3,,GBT,74702-20200416152125_v89.61,,747
+Auckland To Devonport,4,,FGL,92012-20200401133848_v89.54,,DEV
 City Centre To Onehunga Via Manukau Rd,3,,NZB,03008-20200401133848_v89.54,,30
-Wynyard Quarter To St Lukes Via Kingsland,3,,NZB,02006-20200325155230_v89.42,,20
 Freemans Bay Loop,3,,NZB,10601-20200401133848_v89.54,,106
 St Heliers To Panmure Via Glen Innes,3,,GBT,74402-20200401133848_v89.54,,744
-Otahuhu To Britomart Eastern Rail Bus,3,,ATMB,55521-20200325155230_v89.42,,RBE
-Albany Station To Birkenhead Wharf Via Glenfield Rd,3,,RTH,91702-20200401133848_v89.54,,917
-Britomart Train Station to Papakura Train Station,2,,AM,820058-20200401133848_v89.54,,STH
-Auckland Beach Haven Hobsonville Point Loop,4,,360D,96024-20200325155230_v89.42,,HOBS
+Britomart Train Station to Manukau Train Station,2,,AM,850030-20200401133848_v89.54,,EAST
+Papakura Train Station to Britomart Train Station,2,,AM,820055-20200401133848_v89.54,,STH
+City Centre To Te_Atatu Peninsula,3,,PC,13206-20200416152125_v89.61,,132
+City Centre To Blockhouse Bay Via Dominion Rd,3,,NZB,02506-20200416152125_v89.61,,25B
+Manurewa Interchange To Manukau Bus Station Via The Gardens,3,,RTH,36605-20200416152125_v89.61,,366
+Red Hill To Papakura Shops,3,,RTH,37301-20200416152125_v89.61,,373
+Waiheke Island 1 To Auckland 2 Via Devonport 2,4,,FGL,98017-20200416152125_v89.61,,MTIA
+New Lynn To City Centre Via Sandingham Rd,3,,NZB,02401-20200416152125_v89.61,,24R
 Hibiscus Coast Station To Albany Station Via Dariy Flat,3,,GBT,98603-20200401133848_v89.54,,986
 Westgate to Huapai,3,,NZB,12206-20200401133848_v89.54,,122
 New Lynn to Titirangi South,3,,RTH,17028-20200401133848_v89.54,,170
 Constellation Station To Smales Farm Via Wairau Rd,3,,RTH,90112-20200401133848_v89.54,,901
+Middlemore Station To Britomart Via Greenlane Hospital,3,,NZB,32101-20200416152125_v89.61,,321
 Mission Bay To Newmarket Via Orakei,3,,NZB,78103-20200401133848_v89.54,,781
 Constellation Station To Long Bay via Bush Rd,3,,RTH,86104-20200401133848_v89.54,,861
-Browns Bay To Albany Station Via Oaktree Ave,3,,RTH,86501-20200401133848_v89.54,,865
-Middlemore Station To Britomart Via Greenlane Hospital,3,,NZB,32101-20200325155230_v89.42,,321
-Glen Innes To Pt Chevalier Shops Via Greenlane And Balmoral,3,,NZB,65002-20200325155230_v89.42,,650
-Inner Link Clockwise,3,,NZB,79922-20200401133848_v89.54,,INN
-Constellation To Smales Farm via Windy Ridge And Archers Rd,3,,RTH,90603-20200401133848_v89.54,,906
-Henderson to Waitakere Village via Central Park Dr and Swans,3,,PC,14602-20200325155230_v89.42,,146
+New Lynn to Henderson via Glen Eden,3,,PC,15406-20200416152125_v89.61,,154
+Papakura Train Station to Britomart Train Station,2,,AM,820059-20200416152125_v89.61,,STH
+Henderson to New Lynn via Sunnyvale and Glen Eden,3,,PC,15201-20200416152125_v89.61,,152
+South Lynn Loop,3,,RTH,18603-20200416152125_v89.61,,186
+Takapuna To Massey University Via Browns Bay,3,,RTH,08302-20200416152125_v89.61,,83
 New Lynn To Otahuhu Via Avondale Stoddard Rd And Onehunga,3,,NZB,67011-20200401133848_v89.54,,670
-Wynyard Quarter to Karangahape Rd via Queen St,3,,NZB,79702-20200325155230_v89.42,,CTY
+Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,3,,GBT,98303-20200416152125_v89.61,,983
+Papakura Shops To Karaka Harbourside Loop,3,,RTH,37802-20200416152125_v89.61,,378
 Swanson Train Station to Britomart Train Station,2,,AM,810005-20200401133848_v89.54,,WEST
+Papakura Shops To Drury,3,,RTH,37602-20200416152125_v89.61,,376
 Onehunga To Glen Innes Via Sylvia Park And Tripoli Rd,3,,GBT,74301-20200401133848_v89.54,,743
-"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",3,,HE,07207-20200325155230_v89.42,,72C
-Huapai to Westgate,3,,NZB,12203-20200401133848_v89.54,,122
+City (Mayoral Dr) To Akoranga Station Via Hillcrest,3,,NZB,92302-20200416152125_v89.61,,923
+Onehunga To City Centre Via Manukau Rd,3,,NZB,03007-20200416152125_v89.61,,30
+Papakura Train Station to Britomart Train Station,2,,AM,820055-20200416152125_v89.61,,STH
 Botany To Manukau Bus Station Via Chapel Rd And Ormiston,3,,HE,03508-20200401133848_v89.54,,35
-Henderson to Te Atatu Peninsula Via Beach Rd,3,,PC,13108-20200325155230_v89.42,,131
-Newmaket To Albany Station Via Auckland Hospital & Ponsonby,3,,RTH,86602-20200325155230_v89.42,,866
-Rosebank Rd To City Centre Via New North Rd,3,,NZB,02201-20200325155230_v89.42,,22R
+Manukau Bus Station To Mangere Town Ctr Via Otara & Otahuhu,3,,GBT,32504-20200416152125_v89.61,,325
+Manukau Bus Station To Panmure Via East Tamaki,3,,HE,35203-20200416152125_v89.61,,352
+Britomart Train Station to Papakura Train Station,2,,AM,820056-20200416152125_v89.61,,STH
+Westgate To Albany Via Riverhead,3,,PC,12602-20200416152125_v89.61,,126
 Matiatia Wharf To Onetangi (Fourth Ave),3,,WBC,05004-20200401133848_v89.54,,50B
+Ostend To Waiheke Rd,3,,WBC,50402-20200416152125_v89.61,,504
 Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,3,,PC,06601-20200401133848_v89.54,,66
-Henderson to Te Atatu Peninsula,3,,PC,13106-20200325155230_v89.42,,131
+Outer Link Anticlockwise Herne Bay To City Centre,3,,NZB,72117-20200401133848_v89.54,,OUT
 Wynyard Quarter to Karangahape Rd via Queen St,3,,NZB,79702-20200401133848_v89.54,,CTY
-Auckland To Rakino Island,4,,BFL,99112-20200401133848_v89.54,,RAK
-New Lynn And Blockhouse Bay To City Centre Via Sandingham Rd,3,,NZB,02403-20200325155230_v89.42,,24B
+Outer Link Clockwise St Lukes To City Centre,3,,NZB,73116-20200416152125_v89.61,,OUT
+Britomart Train Station to Penrose Train Station,2,,AM,820092-20200416152125_v89.61,,STH
 Gulf Harbour To Hibiscus Coast Station,3,,GBT,98207-20200401133848_v89.54,,982
 Manukau Train Station to Britomart Train Station,2,,AM,850039-20200401133848_v89.54,,EAST
+Hibiscus Coast Station To Orewa Via Millwater,3,,GBT,98504-20200416152125_v89.61,,985
 Manukau Bus Station To Botany Town Centre Via Preston Rd,3,,HE,35303-20200401133848_v89.54,,353
 Auckland Beach Haven Hobsonville Point Loop Indirect,4,,360D,96026-20200401133848_v89.54,,HOBS
+Constellation Station To Campbells Bay via Sunnynook Station,3,,RTH,90704-20200416152125_v89.61,,907
 Otahuhu To Pukekohe Southern Rail Bus,3,,ATMB,22214-20200401133848_v89.54,,RBS
 Wynyard Quarter To St Lukes Via Kingsland,3,,NZB,02006-20200401133848_v89.54,,20
-Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,86601-20200325155230_v89.42,,866
-Papakura Train Station to Britomart Train Station,2,,AM,820059-20200325155230_v89.42,,STH
-Benson Rd To Britomart Via Portland Rd,3,,NZB,75503-20200325155230_v89.42,,755
+Britomart To Middlemore Station Via Greenlane Hospital,3,,NZB,32102-20200401133848_v89.54,,321
+Swanson Train Station to Britomart Train Station,2,,AM,810015-20200401133848_v89.54,,WEST
+Otahuhu Train Station to Britomart Train Station,2,,AM,820137-20200416152125_v89.61,,STH
+Bayview To Britomart (Lower Albert St),3,,RTH,09503-20200401133848_v89.54,,95B
 Lynfield To City Centre Via Dominion Rd,3,,NZB,02503-20200401133848_v89.54,,25L
+Rakino Island To Auckland,4,,BFL,99111-20200416152125_v89.61,,RAK
 Pt Chevalier Shops To Glen Innes Via Greenlane,3,,NZB,65001-20200401133848_v89.54,,650
-Botany To Manukau Bus Station Via Mission Heights & Ormiston,3,,HE,35504-20200401133848_v89.54,,355
-Outer Link Clockwise,3,,NZB,73112-20200325155230_v89.42,,OUT
-Papakura Interchange To Otahuhu Station Via Great South Rd,3,,RTH,03301-20200325155230_v89.42,,33
+Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96603-20200416152125_v89.61,,966
+Otahuhu Station To Panmure Via Panama Rd,3,,GBT,32301-20200416152125_v89.61,,323
+New Lynn To Laingholm Loop,3,,RTH,17116-20200416152125_v89.61,,171
+Pahurehure To Papakura Interchange,3,,RTH,37701-20200401133848_v89.54,,377
 Constellation Station To Akoranga Station Via Takapuna,3,,NZB,84304-20200401133848_v89.54,,843
-Takapuna To Massey University Via Browns Bay,3,,RTH,08302-20200325155230_v89.42,,83
-Mangere Town Centre To Seaside Park Via Otahuhu,3,,GBT,32411-20200325155230_v89.42,,324
+Otara / Mit To Manurewa Interchange Via Mahia Rd,3,,RTH,36102-20200416152125_v89.61,,361
+Britomart Train Station to Swanson Train Station,2,,AM,810002-20200416152125_v89.61,,WEST
 Britomart To Howick And Botany Via Ellerslie And Panmure,3,,HE,07010-20200401133848_v89.54,,70H
-Otahuhu Train Station to Britomart Train Station,2,,AM,850065-20200401133848_v89.54,,EAST
-Onehunga To Sylvia Park Via Ellerslie,3,,GBT,29801-20200325155230_v89.42,,298
-Panmure To Manukau Eastern Rail Bus,3,,ATMB,55514-20200401133848_v89.54,,RBE
+Pukekohe To Otahuhu Southern Rail Bus,3,,ATMB,22215-20200416152125_v89.61,,RBS
+West Harbour To Auckland Pier 4,4,,BFL,99513-20200416152125_v89.61,,WSTH
+Smales Farm To Constellation Station Via Wairau Rd,3,,RTH,90111-20200416152125_v89.61,,901
+Devonport Wharf To Akoranga Station Via Takapuna,3,,NZB,81401-20200416152125_v89.61,,814
+Panmure To Bucklands Beach,3,,GBT,71202-20200416152125_v89.61,,712
 Otahuhu Station to Papakura Interchange Via Great South Rd,3,,RTH,03302-20200401133848_v89.54,,33
-Westmere To Britomart Via Richmond Rd,3,,NZB,10501-20200325155230_v89.42,,105
-Milford To Takapuna Via North Shore Hospital,3,,RTH,84501-20200325155230_v89.42,,845
+Te Atatu Peninsula to Henderson,3,,PC,13105-20200416152125_v89.61,,131
+"Pamure to Howick and Botany via Pakuranga Rd, Meadowland Dr",3,,HE,07210-20200401133848_v89.54,,72M
 Otahuhu Train Station to Britomart Train Station,2,,AM,820139-20200401133848_v89.54,,STH
 Panmure To Howick Via Cascades Road,3,,GBT,71102-20200401133848_v89.54,,711
-Bayview To Britomart (Lower Albert St),3,,RTH,09503-20200325155230_v89.42,,95B
-Lynfield To New Lynn Via Blockhouse Bay And Avondale,3,,RTH,19101-20200325155230_v89.42,,191
-Te Atatu Peninsula to Henderson,3,,PC,13105-20200401133848_v89.54,,131
+Glen Innes To Onehunga Via Tripoli Rd and Sylvia Park,3,,GBT,74302-20200401133848_v89.54,,743
+Britomart To Otahuhu Eastern Rail Bus,3,,ATMB,55520-20200416152125_v89.61,,RBE
+Papakura Interchange To Otahuhu Station Via Great South Rd,3,,RTH,03301-20200416152125_v89.61,,33
 Manly To Hibiscus Coast Station,3,,GBT,98209-20200401133848_v89.54,,982
 New Lynn To City Centre Via Sandingham Rd,3,,NZB,02401-20200401133848_v89.54,,24R
 Mangere Town Centre To Otahuhu Station Via Tidal Road,3,,GBT,32601-20200401133848_v89.54,,326
-Botany Town Centre To Mangere Town Centre Via Otara,3,,GBT,03102-20200325155230_v89.42,,31
-Pukekohe Interchange To Wesley College/Paerata,3,,RTH,39404-20200401133848_v89.54,,394
-"Pamure to Howick and Botany via Pakuranga Rd, Meadowland Dr",3,,HE,07210-20200401133848_v89.54,,72M
-Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,86601-20200401133848_v89.54,,866
-New Lynn To City Centre Via Sandingham Rd,3,,NZB,02401-20200325155230_v89.42,,24R
+Britomart To Westmere Via Richmond Rd,3,,NZB,10502-20200416152125_v89.61,,105
+Constellation Station To Long Bay Via Bush Rd,3,,RTH,86102-20200416152125_v89.61,,861
+Waiwera To Hibiscus Coast Station,3,,GBT,98109-20200416152125_v89.61,,981
 Onehunga To New Lynn.,3,,NZB,06804-20200401133848_v89.54,,68
-Manukau Bus Station To Botany Via Chapel Rd And Ormiston,3,,HE,03505-20200401133848_v89.54,,35
-Papakura Interchange To Pahurehure,3,,RTH,37702-20200325155230_v89.42,,377
-City Centre To New Lynn Via Blockhouse Bay Rd And Green Bay,3,,RTH,19508-20200325155230_v89.42,,195
-Britomart To Glen Innes Via Orakei,3,,NZB,76202-20200325155230_v89.42,,762
-Constellation To Smales Farm Via Windy Ridge And Archers Rd,3,,RTH,90601-20200325155230_v89.42,,906
-Papakura Train Station to Britomart Train Station,2,,AM,820055-20200325155230_v89.42,,STH
+Westgate to Huapai,3,,NZB,12206-20200416152125_v89.61,,122
+Hibiscus Coast Station To Helensville,3,,NZB,12801-20200416152125_v89.61,,128
+Papakura Interchange To Pahurehure,3,,RTH,37702-20200416152125_v89.61,,377
+Devonport To Auckland,4,,FGL,92011-20200416152125_v89.61,,DEV
 Manukau To Otahuhu Eastern Rail Bus,3,,ATMB,55513-20200401133848_v89.54,,RBE
-Hibiscus Coast Station To Orewa,3,,GBT,98112-20200325155230_v89.42,,981
-Henderson West Loop Anticlockwise,3,,PC,14101-20200401133848_v89.54,,141
-Papakura Shops To Keri Hill Loop,3,,RTH,37202-20200325155230_v89.42,,372
-"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",3,,HE,07209-20200401133848_v89.54,,72M
+Constellation Station To Albany Station Via Hugh Green Dr,3,,RTH,88902-20200416152125_v89.61,,889
+Albany Stn To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,86601-20200416152125_v89.61,,866
+Mission Bay To Sylvia Park Via Meadowbank And Ellerslie,3,,GBT,78202-20200416152125_v89.61,,782
+Onehunga To Sylvia Park Via Ellerslie,3,,GBT,29801-20200416152125_v89.61,,298
 Pukekohe To Penrose Southern Rail Bus,3,,ATMB,22233-20200401133848_v89.54,,RBS
-Glen Innes To Onehunga Via Tripoli Rd and Sylvia Park,3,,GBT,74302-20200401133848_v89.54,,743
-Manurewa Interchange To Wattle Downs Loop,3,,RTH,36302-20200325155230_v89.42,,363
+"Westgate to New Lynn via Triangle Rd, Lincoln Rd & Henderson",3,,NZB,01401-20200416152125_v89.61,,14T
+Constellation Station To Schnapper Rock (Full Loop),3,,RTH,88304-20200416152125_v89.61,,883
+Westgate To City Centre Via Northwestern Motorway,3,,NZB,11005-20200416152125_v89.61,,110
 Manukau Train Station to Britomart Train Station,2,,AM,850031-20200401133848_v89.54,,EAST
-Constellation Station To Long Bay Via Bush Rd,3,,RTH,86102-20200325155230_v89.42,,861
-Brains Park to New Lynn,3,,RTH,16101-20200325155230_v89.42,,161
+Waiheke Rd To Ostend,3,,WBC,50401-20200416152125_v89.61,,504
+Outer Link Anticlockwise Newmarket To City Centre,3,,NZB,72115-20200416152125_v89.61,,OUT
+Otahuhu To New Lynn Via Onehunga Stoddard Rd And Avondale,3,,NZB,67012-20200401133848_v89.54,,670
+Bucklands Beach to Half Moon Bay,3,,GBT,71401-20200416152125_v89.61,,714
 Glen Innes To Pt Chevalier Shops Via Greenlane And Balmoral,3,,NZB,65002-20200401133848_v89.54,,650
+Constellation Station To Campbells Bay Via Sunnynook Station,3,,RTH,90702-20200416152125_v89.61,,907
 Britomart To Glen Innes Via Orakei,3,,NZB,76202-20200401133848_v89.54,,762
 Papakura Shops To Red Hill,3,,RTH,37302-20200401133848_v89.54,,373
-Campbells Bay To Constellation Station Via Sunnynook Station,3,,RTH,90701-20200325155230_v89.42,,907
 Helensville To Westgate,3,,NZB,12501-20200401133848_v89.54,,125
+Swanson Train Station to Britomart Train Station,2,,AM,810005-20200416152125_v89.61,,WEST
 Britomart Train Station to Sylvia Park Train Station,2,,AM,850014-20200401133848_v89.54,,EAST
-Penrose Train Station to Britomart Train Station,2,,AM,820095-20200325155230_v89.42,,STH
-New Lynn To City Centre Via Green Bay And Blockhouse Bay Rd,3,,RTH,19507-20200325155230_v89.42,,195
-Hibiscus Coast Station To Helensville,3,,NZB,12801-20200401133848_v89.54,,128
-Otahuhu To Manukau Eastern Rail Bus,3,,ATMB,55512-20200325155230_v89.42,,RBE
+Inner Link Clockwise (VP),3,,NZB,79934-20200401133848_v89.54,,INN
+Devonport To Auckland,4,,FGL,92011-20200401133848_v89.54,,DEV
+Auckland 2 To Waiheke Island 1 Via Devonport 2,4,,FGL,98014-20200416152125_v89.61,,MTIA
 Hibiscus Coast Station To Gulf Harbour Via Vipond Rd,3,,GBT,98304-20200401133848_v89.54,,983
-South Lynn Loop,3,,RTH,18603-20200325155230_v89.42,,186
-Britomart Train Station to Otahuhu Train Station,2,,AM,850062-20200325155230_v89.42,,EAST
-Waiwera To Hibiscus Coast Station,3,,GBT,98109-20200325155230_v89.42,,981
-Pukekohe To Otahuhu Southern Rail Bus,3,,ATMB,22215-20200325155230_v89.42,,RBS
-Eastern Bays Circuit Clockwise,3,,GBT,78301-20200325155230_v89.42,,783
-Glen Innes To Panmure via Stonefields,3,,GBT,74702-20200325155230_v89.42,,747
-Auckland Universities To Albany Stn Via Wellesley St,3,,TZG,20012-20200325155230_v89.42,,NX2
+Inner Link Clockwise Newmarkt To Victoria Park,3,,NZB,79926-20200416152125_v89.61,,INN
+Penrose Train Station to Britomart Train Station,2,,AM,820095-20200416152125_v89.61,,STH
+Selwyn Village To Glen Innes Via Balmoral Rd And Greenlane,3,,NZB,65003-20200416152125_v89.61,,650
+Henderson To Constellation Station Via Westgate,3,,RTH,12003-20200416152125_v89.61,,120
+Laingholm To New Lynn,3,,RTH,17105-20200401133848_v89.54,,171
 Manukau Bus Station To Onehunga Via Papatoetoe & Mangere,3,,GBT,31304-20200401133848_v89.54,,313
 Maraetai And Beachlands To Botany Via Whitford And Ormiston,3,,GBT,73901-20200401133848_v89.54,,739
-Red Hill To Papakura Shops,3,,RTH,37301-20200325155230_v89.42,,373
+Panmure To Manukau Bus Station Via East Tamaki,3,,HE,35204-20200416152125_v89.61,,352
+Akoranga Station To Constellation Station Via Takapuna,3,,NZB,84303-20200416152125_v89.61,,843
 Beach Haven To Britomart (Lower Albert St),3,,RTH,09703-20200401133848_v89.54,,97R
-Akoranga Station To Devonport Wharf Via Takapuna,3,,NZB,81402-20200325155230_v89.42,,814
-Auckland Pier 1 To Half Moon Bay,4,,FGL,95014-20200401133848_v89.54,,HMB
+"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",3,,HE,07207-20200416152125_v89.61,,72C
+Papakura To Pukekohe Southern Rail Bus,3,,ATMB,22228-20200416152125_v89.61,,RBS
 New Lynn To Laingholm Loop,3,,RTH,17116-20200401133848_v89.54,,171
 Inner Link Anticlockwise (S),3,,NZB,79829-20200401133848_v89.54,,INN
-Henderson to New Lynn via Sunnyvale and Glen Eden,3,,PC,15201-20200325155230_v89.42,,152
-Panmure To St Heliers Via Glen Innes,3,,GBT,74401-20200325155230_v89.42,,744
+Half Moon Bay To Botany Via Howick And Cockle Bay,3,,GBT,73502-20200401133848_v89.54,,735
 Seaside Park To Mangere Town Centre Via Otahuhu,3,,GBT,32412-20200401133848_v89.54,,324
-Manukau To Panmure Eastern Rail Bus,3,,ATMB,55515-20200325155230_v89.42,,RBE
-Browns Bay To Massey University Via Albany Station,3,,RTH,08304-20200401133848_v89.54,,83
-Britomart (Lower Albert St) To Albany Station,3,,RTH,27002-20200325155230_v89.42,,NX1
-Bayview To Britomart (Lower Albert St),3,,RTH,09503-20200401133848_v89.54,,95B
-Onehunga To City Centre Via Manukau Rd,3,,NZB,03007-20200401133848_v89.54,,30
-Albany To Westgate Via Riverhead,3,,PC,12601-20200401133848_v89.54,,126
-New Lynn To Laingholm Loop,3,,RTH,17116-20200325155230_v89.42,,171
+Warkworth To Hibiscus Coast Station,3,,RTH,99501-20200416152125_v89.61,,995
+Eastern Bays Circuit Anticlockwise,3,,GBT,78302-20200416152125_v89.61,,783
+Penrose Train Station to Britomart Train Station,2,,AM,820015-20200416152125_v89.61,,STH
+Pukekohe Train Station to Papakura Train Station,2,,AM,830003-20200401133848_v89.54,,PUK
+Waitakere Village to Henderson via Swanson and Central Park,3,,PC,14601-20200416152125_v89.61,,146
 Eastern Bays Circuit Clockwise,3,,GBT,78301-20200401133848_v89.54,,783
 Auckland Universities To Albany Stn Via Wellesley St,3,,TZG,20012-20200401133848_v89.54,,NX2
-Papakura Train Station to Pukekohe Train Station,2,,AM,830002-20200325155230_v89.42,,PUK
-Britomart To Botany Via Panmure,3,,HE,07006-20200325155230_v89.42,,70
-Selwyn Village To Glen Innes Via Balmoral Rd And Greenlane,3,,NZB,65003-20200401133848_v89.54,,650
-City Centre To Lynfield Via Dominion Rd,3,,NZB,02504-20200325155230_v89.42,,25L
+Auckland To Rakino Island,4,,BFL,99112-20200401133848_v89.54,,RAK
+Manukau Bus Station To Onehunga Via Airport,3,,GBT,38013-20200416152125_v89.61,,380
 Takapuna to Beach Haven Via Northcote Shops And Highbury,3,,RTH,94204-20200401133848_v89.54,,942
 Takapuna To Beach Haven Smales Farm Station And Glenfield,3,,RTH,94102-20200401133848_v89.54,,941
 Papakura To Pukekohe Southern Rail Bus,3,,ATMB,22228-20200401133848_v89.54,,RBS
-Warkworth To Wellsford,3,,RTH,99802-20200325155230_v89.42,,998
+Browns Bay To Massey University Via Albany Station,3,,RTH,08304-20200401133848_v89.54,,83
+Otahuhu Train Station to Britomart Train Station,2,,AM,820019-20200416152125_v89.61,,STH
 Smales Farm Stn To Northcote Point Via North Shore Hospital,3,,RTH,92802-20200401133848_v89.54,,928
 Weymouth To Manukau Bus Station Via Great South Rd,3,,RTH,36203-20200401133848_v89.54,,362
-City Centre To Westgate Via Northwestern Motorway,3,,NZB,11006-20200325155230_v89.42,,110
-Royal Heights Loop,3,,PC,11101-20200325155230_v89.42,,111
-Manurewa Interchange To Wattle Downs Loop,3,,RTH,36302-20200401133848_v89.54,,363
+Glen Innes To Britomart Via Orakei,3,,NZB,76201-20200416152125_v89.61,,762
+Britomart Train Station to Onehunga Train Station,2,,AM,840004-20200416152125_v89.61,,ONE
 Takapuna to Beach Haven (Late Night),3,,RTH,94208-20200401133848_v89.54,,942
 Warkworth To Hibiscus Coast Station,3,,RTH,99501-20200401133848_v89.54,,995
 New Lynn to Titirangi South via Otitori Bay Rd,3,,RTH,17030-20200401133848_v89.54,,170
-Constellation Station To Smales Farm via Wairau Rd,3,,RTH,90114-20200325155230_v89.42,,901
-Matiatia Wharf To Oneroa,3,,WBC,50302-20200325155230_v89.42,,503
-Henderson To City Centre Via Te Atatu Rd,3,,PC,13301-20200325155230_v89.42,,133
-Otahuhu Train Station to Britomart Train Station,2,,AM,850065-20200325155230_v89.42,,EAST
+Auckland To Hobsonville Point,4,,360D,96028-20200416152125_v89.61,,HOBS
+City Centre To Westgate Via Northwestern Motorway,3,,NZB,11006-20200416152125_v89.61,,110
+Penrose To Pukekohe Southern Rail Bus,3,,ATMB,22222-20200401133848_v89.54,,RBS
+Botany To Britomart Via Panmure,3,,HE,07005-20200416152125_v89.61,,70
+Weymouth To Manukau Bus Station Via Great South Rd,3,,RTH,36203-20200416152125_v89.61,,362
 Red Hill To Papakura Shops,3,,RTH,37301-20200401133848_v89.54,,373
-Auckland Pier 4 To West Harbour,4,,BFL,99514-20200325155230_v89.42,,WSTH
-Penrose Train Station to Britomart Train Station,2,,AM,820015-20200325155230_v89.42,,STH
-Britomart To Manukau Eastern Rail Bus,3,,ATMB,55510-20200325155230_v89.42,,RBE
-Beach Haven to Britomart (Lower Albert St),3,,RTH,09711-20200325155230_v89.42,,97B
-Mission Bay To Newmarket Via Orakei,3,,NZB,78103-20200325155230_v89.42,,781
+City Centre To Blockhouse Bay New Lynn Via Sandringham Rd,3,,NZB,02404-20200401133848_v89.54,,24B
+Britomart (Quay St) To Beach Haven Via Birkdale Rd,3,,RTH,09714-20200401133848_v89.54,,97B
+Albany To Westgate Via Riverhead,3,,PC,12601-20200416152125_v89.61,,126
+Half Moon Bay To Bucklands Beach,3,,GBT,71402-20200416152125_v89.61,,714
+City Centre To Rosebank Rd Via New North Rd,3,,NZB,02202-20200416152125_v89.61,,22R
+Bucklands Beach To Panmure,3,,GBT,71201-20200416152125_v89.61,,712
 Constellation Station To Schnapper Rock (Full Loop),3,,RTH,88304-20200401133848_v89.54,,883
 Papakura Train Station to Pukekohe Train Station,2,,AM,830006-20200401133848_v89.54,,PUK
-Outer Link Anticlockwise Newmarket To City Centre,3,,NZB,72115-20200325155230_v89.42,,OUT
-Inner Link Anticlockwise,3,,NZB,79821-20200325155230_v89.42,,INN
+Britomart Train Station to Otahuhu Train Station,2,,AM,820124-20200416152125_v89.61,,STH
 Westmere To Britomart Via Richmond Rd,3,,NZB,10501-20200401133848_v89.54,,105
-Glenfield To Akoranga Station Via Hillcrest West,3,,RTH,92601-20200325155230_v89.42,,926
-Hobsonville Point to Westgate via West Harbour,3,,PC,11201-20200325155230_v89.42,,112
-Britomart (Quay St) To Beach Haven,3,,RTH,09704-20200325155230_v89.42,,97R
-Hibiscus Coast Station To Waiwera,3,,GBT,98110-20200325155230_v89.42,,981
-Britomart (Quay St) To Glenfield,3,,RTH,09556-20200325155230_v89.42,,95G
-Outer Link Clockwise Newmarket To City Centre,3,,NZB,73118-20200401133848_v89.54,,OUT
-Glen Eden to New Lynn via Titirangi,3,,RTH,17205-20200325155230_v89.42,,172
-Takapuna to Beach Haven Via Northcote & Highbury (Full Loop),3,,RTH,94202-20200325155230_v89.42,,942
+Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,3,,RTH,39607-20200416152125_v89.61,,396
+Hobsonville Pt To Westgate Via Herald Island And Whenuapai,3,,PC,11401-20200416152125_v89.61,,114
+City Centre To Te Atatu Peninsula,3,,PC,13202-20200416152125_v89.61,,132
+Manukau Bus Station To Weymouth Via Great South Rd,3,,RTH,36204-20200416152125_v89.61,,362
+Britomart (Quay St) To Bayview (Full Loop),3,,RTH,09506-20200401133848_v89.54,,95B
 Auckland 2 To Waiheke Island 1,4,,FGL,98012-20200401133848_v89.54,,MTIA
 Papakura Train Station to Pukekohe Train Station,2,,AM,830002-20200401133848_v89.54,,PUK
-Constellation Station To Britomart (Albert St) Via Glenfield,3,,RTH,09511-20200401133848_v89.54,,95C
-Tuakau To Pukekohe,3,,RTH,39803-20200325155230_v89.42,,398
+Britomart Train Station to Manukau Train Station,2,,AM,850028-20200416152125_v89.61,,EAST
+Ormiston To Middlemore Station Via Otara,3,,GBT,31403-20200416152125_v89.61,,314
+City Centre To New Lynn Via New North Rd,3,,NZB,02204-20200416152125_v89.61,,22N
 Rocky Bay to Matiatia Wharf,3,,WBC,50201-20200401133848_v89.54,,502
-Highbury To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96607-20200325155230_v89.42,,966
 Hibiscus Coast Station To Britomart (Lower Albert St),3,,RTH,27003-20200401133848_v89.54,,NX1
-Matiatia Wharf To Onetangi (Seventh Ave),3,,WBC,05002-20200325155230_v89.42,,50A
-Glen Eden to New Lynn via Titirangi,3,,RTH,17205-20200401133848_v89.54,,172
-St Heliers To Panmure Via Glen Innes,3,,GBT,74402-20200325155230_v89.42,,744
+Mangere Town Centre To Otahuhu Station Via Tidal Road,3,,GBT,32601-20200416152125_v89.61,,326
+Manukau To Britomart Eastern Rail Bus,3,,ATMB,55511-20200416152125_v89.61,,RBE
+Hibiscus Coast Station To Orewa Via Maygrove,3,,GBT,98404-20200416152125_v89.61,,984
 Glen Innes To Panmure via Stonefields,3,,GBT,74702-20200401133848_v89.54,,747
-Otahuhu Train Station to Britomart Train Station,2,,AM,820019-20200325155230_v89.42,,STH
-"Pamure To Howick And Botany Via Pakuranga Rd, Cook St, and C",3,,HE,07208-20200325155230_v89.42,,72C
-Royal Oak To Ellerslie Station,3,,NZB,29504-20200325155230_v89.42,,295
-Constellation Station To Akoranga Station Via Takapuna,3,,NZB,84304-20200325155230_v89.42,,843
+Matiatia Wharf to Rocky Bay,3,,WBC,50202-20200416152125_v89.61,,502
+Mayoral Dr To Milford Via Takapuna,3,,NZB,08204-20200416152125_v89.61,,82
+Botany To Beachlands And Maraetai Via Ormiston And Whitford,3,,GBT,73902-20200416152125_v89.61,,739
+Henderson to Ranui via Sturges Rd,3,,PC,14302-20200401133848_v89.54,,143
+Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,3,,PC,06601-20200416152125_v89.61,,66
+Pukekohe Interchange To Waiuku Via Patumahoe And Victoria Av,3,,RTH,39608-20200416152125_v89.61,,396
 Albany Station To Auckland Universities Via Wellesley St,3,,TZG,20003-20200401133848_v89.54,,NX2
-Akoranga Station To City (Mayoral Dr) Via Hillcrest,3,,NZB,92301-20200325155230_v89.42,,923
-Smales Farm To Beach Haven And Takapuna Anticlockwise (Late),3,,RTH,94104-20200401133848_v89.54,,941
-Britomart To Swanson Western Rail Bus,3,,ATMB,11110-20200325155230_v89.42,,RBW
-Panmure To Bucklands Beach Loop,3,,GBT,71203-20200325155230_v89.42,,712
+Sylvia Park Train Station to Britomart Train Station,2,,AM,850013-20200416152125_v89.61,,EAST
+Albany Station To Birkenhead Wharf Via Glenfield Rd,3,,RTH,91702-20200416152125_v89.61,,917
+Milford To Mayoral Dr Via Takapuna,3,,NZB,08203-20200401133848_v89.54,,82
 Ellerslie Station To City Centre Via Royal Oak,3,,NZB,29501-20200401133848_v89.54,,295
-City Centre To Mangere Town Centre,3,,GBT,30902-20200325155230_v89.42,,309
+Newmarket To Mission Bay Via Orakei,3,,NZB,78104-20200416152125_v89.61,,781
 Eastern Bays Circuit Anticlockwise,3,,GBT,78302-20200401133848_v89.54,,783
-Britomart Train Station to Papakura Train Station,2,,AM,820056-20200325155230_v89.42,,STH
+Otahuhu Train Station to Manukau Train Station,2,,AM,850050-20200416152125_v89.61,,EAST
+Sylvia Park To Mangere Town Centre Via Otahuhu,3,,GBT,03202-20200416152125_v89.61,,32
+Takapuna to Beach Haven Via Northcote Shops And Highbury,3,,RTH,94204-20200416152125_v89.61,,942
+Inner Link Anticlockwise,3,,NZB,79821-20200416152125_v89.61,,INN
+Henderson to Ranui via Sturges Rd,3,,PC,14302-20200416152125_v89.61,,143
+Botany To Manukau Bus Station Via Mission Heights & Ormiston,3,,HE,35504-20200416152125_v89.61,,355
 "New Lynn to Westgate via Henderson, Lincoln Rd & Triangle Rd",3,,NZB,01406-20200401133848_v89.54,,14T
-Panmure To Otahuhu Station Via Panama Rd,3,,GBT,32302-20200325155230_v89.42,,323
-Sylvia Park To Mangere Town Centre Via Otahuhu,3,,GBT,03202-20200325155230_v89.42,,32
-Panmure To Bucklands Beach,3,,GBT,71202-20200401133848_v89.54,,712
+"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",3,,HE,07209-20200401133848_v89.54,,72M
+Te Atatu Peninsula to Henderson,3,,PC,13105-20200401133848_v89.54,,131
 Puhinui Shuttle Loop,3,,GBT,34901-20200401133848_v89.54,,349
 Botany To Beachlands And Maraetai Via Ormiston And Whitford,3,,GBT,73902-20200401133848_v89.54,,739
-Hobsonville Pt To Westgate Via Herald Island And Whenuapai,3,,PC,11401-20200325155230_v89.42,,114
-Onehunga Train Station to Britomart Train Station,2,,AM,840001-20200325155230_v89.42,,ONE
-Swanson Train Station to Britomart Train Station,2,,AM,810015-20200401133848_v89.54,,WEST
-New Lynn to Titirangi South,3,,RTH,17028-20200325155230_v89.42,,170
-Britomart (Quay St) To Beach Haven Via Birkdale Rd,3,,RTH,09714-20200325155230_v89.42,,97B
-Manukau To Britomart Eastern Rail Bus,3,,ATMB,55511-20200325155230_v89.42,,RBE
-Middlemore Station To Ormiston Via Otara,3,,GBT,31404-20200401133848_v89.54,,314
-Northcote Point To Smales Farm Stn Via North Shore Hospital,3,,RTH,92801-20200401133848_v89.54,,928
-Manukau Train Station to Britomart Train Station,2,,AM,850039-20200325155230_v89.42,,EAST
+Constellation To Smales Farm via Windy Ridge And Archers Rd,3,,RTH,90603-20200401133848_v89.54,,906
+Northcote Point To Smales Farm Stn Via North Shore Hospital,3,,RTH,92801-20200416152125_v89.61,,928
+Pukekohe Interchange To Wesley College/Paerata,3,,RTH,39404-20200401133848_v89.54,,394
+Auckland Pier 1 To Half Moon Bay,4,,FGL,95014-20200401133848_v89.54,,HMB
+Henderson To Westgate,3,,RTH,12011-20200416152125_v89.61,,120
+Onehunga To City Centre Via Manukau Rd,3,,NZB,03007-20200401133848_v89.54,,30
+Onehunga To Manukau Bus Station Via Mangere & Papatoetoe,3,,GBT,31303-20200416152125_v89.61,,313
+Inner Link Clockwise K Rd To Victoria Park,3,,NZB,79928-20200416152125_v89.61,,INN
+Pukekohe Train Station to Papakura Train Station,2,,AM,830003-20200416152125_v89.61,,PUK
 Britomart To Benson Rd Via Portland Rd,3,,NZB,75504-20200401133848_v89.54,,755
-Wynyard Quarter To Glen Innes Via Remuera Rd,3,,NZB,07502-20200325155230_v89.42,,75
+Manukau Bus Station To Botany Via Chapel Rd And Ormiston,3,,HE,03505-20200416152125_v89.61,,35
+Britomart Train Station to Manukau Train Station,2,,AM,850030-20200416152125_v89.61,,EAST
 Constellation Station To Albany Station Via Hugh Green Dr,3,,RTH,88902-20200401133848_v89.54,,889
+Wynyard Quarter To Glen Innes Via Remuera Rd,3,,NZB,07502-20200416152125_v89.61,,75
 Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,3,,GBT,32503-20200401133848_v89.54,,325
-Milford To Mayoral Dr Via Takapuna,3,,NZB,08203-20200401133848_v89.54,,82
-Outer Link Clockwise St Lukes To City Centre,3,,NZB,73116-20200401133848_v89.54,,OUT
-Pukekohe Interchange To Wesley College/Paerata,3,,RTH,39404-20200325155230_v89.42,,394
-Ormiston To Middlemore Station Via Otara,3,,GBT,31403-20200325155230_v89.42,,314
-Britomart Train Station to Manukau Train Station,2,,AM,850028-20200325155230_v89.42,,EAST
-Westgate To City Centre Via Northwestern Motorway,3,,NZB,11005-20200401133848_v89.54,,110
+Papakura Interchange To Waiuku,3,,RTH,39502-20200416152125_v89.61,,395
+Otahuhu Train Station to Britomart Train Station,2,,AM,850065-20200401133848_v89.54,,EAST
 Botany To Half Moon Bay Via Cockle Bay And Howick,3,,GBT,73501-20200401133848_v89.54,,735
+Manukau Train Station to Britomart Train Station,2,,AM,850031-20200416152125_v89.61,,EAST
+Britomart (Quay St) To Beach Haven Via Birkdale Rd,3,,RTH,09714-20200416152125_v89.61,,97B
+Botany To Half Moon Bay Via Cockle Bay And Howick,3,,GBT,73501-20200416152125_v89.61,,735
+Westgate To City Centre Via Northwestern Motorway,3,,NZB,11005-20200401133848_v89.54,,110
+Outer Link Clockwise St Lukes To City Centre,3,,NZB,73116-20200401133848_v89.54,,OUT
 Manukau Bus Station To Manurewa Via The Gardens,3,,RTH,36606-20200401133848_v89.54,,366
 Mangere Town Centre To Sylvia Park Via Otahuhu,3,,GBT,03201-20200401133848_v89.54,,32
 Britomart (Lower Albert St) To Albany Station,3,,RTH,27002-20200401133848_v89.54,,NX1
 Constellation Station To Campbells Bay Via Sunnynook Station,3,,RTH,90702-20200401133848_v89.54,,907
 Hibiscus Coast Station To Gulf Harbour,3,,GBT,98208-20200401133848_v89.54,,982
-Britomart Train Station to Penrose Train Station,2,,AM,820012-20200325155230_v89.42,,STH
-Westgate To City Centre Via Northwestern Motorway,3,,NZB,11005-20200325155230_v89.42,,110
-Britomart (Lower Albert St) To Hibiscus Coast Stn,3,,RTH,27010-20200325155230_v89.42,,NX1
+Half Moon Bay To Auckland,4,,FGL,95011-20200416152125_v89.61,,HMB
+Mission Bay To Museum Via Orakei,3,,NZB,78101-20200416152125_v89.61,,781
+Hibiscus Coast Station To Waiwera,3,,GBT,98110-20200401133848_v89.54,,981
+Gulf Harbour To Hibiscus Coast Station,3,,GBT,98207-20200416152125_v89.61,,982
 Mangere Town Centre To Botany Town Centre Via Otara,3,,GBT,03101-20200401133848_v89.54,,31
-Panmure To St Heliers Via Glen Innes,3,,GBT,74401-20200401133848_v89.54,,744
-Outer Link Anticlockwise St Lukes To City Centre,3,,NZB,72119-20200325155230_v89.42,,OUT
-Museum To Mission Bay Via Orakei,3,,NZB,78102-20200401133848_v89.54,,781
+Britomart To Middlemore Station Via Greenlane Hospital,3,,NZB,32102-20200416152125_v89.61,,321
+New Lynn To Onehunga.,3,,NZB,06803-20200416152125_v89.61,,68
+Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,3,,NZB,02707-20200416152125_v89.61,,27H
 Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,3,,GBT,78201-20200401133848_v89.54,,782
-Britomart To Otahuhu Eastern Rail Bus,3,,ATMB,55520-20200325155230_v89.42,,RBE
+Blockhouse Bay To City Centre Via Dominion Rd,3,,NZB,02505-20200401133848_v89.54,,25B
 Akoranga Station To Devonport Wharf Via Takapuna,3,,NZB,81402-20200401133848_v89.54,,814
-Otahuhu Station To Mangere Town Centre Via Tidal Road,3,,GBT,32602-20200325155230_v89.42,,326
-Birkenhead Wharf To Albany Station Via Glenfield Rd,3,,RTH,91701-20200325155230_v89.42,,917
+Panmure To Bucklands Beach Loop,3,,GBT,71203-20200416152125_v89.61,,712
+City Centre To Lynfield Via Dominion Rd,3,,NZB,02504-20200416152125_v89.61,,25L
+Papakura Interchange To Manukau Bus Station Via Porchester,3,,RTH,36503-20200416152125_v89.61,,365
 Onetangi (Seventh Ave) To Matiatia Wharf,3,,WBC,05001-20200401133848_v89.54,,50A
-Constellation Station To Schnapper Rock (Full Loop),3,,RTH,88304-20200325155230_v89.42,,883
-Brains Park to New Lynn,3,,RTH,16101-20200401133848_v89.54,,161
-Glen Innes To Selwyn Village Via Greenlane And Balmoral Rd,3,,NZB,65004-20200325155230_v89.42,,650
-Auckland Pier 1C To Pine Harbour,4,,SLPH,99014-20200401133848_v89.54,,PINE
-Pukekohe Northeast Loop,3,,RTH,39104-20200325155230_v89.42,,391
+Middlemore Station To Ormiston Via Otara,3,,GBT,31404-20200401133848_v89.54,,314
+Britomart Train Station to Papakura Train Station,2,,AM,820060-20200401133848_v89.54,,STH
+Henderson To City Centre Via Edmonton Rd,3,,PC,13403-20200416152125_v89.61,,134
+Half Moon Bay To Auckland Via Rangitoto Island,4,,FGL,95015-20200416152125_v89.61,,HMB
+Birkenhead Wharf To Albany Station Via Glenfield Rd,3,,RTH,91701-20200416152125_v89.61,,917
 Half Moon Bay To Botany Via Highland Park,3,,GBT,73402-20200401133848_v89.54,,734
-New Lynn to Henderson via Glen Eden,3,,PC,15406-20200325155230_v89.42,,154
-Botany To Manukau Bus Station Via Chapel Rd And Ormiston,3,,HE,03508-20200325155230_v89.42,,35
-Hibiscus Coast Station To Helensville,3,,NZB,12801-20200325155230_v89.42,,128
+Bucklands Beach To Botany Via Highland Park,3,,GBT,73302-20200401133848_v89.54,,733
+Britomart To Botany Via Panmure,3,,HE,07006-20200416152125_v89.61,,70
+Browns Bay To Massey University Via Albany Station,3,,RTH,08304-20200416152125_v89.61,,83
+Otahuhu To Britomart Eastern Rail Bus,3,,ATMB,55521-20200416152125_v89.61,,RBE
+Campbells Bay To Constellation Station Via Sunnynook Station,3,,RTH,90701-20200416152125_v89.61,,907
 Britomart (Lower Albert St) To Albany Stn,3,,RTH,27008-20200401133848_v89.54,,NX1
-"Pamure to Howick and Botany via Pakuranga Rd, Meadowland Dr",3,,HE,07210-20200325155230_v89.42,,72M
-Otahuhu To New Lynn Via Onehunga Stoddard Rd And Avondale,3,,NZB,67012-20200401133848_v89.54,,670
+Onetangi (Fourth Ave) to Matiatia Wharf,3,,WBC,05003-20200401133848_v89.54,,50B
 Takapuna to Albany Station Via Milford And Beach Rd,3,,RTH,85602-20200401133848_v89.54,,856
 Henderson To Constellation Station Via Westgate,3,,RTH,12003-20200401133848_v89.54,,120
+Britomart To Botany Via Ellerslie And Panmure,3,,HE,07014-20200416152125_v89.61,,70
 Henderson to Te Atatu Peninsula Via Beach Rd,3,,PC,13108-20200401133848_v89.54,,131
-Inner Link Anticlockwise,3,,NZB,79821-20200401133848_v89.54,,INN
-Manly To Hibiscus Coast Station,3,,GBT,98209-20200325155230_v89.42,,982
+Otahuhu Station To Mangere Town Centre Via Tidal Road,3,,GBT,32602-20200416152125_v89.61,,326
+Glen Innes To Pt Chevalier Shops Via Greenlane And Balmoral,3,,NZB,65002-20200416152125_v89.61,,650
 Glenfield To Akoranga Station Via Hillcrest West,3,,RTH,92601-20200401133848_v89.54,,926
-Takapuna To Beach Haven & Smales Farm Clockwise (Late Night),3,,RTH,94206-20200325155230_v89.42,,942
-Papakura Shops To Drury,3,,RTH,37602-20200325155230_v89.42,,376
-Britomart (Lower Albert St) To Hibiscus Coast Station,3,,RTH,27004-20200325155230_v89.42,,NX1
-New Lynn To Lynfield Via Avondale And Blockhouse Bay,3,,RTH,19102-20200325155230_v89.42,,191
-Newmarket To Mission Bay Via Orakei,3,,NZB,78104-20200325155230_v89.42,,781
+Auckland To Rakino Island,4,,BFL,99112-20200416152125_v89.61,,RAK
+Constellation To Smales Farm Via Windy Ridge And Archers Rd,3,,RTH,90601-20200416152125_v89.61,,906
+New Lynn And Blockhouse Bay To City Centre Via Sandingham Rd,3,,NZB,02403-20200401133848_v89.54,,24B
 Papakura Shops To Karaka Harbourside Loop,3,,RTH,37802-20200401133848_v89.54,,378
-Waikowhai To Britomart Via Mt Eden Rd,3,,NZB,02705-20200325155230_v89.42,,27W
 Constellation Station To Campbells Bay via Sunnynook Station,3,,RTH,90704-20200401133848_v89.54,,907
-City Centre To Te Atatu Peninsula,3,,PC,13202-20200325155230_v89.42,,132
+Inner Link Anticlockwise (S),3,,NZB,79829-20200416152125_v89.61,,INN
 Rakino Island To Auckland,4,,BFL,99111-20200401133848_v89.54,,RAK
-Pukekohe To Penrose Southern Rail Bus,3,,ATMB,22233-20200325155230_v89.42,,RBS
-New Lynn To Onehunga.,3,,NZB,06803-20200325155230_v89.42,,68
-Britomart Train Station to Manukau Train Station,2,,AM,850028-20200401133848_v89.54,,EAST
-Inner Link Clockwise Customs St To Victoria Park,3,,NZB,79924-20200325155230_v89.42,,INN
-Hibiscus Coast Station To Albany Station Via Dariy Flat,3,,GBT,98603-20200325155230_v89.42,,986
-Britomart To Westmere Via Richmond Rd,3,,NZB,10502-20200325155230_v89.42,,105
+Takapuna To Constellation Station Via Forrest Hill Rd,3,,NZB,87102-20200416152125_v89.61,,871
+Manurewa Interchange To Otara / Mit Via Mahia Rd,3,,RTH,36101-20200416152125_v89.61,,361
+St Lukes To Wynyard Quarter Via Kingsland,3,,NZB,02005-20200416152125_v89.61,,20
+Smales Farm Stn To Northcote Point Via North Shore Hospital,3,,RTH,92802-20200416152125_v89.61,,928
+Britomart Train Station to Onehunga Train Station,2,,AM,840028-20200401133848_v89.54,,ONE
 Orewa To Hibiscus Coast Station,3,,GBT,98111-20200401133848_v89.54,,981
 South Lynn Loop,3,,RTH,18603-20200401133848_v89.54,,186
-Seaside Park To Mangere Town Centre Via Otahuhu,3,,GBT,32412-20200325155230_v89.42,,324
-City Centre To Henderson Via Te Atatu Rd,3,,PC,13302-20200325155230_v89.42,,133
-Bayswater Wharf To Akoranga Station Via Takapuna,3,,NZB,80101-20200401133848_v89.54,,801
-Inner Link Clockwise,3,,NZB,79922-20200325155230_v89.42,,INN
-Onehunga To Manukau Bus Station Via Mangere & Papatoetoe,3,,GBT,31303-20200325155230_v89.42,,313
+City Centre To Blockhouse Bay New Lynn Via Sandringham Rd,3,,NZB,02404-20200416152125_v89.61,,24B
+New Lynn to Henderson via Glen Eden and Sunnyvale,3,,PC,15202-20200416152125_v89.61,,152
+Waiuku To Papakura Interchange,3,,RTH,39501-20200416152125_v89.61,,395
+Eastern Bays Circuit Clockwise,3,,GBT,78301-20200416152125_v89.61,,783
 Devonport Wharf To Stanley Pt Loop,3,,NZB,80601-20200401133848_v89.54,,806
-Glen Innes To Britomart Via Orakei,3,,NZB,76201-20200325155230_v89.42,,762
 Onehunga To Sylvia Park Via Ellerslie,3,,GBT,29801-20200401133848_v89.54,,298
-Panmure To Newmarket Via Marua Rd And Remuera Rd,3,,NZB,75101-20200325155230_v89.42,,751
-Hibiscus Coast Station To Warkworth,3,,RTH,99502-20200325155230_v89.42,,995
+Auckland Universities To Hibiscus Coast Stn,3,,TZG,20016-20200401133848_v89.54,,NX2
 New Lynn To Lynfield Via Avondale And Blockhouse Bay,3,,RTH,19102-20200401133848_v89.54,,191
-Akoranga Station To Glenfield Via Hillcrest West,3,,RTH,92602-20200325155230_v89.42,,926
-Takapuna To Milford Via North Shore Hospital,3,,RTH,84502-20200325155230_v89.42,,845
-Devonport Wharf To Stanley Pt Loop,3,,NZB,80601-20200325155230_v89.42,,806
-Outer Link Anticlockwise,3,,NZB,72113-20200325155230_v89.42,,OUT
+Papakura Shops To Red Hill,3,,RTH,37302-20200416152125_v89.61,,373
+New Lynn to Brains Park,3,,RTH,16102-20200416152125_v89.61,,161
+Botany To Manukau Bus Station Via Chapel Rd And Ormiston Rd,3,,HE,03510-20200401133848_v89.54,,35
 "Westgate to New Lynn via Waimumu Rd, Lincoln Rd & Henderson",3,,NZB,01405-20200401133848_v89.54,,14W
-Newmaket To Albany Station Via Auckland Hospital & Ponsonby,3,,RTH,86602-20200401133848_v89.54,,866
+Inner Link Clockwise (S),3,,NZB,79932-20200401133848_v89.54,,INN
 Hobsonville Point to Westgate via West Harbour,3,,PC,11201-20200401133848_v89.54,,112
+Akoranga Station To City (Mayoral Dr) Via Hillcrest,3,,NZB,92301-20200416152125_v89.61,,923
 New Lynn to Henderson via Glendene,3,,NZB,16202-20200401133848_v89.54,,162
-City (Mayoral Dr) To Akoranga Station Via Hillcrest,3,,NZB,92302-20200325155230_v89.42,,923
-"Westgate to New Lynn via Triangle Rd, Lincoln Rd & Henderson",3,,NZB,01401-20200325155230_v89.42,,14T
-Manurewa Interchange To Manukau Bus Station Via The Gardens,3,,RTH,36605-20200325155230_v89.42,,366
-Inner Link Clockwise (VP),3,,NZB,79934-20200401133848_v89.54,,INN
-Onehunga To Manukau Bus Station Via Airport,3,,GBT,38014-20200325155230_v89.42,,380
-Smales Farm to Beach Haven (Late Night),3,,RTH,94106-20200325155230_v89.42,,941
-Bucklands Beach to Half Moon Bay,3,,GBT,71401-20200325155230_v89.42,,714
-Britomart Train Station to Penrose Train Station,2,,AM,820012-20200401133848_v89.54,,STH
-Papakura Shops To Keri Hill Loop,3,,RTH,37202-20200401133848_v89.54,,372
+Waikowhai To Britomart Via Mt Eden Rd,3,,NZB,02705-20200416152125_v89.61,,27W
+Henderson to Te Atatu Peninsula Via Beach Rd,3,,PC,13108-20200416152125_v89.61,,131
+Wesley College/Paerata To Pukekohe Interchange,3,,RTH,39403-20200416152125_v89.61,,394
+Newmarket To Highbury Via Auckland Hospital and Ponsonby Rd,3,,RTH,96608-20200416152125_v89.61,,966
+Papakura Train Station to Pukekohe Train Station,2,,AM,830006-20200416152125_v89.61,,PUK
+Pukekohe Train Station to Papakura Train Station,2,,AM,830001-20200416152125_v89.61,,PUK
+Waiheke Island 1 To Auckland 1,4,,FGL,98015-20200416152125_v89.61,,MTIA
+Henderson to New Lynn via Glendene,3,,NZB,16201-20200401133848_v89.54,,162
+Outer Link Anticlockwise,3,,NZB,72113-20200416152125_v89.61,,OUT
+Milford To Takapuna Via North Shore Hospital,3,,RTH,84501-20200416152125_v89.61,,845
 Britomart (Quay St) to Constellation Station via Glenfield,3,,RTH,09512-20200401133848_v89.54,,95C
 City Centre To Te Atatu Peninsula,3,,PC,13202-20200401133848_v89.54,,132
-Devonport To Auckland,4,,FGL,92011-20200401133848_v89.54,,DEV
+Glen Innes To Selwyn Village Via Greenlane And Balmoral Rd,3,,NZB,65004-20200416152125_v89.61,,650
 Botany Town Centre To Manukau Bus Station Via Preston Rd,3,,HE,35304-20200401133848_v89.54,,353
+Constellation Station To Akoranga Station Via Takapuna,3,,NZB,84304-20200416152125_v89.61,,843
 City Centre To Ellerslie Station Via Royal Oak,3,,NZB,29502-20200401133848_v89.54,,295
-Smales Farm To Constellation Station Via Wairau Rd,3,,RTH,90111-20200325155230_v89.42,,901
-St Lukes To Wynyard Quarter Via Kingsland,3,,NZB,02005-20200325155230_v89.42,,20
-Manukau Bus Station To Botany Via Chapel Rd And Ormiston,3,,HE,03505-20200325155230_v89.42,,35
-Inner Link Clockwise K Rd To Victoria Park,3,,NZB,79928-20200325155230_v89.42,,INN
-Outer Link Clockwise Herne Bay To City Centre,3,,NZB,73114-20200325155230_v89.42,,OUT
-Takapuna to Albany Station Via Milford And Beach Rd,3,,RTH,85602-20200325155230_v89.42,,856
+Britomart (Quay St) To Bayview (Full Loop),3,,RTH,09506-20200416152125_v89.61,,95B
+Pukekohe Interchange To Waiuku Loop Via Patumahoe,3,,RTH,39609-20200416152125_v89.61,,396
+Britomart (Quay St) To Beach Haven Via Rangatira Rd,3,,RTH,09706-20200416152125_v89.61,,97R
+Otara / Mit To Manurewa Interchange Via Mahia Rd,3,,RTH,36102-20200401133848_v89.54,,361
+Henderson to New Lynn via Glendene,3,,NZB,16201-20200416152125_v89.61,,162
+New Lynn To City Centre Via Great North Rd,3,,NZB,01803-20200401133848_v89.54,,18
+Devonport Wharf To Cheltenham Loop,3,,NZB,80701-20200416152125_v89.61,,807
+Mangere Town Centre To Sylvia Park Via Otahuhu,3,,GBT,03201-20200416152125_v89.61,,32
 Beach Haven To Takapuna Via Highbury And Northcote Shops,3,,RTH,94201-20200401133848_v89.54,,942
 Constellation Station To Long Bay Via Bush Rd,3,,RTH,86102-20200401133848_v89.54,,861
-Manukau Bus Station To Weymouth Via Great South Rd,3,,RTH,36204-20200325155230_v89.42,,362
+Britomart Train Station to Otahuhu Train Station,2,,AM,820016-20200401133848_v89.54,,STH
 Takapuna To Constellation Station Via Forrest Hill Rd,3,,NZB,87102-20200401133848_v89.54,,871
-Manukau Bus Station To Papakura Interchange Via Porchester,3,,RTH,36504-20200325155230_v89.42,,365
-Constellation Station To Britomart (Albert St) Via Glenfield,3,,RTH,09511-20200325155230_v89.42,,95C
+Puhinui Shuttle Loop,3,,GBT,34901-20200416152125_v89.61,,349
+Constellation To Smales Farm via Windy Ridge And Archers Rd,3,,RTH,90603-20200416152125_v89.61,,906
 Albany Station To Takapuna Via Beach Rd And Milford,3,,RTH,85601-20200401133848_v89.54,,856
-Otahuhu Train Station to Britomart Train Station,2,,AM,820137-20200401133848_v89.54,,STH
-Swanson Train Station to Britomart Train Station,2,,AM,810005-20200325155230_v89.42,,WEST
+Auckland Beach Haven Hobsonville Point Loop Indirect,4,,360D,96026-20200416152125_v89.61,,HOBS
+Papakura Train Station to Britomart Train Station,2,,AM,820057-20200416152125_v89.61,,STH
 Campbells Bay To Constellation Station Via Sunnynook Station,3,,RTH,90701-20200401133848_v89.54,,907
-Constellation Station To Schnapper Rock,3,,RTH,88302-20200401133848_v89.54,,883
-New Lynn To City Centre Via Great North Rd,3,,NZB,01803-20200325155230_v89.42,,18
-Onehunga To Glen Innes Via Sylvia Park And Tripoli Rd,3,,GBT,74301-20200325155230_v89.42,,743
-Albany Station To Browns Bay Via Oaktree Ave,3,,RTH,86502-20200325155230_v89.42,,865
-Matiatia Wharf To Onetangi (Fourth Ave),3,,WBC,05004-20200325155230_v89.42,,50B
-Britomart (Quay St) To Bayview (Full Loop),3,,RTH,09506-20200325155230_v89.42,,95B
-Swanson To Britomart Western Rail Bus,3,,ATMB,11111-20200325155230_v89.42,,RBW
-Botany To Bucklands Beach Via Highland Park,3,,GBT,73303-20200325155230_v89.42,,733
-Wellsford To Warkworth,3,,RTH,99801-20200325155230_v89.42,,998
+Pt Chevalier Shops To Glen Innes Via Greenlane,3,,NZB,65001-20200416152125_v89.61,,650
+Swanson Train Station to Britomart Train Station,2,,AM,810015-20200416152125_v89.61,,WEST
+Brains Park to New Lynn,3,,RTH,16101-20200401133848_v89.54,,161
+Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96603-20200401133848_v89.54,,966
+Albany Station To Birkenhead Wharf Via Glenfield Rd,3,,RTH,91702-20200401133848_v89.54,,917
 Constellation Station To Henderson Via Westgate,3,,RTH,12004-20200401133848_v89.54,,120
-Albany Station To Birkenhead Wharf Via Glenfield Rd,3,,RTH,91702-20200325155230_v89.42,,917
-Smales Farm To Beach Haven And Takapuna Anticlockwise (Late),3,,RTH,94104-20200325155230_v89.42,,941
-Constellation Station To Long Bay via Bush Rd,3,,RTH,86104-20200325155230_v89.42,,861
-Auckland Pier 1C To Pine Harbour,4,,SLPH,99014-20200325155230_v89.42,,PINE
-Penrose To Pukekohe Southern Rail Bus,3,,ATMB,22222-20200325155230_v89.42,,RBS
+Manukau Train Station to Britomart Train Station,2,,AM,850029-20200401133848_v89.54,,EAST
+Constellation Station To Long Bay via Bush Rd,3,,RTH,86104-20200416152125_v89.61,,861
 Hobsonville Point To Auckland Via Beach Haven Indirect,4,,360D,96021-20200401133848_v89.54,,HOBS
-Constellation Station To Henderson Via Westgate,3,,RTH,12004-20200325155230_v89.42,,120
 Britomart Train Station to Swanson Train Station,2,,AM,810004-20200401133848_v89.54,,WEST
 Papakura Train Station to Britomart Train Station,2,,AM,820061-20200401133848_v89.54,,STH
-Onehunga To City Centre Via Manukau Rd,3,,NZB,03007-20200325155230_v89.42,,30
+Museum To Mission Bay Via Orakei,3,,NZB,78102-20200416152125_v89.61,,781
 Hibiscus Coast Station To Manly,3,,GBT,98210-20200401133848_v89.54,,982
-Manurewa Interchange To Otara / Mit Via Mahia Rd,3,,RTH,36101-20200325155230_v89.42,,361
-Otahuhu Station to Papakura Interchange Via Great South Rd,3,,RTH,03302-20200325155230_v89.42,,33
-Britomart Train Station to Papakura Train Station,2,,AM,820058-20200325155230_v89.42,,STH
-Panmure To Manukau Eastern Rail Bus,3,,ATMB,55514-20200325155230_v89.42,,RBE
+Albany Station To Constellation Station Via Hugh Green Dr,3,,RTH,88901-20200416152125_v89.61,,889
+Manukau Bus Station To Papakura Interchange Via Porchester,3,,RTH,36504-20200416152125_v89.61,,365
+Pukekohe To Port Waikato Via Tuakau,3,,RTH,39904-20200416152125_v89.61,,399
+Ranui to Henderson via Sturges Rd,3,,PC,14301-20200416152125_v89.61,,143
+Albany To Westgate Via Riverhead,3,,PC,12601-20200401133848_v89.54,,126
+Albany Station To Britomart (Lower Albert St),3,,RTH,27001-20200416152125_v89.61,,NX1
+Auckland To Devonport,4,,FGL,92012-20200416152125_v89.61,,DEV
+Lynfield To New Lynn Via Blockhouse Bay And Avondale,3,,RTH,19101-20200401133848_v89.54,,191
 MIT To Manurewa Interchange Via Mahia Rd,3,,RTH,36104-20200401133848_v89.54,,361
-Weymouth To Manukau Bus Station Via Great South Rd,3,,RTH,36203-20200325155230_v89.42,,362
-Bucklands Beach To Botany Via Highland Park,3,,GBT,73302-20200401133848_v89.54,,733
+Britomart To Botany Via Ellerslie And Panmure,3,,HE,07014-20200401133848_v89.54,,70
 Matiatia Wharf To Onetangi (Seventh Ave),3,,WBC,05002-20200401133848_v89.54,,50A
-Laingholm To New Lynn,3,,RTH,17105-20200401133848_v89.54,,171
-Sylvia Park To Onehunga Via Ellerslie,3,,GBT,29802-20200325155230_v89.42,,298
-Half Moon Bay To Botany Via Highland Park,3,,GBT,73402-20200325155230_v89.42,,734
-Manukau Bus Station To Manurewa Via The Gardens,3,,RTH,36606-20200325155230_v89.42,,366
-Panmure To Manukau Bus Station Via East Tamaki,3,,HE,35204-20200325155230_v89.42,,352
-Auckland Beach Haven Hobsonville Point Loop Indirect,4,,360D,96026-20200325155230_v89.42,,HOBS
+Constellation Station To Britomart (Albert St) Via Glenfield,3,,RTH,09511-20200401133848_v89.54,,95C
+Britomart To Glen Innes Via Tamaki Dr And St Heliers,3,,NZB,07702-20200416152125_v89.61,,TMK
+Pukekohe To Tuakau,3,,RTH,39804-20200416152125_v89.61,,398
+Constellation Station To Smales Farm Via Wairau Rd,3,,RTH,90112-20200416152125_v89.61,,901
+Warkworth To Wellsford,3,,RTH,99802-20200401133848_v89.54,,998
 Mangere Town Centre To City Centre,3,,GBT,30901-20200401133848_v89.54,,309
-Manukau Bus Station To Weymouth Via Great South Rd,3,,RTH,36204-20200401133848_v89.54,,362
+Selwyn Village To Glen Innes Via Balmoral Rd And Greenlane,3,,NZB,65003-20200401133848_v89.54,,650
 Massey University To Takapuna Via Browns Bay,3,,RTH,08301-20200401133848_v89.54,,83
-Botany Town Centre To Manukau Bus Station Via Preston Rd,3,,HE,35304-20200325155230_v89.42,,353
-Manukau Bus Station To Mangere Town Ctr Via Otara & Otahuhu,3,,GBT,32504-20200325155230_v89.42,,325
+Swanson Train Station to Britomart Train Station,2,,AM,810001-20200416152125_v89.61,,WEST
 Pukekohe Train Station to Papakura Train Station,2,,AM,830001-20200401133848_v89.54,,PUK
-Constellation Station To Browns Bay Via East Coast Rd,3,,RTH,87802-20200325155230_v89.42,,878
-Waiuku To Papakura Interchange,3,,RTH,39501-20200401133848_v89.54,,395
-Sylvia Park Train Station to Britomart Train Station,2,,AM,850013-20200325155230_v89.42,,EAST
-Britomart To Waikowhai Via Mt Eden Rd,3,,NZB,02702-20200325155230_v89.42,,27W
-Botany To Manukau Bus Station Via Chapel Rd And Ormiston Rd,3,,HE,03510-20200325155230_v89.42,,35
+Massey University To Takapuna Via Browns Bay,3,,RTH,08301-20200416152125_v89.61,,83
+Panmure To Manukau Eastern Rail Bus,3,,ATMB,55514-20200416152125_v89.61,,RBE
+Middlemore Station To Ormiston Via Otara,3,,GBT,31404-20200416152125_v89.61,,314
+Britomart Train Station to Manukau Train Station,2,,AM,850028-20200401133848_v89.54,,EAST
 Ormiston To Middlemore Station Via Otara,3,,GBT,31403-20200401133848_v89.54,,314
 Henderson West Loop Clockwise,3,,PC,14205-20200401133848_v89.54,,142
 Te Atatu Peninsula To City Centre,3,,PC,13201-20200401133848_v89.54,,132
-Hibiscus Coast Station To Warkworth,3,,RTH,99502-20200401133848_v89.54,,995
-Swanson Train Station to Britomart Train Station,2,,AM,810001-20200325155230_v89.42,,WEST
-Manukau Train Station to Otahuhu Train Station,2,,AM,850049-20200325155230_v89.42,,EAST
+Bayswater Wharf To Akoranga Station Via Takapuna,3,,NZB,80101-20200416152125_v89.61,,801
+Panmure To Manukau Eastern Rail Bus,3,,ATMB,55514-20200401133848_v89.54,,RBE
 Auckland Pier 1 to Half Moon Bay via Rangitoto Island,4,,FGL,95016-20200401133848_v89.54,,HMB
-Auckland To Rakino Island,4,,BFL,99112-20200325155230_v89.42,,RAK
-Henderson West Loop Anticlockwise,3,,PC,14101-20200325155230_v89.42,,141
-Inner Link Clockwise Newmarkt To Victoria Park,3,,NZB,79926-20200325155230_v89.42,,INN
-Waitakere Village to Henderson via Swanson and Central Park,3,,PC,14601-20200325155230_v89.42,,146
-Mangere Town Centre To Otahuhu Station Via Tidal Road,3,,GBT,32601-20200325155230_v89.42,,326
-Henderson to New Lynn via Glendene,3,,NZB,16201-20200325155230_v89.42,,162
-Lynfield To New Lynn Via Blockhouse Bay And Avondale,3,,RTH,19101-20200401133848_v89.54,,191
+Botany Town Centre To Manukau Bus Station Via Preston Rd,3,,HE,35304-20200416152125_v89.61,,353
+Otahuhu Train Station to Britomart Train Station,2,,AM,850065-20200416152125_v89.61,,EAST
+Auckland 2 To Waiheke Island 1 Via Devonport 2,4,,FGL,98014-20200401133848_v89.54,,MTIA
+Botany Town Centre To Mangere Town Centre Via Otara,3,,GBT,03102-20200416152125_v89.61,,31
+Orewa To Hibiscus Coast Station Via Millwater,3,,GBT,98503-20200416152125_v89.61,,985
+City Centre To Henderson Via Te Atatu Rd,3,,PC,13302-20200401133848_v89.54,,133
+Manukau Bus Station To Botany Via Ormiston & Mission Heights,3,,HE,35505-20200416152125_v89.61,,355
+Panmure To Howick Via Cascades Road,3,,GBT,71102-20200416152125_v89.61,,711
 City Centre To New Lynn Via Blockhouse Bay Rd And Green Bay,3,,RTH,19508-20200401133848_v89.54,,195
 Papakura Shops To Drury,3,,RTH,37602-20200401133848_v89.54,,376
-Botany To The Parade Via Highland Park,3,,GBT,73301-20200401133848_v89.54,,733
-Newmarket To Highbury Via Auckland Hospital and Ponsonby Rd,3,,RTH,96608-20200325155230_v89.42,,966
-Onetangi (Fourth Ave) to Matiatia Wharf,3,,WBC,05003-20200401133848_v89.54,,50B
-Museum To Mission Bay Via Orakei,3,,NZB,78102-20200325155230_v89.42,,781
+Inner Link Anticlockwise Customs St To Victoria Park,3,,NZB,79827-20200416152125_v89.61,,INN
+Britomart (Lower Albert St) To Albany Stn,3,,RTH,27008-20200416152125_v89.61,,NX1
+Inner Link Clockwise (S),3,,NZB,79932-20200416152125_v89.61,,INN
+"Botany And Howick To Panmure Via Chapel Rd, Cook St, And Pak",3,,HE,07207-20200401133848_v89.54,,72C
 Royal Heights Loop,3,,PC,11101-20200401133848_v89.54,,111
-New Lynn To City Centre Via New North Rd,3,,NZB,02203-20200325155230_v89.42,,22N
-Half Moon Bay To Botany Via Howick And Cockle Bay,3,,GBT,73502-20200325155230_v89.42,,735
+Devonport Wharf To Stanley Pt Loop,3,,NZB,80601-20200416152125_v89.61,,806
 Orewa To Hibiscus Coast Station Via Maygrove,3,,GBT,98403-20200401133848_v89.54,,984
-Pukekohe Interchange To Waiuku Via Patumahoe And Victoria Av,3,,RTH,39608-20200325155230_v89.42,,396
 Botany Town Centre To Mangere Town Centre Via Otara,3,,GBT,03102-20200401133848_v89.54,,31
-Blockhouse Bay To City Centre Via Dominion Rd,3,,NZB,02505-20200401133848_v89.54,,25B
-Britomart Train Station to Penrose Train Station,2,,AM,820092-20200325155230_v89.42,,STH
+Glen Innes To Wynyard Quarter Via Remuera Rd,3,,NZB,07501-20200416152125_v89.61,,75
 Gulf Harbour To Hibiscus Coast Station Via Vipond Rd,3,,GBT,98303-20200401133848_v89.54,,983
-City Centre To New Lynn Via New North Rd,3,,NZB,02204-20200325155230_v89.42,,22N
-Henderson to Ranui via Sturges Rd,3,,PC,14302-20200325155230_v89.42,,143
-City Centre To Henderson Via Great North Rd,3,,NZB,01806-20200401133848_v89.54,,18
-Britomart To Middlemore Station Via Greenlane Hospital,3,,NZB,32102-20200325155230_v89.42,,321
-"New Lynn to Westgate via Henderson, Lincoln Rd & Triangle Rd",3,,NZB,01406-20200325155230_v89.42,,14T
+Takapuna To Milford Via North Shore Hospital,3,,RTH,84502-20200416152125_v89.61,,845
+Browns Bay To Constellation Station Via and East Coast Rd,3,,RTH,87801-20200416152125_v89.61,,878
+Otahuhu To Pukekohe Southern Rail Bus,3,,ATMB,22214-20200416152125_v89.61,,RBS
+Wellsford To Warkworth,3,,RTH,99801-20200401133848_v89.54,,998
+New Lynn to Henderson via Glendene,3,,NZB,16202-20200416152125_v89.61,,162
+Newmarket To Highbury Via Auckland Hospital and Ponsonby Rd,3,,RTH,96608-20200401133848_v89.54,,966
+Britomart Train Station to Papakura Train Station,2,,AM,820058-20200416152125_v89.61,,STH
+Britomart Train Station to Henderson Train Station,2,,AM,810066-20200401133848_v89.54,,WEST
 Inner Link Clockwise K Rd To Victoria Park,3,,NZB,79928-20200401133848_v89.54,,INN
-West Harbour To Auckland Pier 4,4,,BFL,99513-20200325155230_v89.42,,WSTH
+Seaside Park To Mangere Town Centre Via Otahuhu,3,,GBT,32412-20200416152125_v89.61,,324
 City Centre To Rosebank Rd Via New North Rd,3,,NZB,02202-20200401133848_v89.54,,22R
 Warkworth To Omaha Via Matakana And Pt Wells,3,,RTH,99701-20200401133848_v89.54,,997
-Britomart Train Station to Sylvia Park Train Station,2,,AM,850014-20200325155230_v89.42,,EAST
-Papakura Shops To Red Hill,3,,RTH,37302-20200325155230_v89.42,,373
+Royal Oak To Ellerslie Station,3,,NZB,29504-20200401133848_v89.54,,295
 Henderson to New Lynn via Glen Eden,3,,PC,15405-20200401133848_v89.54,,154
-Half Moon Bay To Botany Via Howick And Cockle Bay,3,,GBT,73502-20200401133848_v89.54,,735
-Outer Link Anticlockwise St Lukes To City Centre,3,,NZB,72119-20200401133848_v89.54,,OUT
-Constellation Station To Smales Farm Via Wairau Rd,3,,RTH,90112-20200325155230_v89.42,,901
-Mayoral Dr To Milford Via Takapuna,3,,NZB,08204-20200325155230_v89.42,,82
-Onetangi (Fourth Ave) to Matiatia Wharf,3,,WBC,05003-20200325155230_v89.42,,50B
+Half Moon Bay To Botany Via Howick And Cockle Bay,3,,GBT,73502-20200416152125_v89.61,,735
+Hibiscus Coast Station To Manly,3,,GBT,98210-20200416152125_v89.61,,982
+Outer Link Anticlockwise St Lukes To City Centre,3,,NZB,72119-20200416152125_v89.61,,OUT
 Albany Station To Britomart (Lower Albert St),3,,RTH,27001-20200401133848_v89.54,,NX1
-Henderson to Ranui via Sturges Rd,3,,PC,14302-20200401133848_v89.54,,143
-Newmarket To Panmure Via Marua Rd And Remuera Rd,3,,NZB,75102-20200401133848_v89.54,,751
-Constellation To Smales Farm Via Windy Ridge And Archers Rd,3,,RTH,90601-20200401133848_v89.54,,906
-Papakura Interchange To Manukau Bus Station Via Porchester,3,,RTH,36503-20200325155230_v89.42,,365
+Britomart To Glen Innes Via Tamaki Dr And St Heliers,3,,NZB,07702-20200401133848_v89.54,,TMK
+Bucklands Beach To Botany Via Highland Park,3,,GBT,73302-20200416152125_v89.61,,733
 Britomart (Quay St) To Glenfield,3,,RTH,09556-20200401133848_v89.54,,95G
 Manurewa Interchange To Manukau Bus Station Via The Gardens,3,,RTH,36605-20200401133848_v89.54,,366
-Inner Link Anticlockwise Customs St To Victoria Park,3,,NZB,79827-20200325155230_v89.42,,INN
-New Lynn to Henderson via Glen Eden and Sunnyvale,3,,PC,15202-20200325155230_v89.42,,152
+Swanson To Britomart Western Rail Bus,3,,ATMB,11111-20200416152125_v89.61,,RBW
+Onehunga Train Station to Britomart Train Station,2,,AM,840007-20200416152125_v89.61,,ONE
 Half Moon Bay To Auckland,4,,FGL,95011-20200401133848_v89.54,,HMB
-Middlemore Station To Ormiston Via Otara,3,,GBT,31404-20200325155230_v89.42,,314
-Onetangi (Seventh Ave) To Matiatia Wharf,3,,WBC,05001-20200325155230_v89.42,,50A
-Britomart (Quay St) To Beach Haven,3,,RTH,09704-20200401133848_v89.54,,97R
-Britomart Train Station to Papakura Train Station,2,,AM,820060-20200325155230_v89.42,,STH
-Orewa To Hibiscus Coast Station Via Millwater,3,,GBT,98503-20200325155230_v89.42,,985
+Britomart Train Station to Papakura Train Station,2,,AM,820056-20200401133848_v89.54,,STH
+Freemans Bay Loop,3,,NZB,10601-20200416152125_v89.61,,106
 Sylvia Park To Onehunga Via Ellerslie,3,,GBT,29802-20200401133848_v89.54,,298
 Half Moon Bay To Bucklands Beach,3,,GBT,71402-20200401133848_v89.54,,714
+City Centre To New Lynn Via Great North Rd,3,,NZB,01804-20200416152125_v89.61,,18
 Otahuhu Train Station to Britomart Train Station,2,,AM,820019-20200401133848_v89.54,,STH
-Britomart To Otahuhu Limited Stops Via Great South Rd,3,,NZB,33302-20200325155230_v89.42,,333X
+St Heliers To Panmure Via Glen Innes,3,,GBT,74402-20200416152125_v89.61,,744
 "New Lynn to Westgate via Henderson, Lincoln Rd & Waimumu Rd",3,,NZB,01408-20200401133848_v89.54,,14W
 City Centre To Henderson Via Edmonton Rd,3,,PC,13406-20200401133848_v89.54,,134
-Auckland Universities To Albany Station Via Wellesley St,3,,TZG,20008-20200325155230_v89.42,,NX2
-Hibiscus Coast Station To Waiwera,3,,GBT,98110-20200401133848_v89.54,,981
-Albany Station To Auckland Universities Via Wellesley St,3,,TZG,20003-20200325155230_v89.42,,NX2
-Takapuna to Beach Haven Via Northcote Shops And Highbury,3,,RTH,94204-20200325155230_v89.42,,942
-Lynfield To City Centre Via Dominion Rd,3,,NZB,02503-20200325155230_v89.42,,25L
-"Botany and Howick to Panmure via Millhouse Dr, Meadowland Dr",3,,HE,07209-20200325155230_v89.42,,72M
-Pukekohe Northeast Loop,3,,RTH,39104-20200401133848_v89.54,,391
-New Lynn to Brains Park,3,,RTH,16102-20200325155230_v89.42,,161
-Rakino Island To Auckland,4,,BFL,99111-20200325155230_v89.42,,RAK
+Newmarket To Panmure Via Marua Rd And Remuera Rd,3,,NZB,75102-20200416152125_v89.61,,751
+Glen Eden to New Lynn via Titirangi,3,,RTH,17205-20200401133848_v89.54,,172
+New Lynn To Lynfield Via Avondale And Blockhouse Bay,3,,RTH,19102-20200416152125_v89.61,,191
+Outer Link Clockwise Herne Bay To City Centre,3,,NZB,73114-20200416152125_v89.61,,OUT
+Port Waikato To Pukekohe Interchange Via Tuakau,3,,RTH,39903-20200416152125_v89.61,,399
+Glen Innes To Britomart Via St Heliers And Tamaki Dr,3,,NZB,07701-20200401133848_v89.54,,TMK
+New Lynn To City Centre Via Green Bay And Blockhouse Bay Rd,3,,RTH,19507-20200416152125_v89.61,,195
+Rocky Bay to Matiatia Wharf,3,,WBC,50201-20200416152125_v89.61,,502
+Helensville To Hibiscus Coast Station,3,,NZB,12802-20200416152125_v89.61,,128
+Outer Link Clockwise Newmarket To City Centre,3,,NZB,73118-20200416152125_v89.61,,OUT
+Henderson West Loop Anticlockwise,3,,PC,14101-20200416152125_v89.61,,141
+Manukau Train Station to Otahuhu Train Station,2,,AM,850049-20200416152125_v89.61,,EAST
 Glen Innes To Wynyard Quarter Via Remuera Rd,3,,NZB,07501-20200401133848_v89.54,,75
-Britomart Train Station to Otahuhu Train Station,2,,AM,820016-20200325155230_v89.42,,STH
-Smales Farm Stn To Northcote Point Via North Shore Hospital,3,,RTH,92802-20200325155230_v89.42,,928
-Beach Haven To Takapuna Via Highbury And Northcote Shops,3,,RTH,94201-20200325155230_v89.42,,942
-New Lynn And Blockhouse Bay To City Centre Via Sandingham Rd,3,,NZB,02403-20200401133848_v89.54,,24B
+City Centre To Ellerslie Station Via Royal Oak,3,,NZB,29502-20200416152125_v89.61,,295
+Warkworth To Omaha Via Matakana And Pt Wells,3,,RTH,99701-20200416152125_v89.61,,997
+Mangere Town Centre To Botany Town Centre Via Otara,3,,GBT,03101-20200416152125_v89.61,,31
 Hibiscus Coast Station To Orewa Via Millwater,3,,GBT,98504-20200401133848_v89.54,,985
-Botany To Half Moon Bay Via Cockle Bay And Howick,3,,GBT,73501-20200325155230_v89.42,,735
+Pukekohe Northeast Loop,3,,RTH,39104-20200401133848_v89.54,,391
 Helensville To Hibiscus Coast Station,3,,NZB,12802-20200401133848_v89.54,,128
-Britomart Train Station to Swanson Train Station,2,,AM,810002-20200325155230_v89.42,,WEST
 Manukau To Panmure Eastern Rail Bus,3,,ATMB,55515-20200401133848_v89.54,,RBE
 Manukau Bus Station To Mangere Town Ctr Via Otara & Otahuhu,3,,GBT,32504-20200401133848_v89.54,,325
-Smales Farm To Constellation Via Archers Rd And Windy Ridge,3,,RTH,90602-20200325155230_v89.42,,906
-Pukekohe Train Station to Papakura Train Station,2,,AM,830003-20200401133848_v89.54,,PUK
-New Lynn To City Centre Via Green Bay And Blockhouse Bay Rd,3,,RTH,19507-20200401133848_v89.54,,195
-Britomart Train Station to Onehunga Train Station,2,,AM,840002-20200325155230_v89.42,,ONE
-Akoranga Station To Bayswater Wharf Via Takapuna,3,,NZB,80102-20200401133848_v89.54,,801
-Britomart Train Station to Swanson Train Station,2,,AM,810004-20200325155230_v89.42,,WEST
-Onehunga To Manukau Bus Station Via Mangere & Papatoetoe,3,,GBT,31303-20200401133848_v89.54,,313
-Papakura To Pukekohe Southern Rail Bus,3,,ATMB,22228-20200325155230_v89.42,,RBS
-Pukekohe Northwest Loop,3,,RTH,39218-20200325155230_v89.42,,392
-Britomart (Lower Albert St) To Hibiscus Coast Station,3,,RTH,27004-20200401133848_v89.54,,NX1
-Middlemore Station To Ellerslie Station Via Otahuhu,3,,NZB,32103-20200401133848_v89.54,,321
-Britomart Train Station to Onehunga Train Station,2,,AM,840028-20200325155230_v89.42,,ONE
-Otara / Mit To Manurewa Interchange Via Mahia Rd,3,,RTH,36102-20200401133848_v89.54,,361
-Botany To Manukau Bus Station Via Mission Heights & Ormiston,3,,HE,35504-20200325155230_v89.42,,355
-Orewa To Hibiscus Coast Station,3,,GBT,98111-20200325155230_v89.42,,981
-Mayoral Dr To Milford Via Takapuna,3,,NZB,08204-20200401133848_v89.54,,82
-Wellsford To Warkworth,3,,RTH,99801-20200401133848_v89.54,,998
-Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,3,,NZB,02707-20200325155230_v89.42,,27H
-Pukekohe South Loop,3,,RTH,39304-20200325155230_v89.42,,393
-Rosebank Rd To City Centre Via New North Rd,3,,NZB,02201-20200401133848_v89.54,,22R
-Inner Link Anticlockwise K Rd To Victoria Park,3,,NZB,79825-20200325155230_v89.42,,INN
-Newmarket To Highbury Via Auckland Hospital and Ponsonby Rd,3,,RTH,96608-20200401133848_v89.54,,966
-Britomart Train Station to Onehunga Train Station,2,,AM,840004-20200325155230_v89.42,,ONE
-Bayswater Wharf To Akoranga Station Via Takapuna,3,,NZB,80101-20200325155230_v89.42,,801
-Henderson Train Station to Britomart Train Station,2,,AM,810053-20200401133848_v89.54,,WEST
+City Centre To Onehunga Via Manukau Rd,3,,NZB,03008-20200416152125_v89.61,,30
+Maraetai And Beachlands To Botany Via Whitford And Ormiston,3,,GBT,73901-20200416152125_v89.61,,739
 City Centre To Lynfield Via Dominion Rd,3,,NZB,02504-20200401133848_v89.54,,25L
+Akoranga Station To Bayswater Wharf Via Takapuna,3,,NZB,80102-20200401133848_v89.54,,801
+Outer Link Clockwise Newmarket To City Centre,3,,NZB,73118-20200401133848_v89.54,,OUT
+Brains Park to New Lynn,3,,RTH,16101-20200416152125_v89.61,,161
+Albany Station To Browns Bay Via Oaktree Ave,3,,RTH,86502-20200416152125_v89.61,,865
+Britomart (Lower Albert St) To Hibiscus Coast Station,3,,RTH,27004-20200401133848_v89.54,,NX1
+Auckland Universities To Hibiscus Coast Stn,3,,TZG,20016-20200416152125_v89.61,,NX2
+Constellation Station To Browns Bay Via East Coast Rd,3,,RTH,87802-20200416152125_v89.61,,878
+Middlemore Station To Ellerslie Station Via Otahuhu,3,,NZB,32103-20200401133848_v89.54,,321
+Britomart Train Station to Penrose Train Station,2,,AM,820012-20200416152125_v89.61,,STH
+Browns Bay To Albany Station Via Oaktree Ave,3,,RTH,86501-20200401133848_v89.54,,865
+Inner Link Clockwise,3,,NZB,79922-20200401133848_v89.54,,INN
+Otahuhu To Manukau Eastern Rail Bus,3,,ATMB,55512-20200416152125_v89.61,,RBE
+Rosebank Rd To City Centre Via New North Rd,3,,NZB,02201-20200401133848_v89.54,,22R
+Britomart (Quay St) To Verrans Corner,3,,RTH,09712-20200416152125_v89.61,,97B
+Britomart (Quay St) To Beach Haven,3,,RTH,09704-20200416152125_v89.61,,97R
+Henderson Train Station to Britomart Train Station,2,,AM,810053-20200401133848_v89.54,,WEST
+Warkworth To Wellsford,3,,RTH,99802-20200416152125_v89.61,,998
+Waiuku To Papakura Interchange,3,,RTH,39501-20200401133848_v89.54,,395
+Papakura Train Station to Britomart Train Station,2,,AM,820061-20200416152125_v89.61,,STH
 Panmure To Glen Innes Via Stonefields,3,,GBT,74701-20200401133848_v89.54,,747
-Manukau Bus Station To Onehunga Via Papatoetoe & Mangere,3,,GBT,31304-20200325155230_v89.42,,313
+Britomart Train Station to Swanson Train Station,2,,AM,810004-20200416152125_v89.61,,WEST
 Wynyard Quarter To Glen Innes Via Remuera Rd,3,,NZB,07502-20200401133848_v89.54,,75
-Britomart Train Station to Henderson Train Station,2,,AM,810066-20200401133848_v89.54,,WEST
+"New Lynn to Westgate via Henderson, Lincoln Rd & Triangle Rd",3,,NZB,01406-20200416152125_v89.61,,14T
 Takapuna To Massey University Via Browns Bay,3,,RTH,08302-20200401133848_v89.54,,83
 Outer Link Clockwise Herne Bay To City Centre,3,,NZB,73114-20200401133848_v89.54,,OUT
-Henderson To Westgate,3,,RTH,12011-20200325155230_v89.42,,120
-Constellation Station To Takapuna Via Forrest Hill Rd,3,,NZB,87101-20200325155230_v89.42,,871
-Pine Harbour To Auckland Pier 1C,4,,SLPH,99013-20200325155230_v89.42,,PINE
+Newmaket To Beach Haven Via Auckland Hospital And Ponsonby R,3,,RTH,96606-20200416152125_v89.61,,966
+Inner Link Clockwise Newmarkt To Victoria Park,3,,NZB,79926-20200401133848_v89.54,,INN
 Britomart To Botany Via Panmure,3,,HE,07006-20200401133848_v89.54,,70
 Devonport Wharf To Akoranga Station Via Takapuna,3,,NZB,81401-20200401133848_v89.54,,814
 Panmure To Bucklands Beach Loop,3,,GBT,71203-20200401133848_v89.54,,712
+Manukau Train Station to Britomart Train Station,2,,AM,850029-20200416152125_v89.61,,EAST
 Waikowhai To Britomart Via Mt Eden Rd,3,,NZB,02705-20200401133848_v89.54,,27W
-Inner Link Clockwise (VP),3,,NZB,79934-20200325155230_v89.42,,INN
-Algies Bay To Warkworth Via Snells Beach,3,,RTH,99605-20200401133848_v89.54,,996
 City Centre To Mangere Town Centre,3,,GBT,30902-20200401133848_v89.54,,309
 Inner Link Anticlockwise K Rd To Victoria Park,3,,NZB,79825-20200401133848_v89.54,,INN
+Sylvia Park To Onehunga Via Ellerslie,3,,GBT,29802-20200416152125_v89.61,,298
 Westgate To Helensville,3,,NZB,12502-20200401133848_v89.54,,125
-Hibiscus Coast Station To Gulf Harbour Via Vipond Rd,3,,GBT,98304-20200325155230_v89.42,,983
+Akoranga Station To Devonport Wharf Via Takapuna,3,,NZB,81402-20200416152125_v89.61,,814
+Constellation Station To Smales Farm via Wairau Rd,3,,RTH,90114-20200416152125_v89.61,,901
+Howick To Panmure Via Cascades Road,3,,GBT,71101-20200416152125_v89.61,,711
+Smales Farm To Constellation Via Archers Rd And Windy Ridge,3,,RTH,90602-20200416152125_v89.61,,906
 Constellation Station To Smales Farm via Wairau Rd,3,,RTH,90114-20200401133848_v89.54,,901
-Otahuhu Station To Panmure Via Panama Rd,3,,GBT,32301-20200401133848_v89.54,,323
+Takapuna To Beach Haven Smales Farm Station And Glenfield,3,,RTH,94102-20200416152125_v89.61,,941
+Auckland Beach Haven Hobsonville Point Loop,4,,360D,96024-20200416152125_v89.61,,HOBS
+Henderson To City Centre Via Te Atatu Rd,3,,PC,13301-20200416152125_v89.61,,133
+Panmure To St Heliers Via Glen Innes,3,,GBT,74401-20200401133848_v89.54,,744
 Takapuna to Beach Haven Via Northcote & Highbury (Full Loop),3,,RTH,94202-20200401133848_v89.54,,942
-"Westgate to New Lynn via Triangle Rd, Lincoln Rd & Henderson",3,,NZB,01401-20200401133848_v89.54,,14T
+Manurewa Interchange To Wattle Downs Loop,3,,RTH,36302-20200416152125_v89.61,,363
 Papakura Train Station to Britomart Train Station,2,,AM,820059-20200401133848_v89.54,,STH
-Mission Bay To Museum Via Orakei,3,,NZB,78101-20200325155230_v89.42,,781
-Panmure To Bucklands Beach,3,,GBT,71202-20200325155230_v89.42,,712
+Pukekohe To Penrose Southern Rail Bus,3,,ATMB,22233-20200416152125_v89.61,,RBS
+Bayswater Wharf To Akoranga Station Via Takapuna,3,,NZB,80101-20200401133848_v89.54,,801
+Beach Haven To Takapuna Via Highbury And Northcote Shops,3,,RTH,94201-20200416152125_v89.61,,942
 Drury To Papakura Shops,3,,RTH,37601-20200401133848_v89.54,,376
-Royal Oak To Ellerslie Station,3,,NZB,29504-20200401133848_v89.54,,295
 Swanson Train Station to Britomart Train Station,2,,AM,810001-20200401133848_v89.54,,WEST
-Britomart Train Station to Onehunga Train Station,2,,AM,840028-20200401133848_v89.54,,ONE
-Auckland Pier 1 To Half Moon Bay,4,,FGL,95014-20200325155230_v89.42,,HMB
-Devonport Wharf To Akoranga Station Via Takapuna,3,,NZB,81401-20200325155230_v89.42,,814
-Auckland Pier 1 to Half Moon Bay via Rangitoto Island,4,,FGL,95016-20200325155230_v89.42,,HMB
+Papakura Shops To Keri Hill Loop,3,,RTH,37202-20200401133848_v89.54,,372
+Constellation To Smales Farm Via Windy Ridge And Archers Rd,3,,RTH,90601-20200401133848_v89.54,,906
 Otahuhu To Manukau Eastern Rail Bus,3,,ATMB,55512-20200401133848_v89.54,,RBE
-Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96603-20200325155230_v89.42,,966
+Constellation Station To Schnapper Rock,3,,RTH,88302-20200401133848_v89.54,,883
+City Centre To Henderson Via Edmonton Rd,3,,PC,13406-20200416152125_v89.61,,134
 Swanson To Britomart Western Rail Bus,3,,ATMB,11111-20200401133848_v89.54,,RBW
-Maraetai And Beachlands To Botany Via Whitford And Ormiston,3,,GBT,73901-20200325155230_v89.42,,739
+Britomart (Lower Albert St) To Hibiscus Coast Stn,3,,RTH,27010-20200416152125_v89.61,,NX1
 Browns Bay To Constellation Station Via and East Coast Rd,3,,RTH,87801-20200401133848_v89.54,,878
+New Lynn to Glen Eden via Titirangi,3,,RTH,17208-20200416152125_v89.61,,172
 Inner Link Anticlockwise (VP),3,,NZB,79831-20200401133848_v89.54,,INN
 Inner Link Clockwise Customs St To Victoria Park,3,,NZB,79924-20200401133848_v89.54,,INN
+Auckland Pier 1 to Half Moon Bay via Rangitoto Island,4,,FGL,95016-20200416152125_v89.61,,HMB
+Royal Oak To Ellerslie Station,3,,NZB,29504-20200416152125_v89.61,,295
 Onehunga Train Station to Britomart Train Station,2,,AM,840007-20200401133848_v89.54,,ONE
-Botany To Britomart Via Panmure,3,,HE,07005-20200401133848_v89.54,,70
-Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,3,,GBT,78201-20200325155230_v89.42,,782
-Drury To Papakura Shops,3,,RTH,37601-20200325155230_v89.42,,376
+Botany To The Parade Via Highland Park,3,,GBT,73301-20200416152125_v89.61,,733
+Te Atatu Peninsula To City Centre,3,,PC,13201-20200416152125_v89.61,,132
 Britomart Train Station to Onehunga Train Station,2,,AM,840002-20200401133848_v89.54,,ONE
-Highbury To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96607-20200401133848_v89.54,,966
-Newmaket To Beach Haven Via Auckland Hospital And Ponsonby R,3,,RTH,96606-20200325155230_v89.42,,966
-Inner Link Anticlockwise (VP),3,,NZB,79831-20200325155230_v89.42,,INN
-Pt Chevalier Beach To Sylvia Park Via Mt Albert Rd,3,,PC,06601-20200325155230_v89.42,,66
+Henderson to New Lynn via Glen Eden,3,,PC,15405-20200416152125_v89.61,,154
+City Centre To Henderson Via Te Atatu Rd,3,,PC,13302-20200416152125_v89.61,,133
+Manukau Bus Station To Onehunga Via Papatoetoe & Mangere,3,,GBT,31304-20200416152125_v89.61,,313
 Waiwera To Hibiscus Coast Station,3,,GBT,98109-20200401133848_v89.54,,981
-Manukau Train Station to Britomart Train Station,2,,AM,850029-20200401133848_v89.54,,EAST
-Otahuhu To New Lynn Via Onehunga Stoddard Rd And Avondale,3,,NZB,67012-20200325155230_v89.42,,670
+Inner Link Anticlockwise K Rd To Victoria Park,3,,NZB,79825-20200416152125_v89.61,,INN
+Inner Link Anticlockwise (VP),3,,NZB,79831-20200416152125_v89.61,,INN
 City Centre To New Lynn Via Sandringham Rd,3,,NZB,02402-20200401133848_v89.54,,24R
-Albany To Westgate Via Riverhead,3,,PC,12601-20200325155230_v89.42,,126
+Waiheke Island 1 To Auckland 2,4,,FGL,98011-20200416152125_v89.61,,MTIA
 Outer Link Anticlockwise,3,,NZB,72113-20200401133848_v89.54,,OUT
-Laingholm To New Lynn,3,,RTH,17105-20200325155230_v89.42,,171
+Waiheke Island 1 To Auckland 1,4,,FGL,98015-20200401133848_v89.54,,MTIA
 Westgate to Hobsonville Point via West Harbour,3,,PC,11202-20200401133848_v89.54,,112
-Outer Link Clockwise St Lukes To City Centre,3,,NZB,73116-20200325155230_v89.42,,OUT
+Manurewa Interchange To Otara / Mit Via Mahia Rd,3,,RTH,36101-20200401133848_v89.54,,361
+Mangere Town Centre To City Centre,3,,GBT,30901-20200416152125_v89.61,,309
 Pukekohe Interchange To Waiuku Loop Via Patumahoe,3,,RTH,39609-20200401133848_v89.54,,396
+Mangere Town Ctr To Manukau Station Via Otahuhu & Otara,3,,GBT,32503-20200416152125_v89.61,,325
 Hibiscus Coast Station To Orewa Via Maygrove,3,,GBT,98404-20200401133848_v89.54,,984
 Manukau Bus Station To Papakura Interchange Via Porchester,3,,RTH,36504-20200401133848_v89.54,,365
-Mangere Town Centre To Botany Town Centre Via Otara,3,,GBT,03101-20200325155230_v89.42,,31
+Mayoral Dr To Milford Via Takapuna,3,,NZB,08204-20200401133848_v89.54,,82
 New Lynn to Henderson via Glen Eden,3,,PC,15406-20200401133848_v89.54,,154
 Henderson to Waitakere Village via Central Park Dr and Swans,3,,PC,14602-20200401133848_v89.54,,146
 City Centre To Te_Atatu Peninsula,3,,PC,13206-20200401133848_v89.54,,132
-Pukekohe Interchange To Waiuku Loop Via Patumahoe,3,,RTH,39609-20200325155230_v89.42,,396
-Howick To Panmure Via Cascades Road,3,,GBT,71101-20200325155230_v89.42,,711
+Manukau Bus Station To Botany Town Centre Via Preston Rd,3,,HE,35303-20200416152125_v89.61,,353
+Hobsonville Point to Westgate via West Harbour,3,,PC,11201-20200416152125_v89.61,,112
+Onehunga To New Lynn.,3,,NZB,06804-20200416152125_v89.61,,68
 Auckland Beach Haven Hobsonville Point Loop,4,,360D,96024-20200401133848_v89.54,,HOBS
-Outer Link Clockwise Newmarket To City Centre,3,,NZB,73118-20200325155230_v89.42,,OUT
+"Westgate to New Lynn via Triangle Rd, Lincoln Rd & Henderson",3,,NZB,01401-20200401133848_v89.54,,14T
 Inner Link Anticlockwise Customs St To Victoria Park,3,,NZB,79827-20200401133848_v89.54,,INN
-Te Atatu Peninsula to Henderson,3,,PC,13105-20200325155230_v89.42,,131
-Papakura Train Station to Britomart Train Station,2,,AM,820055-20200401133848_v89.54,,STH
+Outer Link Anticlockwise Herne Bay To City Centre,3,,NZB,72117-20200416152125_v89.61,,OUT
+Botany To Britomart Via Panmure,3,,HE,07005-20200401133848_v89.54,,70
 Pukekohe To Tuakau,3,,RTH,39804-20200401133848_v89.54,,398
-Outer Link Anticlockwise Herne Bay To City Centre,3,,NZB,72117-20200401133848_v89.54,,OUT
-Panmure To Glen Innes Via Stonefields,3,,GBT,74701-20200325155230_v89.42,,747
-Otahuhu To Pukekohe Southern Rail Bus,3,,ATMB,22214-20200325155230_v89.42,,RBS
+Albany Station To Hibiscus Coast Station Via Dairy Flat,3,,GBT,98604-20200416152125_v89.61,,986
+Glenfield To Akoranga Station Via Hillcrest West,3,,RTH,92601-20200416152125_v89.61,,926
 Benson Rd To Britomart Via Portland Rd,3,,NZB,75503-20200401133848_v89.54,,755
-Henderson West Loop Clockwise,3,,PC,14205-20200325155230_v89.42,,142
+Ellerslie Station To City Centre Via Royal Oak,3,,NZB,29501-20200416152125_v89.61,,295
 Devonport Wharf To Cheltenham Loop,3,,NZB,80701-20200401133848_v89.54,,807
 Constellation Station To Browns Bay Via East Coast Rd,3,,RTH,87802-20200401133848_v89.54,,878
-Britomart (Lower Albert St) To Albany Stn,3,,RTH,27008-20200325155230_v89.42,,NX1
-New Lynn To City Centre Via Great North Rd,3,,NZB,01803-20200401133848_v89.54,,18
-Auckland Universities To Hibiscus Coast Stn,3,,TZG,20016-20200401133848_v89.54,,NX2
-Westgate to Hobsonville Point via West Harbour,3,,PC,11202-20200325155230_v89.42,,112
-Manurewa Interchange To Otara / Mit Via Mahia Rd,3,,RTH,36101-20200401133848_v89.54,,361
-Albany Station To Constellation Station Via Hugh Green Dr,3,,RTH,88901-20200325155230_v89.42,,889
+Britomart Train Station to Otahuhu Train Station,2,,AM,820016-20200416152125_v89.61,,STH
+New Lynn to Titirangi South,3,,RTH,17028-20200416152125_v89.61,,170
+Wellsford To Warkworth,3,,RTH,99801-20200416152125_v89.61,,998
+Auckland Pier 1 To Half Moon Bay,4,,FGL,95014-20200416152125_v89.61,,HMB
 Henderson To City Centre Via Te Atatu Rd,3,,PC,13301-20200401133848_v89.54,,133
-Penrose To Pukekohe Southern Rail Bus,3,,ATMB,22222-20200401133848_v89.54,,RBS
+Panmure To Newmarket Via Marua Rd And Remuera Rd,3,,NZB,75101-20200416152125_v89.61,,751
 Sylvia Park Train Station to Britomart Train Station,2,,AM,850013-20200401133848_v89.54,,EAST
-Henderson To City Centre Via Edmonton Rd,3,,PC,13403-20200325155230_v89.42,,134
+Constellation Station To Britomart (Albert St) Via Glenfield,3,,RTH,09511-20200416152125_v89.61,,95C
 Outer Link Anticlockwise Newmarket To City Centre,3,,NZB,72115-20200401133848_v89.54,,OUT
-Ranui to Henderson via Sturges Rd,3,,PC,14301-20200401133848_v89.54,,143
-Henderson to Te Atatu Peninsula,3,,PC,13106-20200401133848_v89.54,,131
+Titirangi South to New Lynn,3,,RTH,17027-20200416152125_v89.61,,170
 Orewa To Hibiscus Coast Station Via Millwater,3,,GBT,98503-20200401133848_v89.54,,985
 Schnapper Rock To Constellation Station,3,,RTH,88301-20200401133848_v89.54,,883
 Manukau Bus Station To Botany Via Ormiston & Mission Heights,3,,HE,35505-20200401133848_v89.54,,355
-Orewa To Hibiscus Coast Station Via Maygrove,3,,GBT,98403-20200325155230_v89.42,,984
-Otahuhu Train Station to Manukau Train Station,2,,AM,850046-20200325155230_v89.42,,EAST
+Britomart (Quay St) to Constellation Station via Glenfield,3,,RTH,09512-20200416152125_v89.61,,95C
 New Lynn To Onehunga.,3,,NZB,06803-20200401133848_v89.54,,68
+Mission Bay To Newmarket Via Orakei,3,,NZB,78103-20200416152125_v89.61,,781
 Britomart (Quay St) To Beach Haven Via Rangatira Rd,3,,RTH,09706-20200401133848_v89.54,,97R
-Mangere Town Centre To Sylvia Park Via Otahuhu,3,,GBT,03201-20200325155230_v89.42,,32
+Auckland Pier 1C To Pine Harbour,4,,SLPH,99014-20200416152125_v89.61,,PINE
 Papakura Interchange To Pahurehure,3,,RTH,37702-20200401133848_v89.54,,377
 Henderson To Westgate,3,,RTH,12011-20200401133848_v89.54,,120
+Britomart (Quay St) To Glenfield,3,,RTH,09556-20200416152125_v89.61,,95G
+Britomart To Waikowhai Via Mt Eden Rd,3,,NZB,02702-20200416152125_v89.61,,27W
+Auckland Pier 4 To West Harbour,4,,BFL,99514-20200416152125_v89.61,,WSTH
 Britomart Train Station to Swanson Train Station,2,,AM,810006-20200401133848_v89.54,,WEST
-City Centre To Blockhouse Bay Via Dominion Rd,3,,NZB,02506-20200401133848_v89.54,,25B
-Papakura Train Station to Britomart Train Station,2,,AM,820089-20200325155230_v89.42,,STH
-Britomart Train Station to Manukau Train Station,2,,AM,850030-20200401133848_v89.54,,EAST
-Auckland To Devonport,4,,FGL,92012-20200401133848_v89.54,,DEV
-Botany To Manukau Bus Station Via Chapel Rd And Ormiston Rd,3,,HE,03510-20200401133848_v89.54,,35
+Penrose To Pukekohe Southern Rail Bus,3,,ATMB,22222-20200416152125_v89.61,,RBS
+Waikowhai To Britomart Via Hillsborough Rd And Mt Eden Rd,3,,NZB,02707-20200401133848_v89.54,,27H
+Henderson To City Centre Via Edmonton Rd,3,,PC,13403-20200401133848_v89.54,,134
 Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,3,,RTH,94101-20200401133848_v89.54,,941
-Britomart Train Station to Swanson Train Station,2,,AM,810006-20200325155230_v89.42,,WEST
-Otahuhu Train Station to Britomart Train Station,2,,AM,820137-20200325155230_v89.42,,STH
-Britomart (Quay St) To Beach Haven Via Birkdale Rd,3,,RTH,09714-20200401133848_v89.54,,97B
-Browns Bay To Albany Station Via Oaktree Ave,3,,RTH,86501-20200325155230_v89.42,,865
-Britomart Train Station to Papakura Train Station,2,,AM,820056-20200401133848_v89.54,,STH
-Akoranga Station To Constellation Station Via Takapuna,3,,NZB,84303-20200325155230_v89.42,,843
+Akoranga Station To Glenfield Via Hillcrest West,3,,RTH,92602-20200416152125_v89.61,,926
 Hibiscus Coast Station To Orewa,3,,GBT,98112-20200401133848_v89.54,,981
-Rocky Bay to Matiatia Wharf,3,,WBC,50201-20200325155230_v89.42,,502
-Albany Station To Constellation Station Via Hugh Green Dr,3,,RTH,88901-20200401133848_v89.54,,889
-Westgate To Helensville,3,,NZB,12502-20200325155230_v89.42,,125
+Manukau To Panmure Eastern Rail Bus,3,,ATMB,55515-20200416152125_v89.61,,RBE
+Blockhouse Bay To City Centre Via Dominion Rd,3,,NZB,02505-20200416152125_v89.61,,25B
+Auckland Universities To Albany Stn Via Wellesley St,3,,TZG,20012-20200416152125_v89.61,,NX2
 Middlemore Station To Britomart Via Greenlane Hospital,3,,NZB,32101-20200401133848_v89.54,,321
 Britomart Train Station to Swanson Train Station,2,,AM,810002-20200401133848_v89.54,,WEST
-Albany Station To Takapuna Via Beach Rd And Milford,3,,RTH,85601-20200325155230_v89.42,,856
-Ellerslie Station To City Centre Via Royal Oak,3,,NZB,29501-20200325155230_v89.42,,295
-Browns Bay To Massey University Via Albany Station,3,,RTH,08304-20200325155230_v89.42,,83
-Papakura Train Station to Britomart Train Station,2,,AM,820057-20200325155230_v89.42,,STH
+Inner Link Clockwise,3,,NZB,79922-20200416152125_v89.61,,INN
+Botany To Manukau Bus Station Via Chapel Rd And Ormiston Rd,3,,HE,03510-20200416152125_v89.61,,35
 Akoranga Station To City (Mayoral Dr) Via Hillcrest,3,,NZB,92301-20200401133848_v89.54,,923
-Inner Link Clockwise (S),3,,NZB,79932-20200401133848_v89.54,,INN
+Newmaket To Albany Station Via Auckland Hospital & Ponsonby,3,,RTH,86602-20200401133848_v89.54,,866
 Tuakau To Pukekohe,3,,RTH,39803-20200401133848_v89.54,,398
-Waiuku To Pukekohe Interchange Via Kitchener Rd And Patumaho,3,,RTH,39607-20200325155230_v89.42,,396
-Manukau Bus Station To Onehunga Via Airport,3,,GBT,38013-20200325155230_v89.42,,380
+Otahuhu Train Station to Britomart Train Station,2,,AM,820137-20200401133848_v89.54,,STH
+Britomart To Swanson Western Rail Bus,3,,ATMB,11110-20200416152125_v89.61,,RBW
+Glen Eden to New Lynn via Titirangi,3,,RTH,17205-20200416152125_v89.61,,172
 Penrose Train Station to Britomart Train Station,2,,AM,820015-20200401133848_v89.54,,STH
 Britomart Train Station to Otahuhu Train Station,2,,AM,820124-20200401133848_v89.54,,STH
 New Lynn to Brains Park,3,,RTH,16102-20200401133848_v89.54,,161
-Half Moon Bay To Auckland,4,,FGL,95011-20200325155230_v89.42,,HMB
-Britomart Train Station to Henderson Train Station,2,,AM,810066-20200325155230_v89.42,,WEST
-Inner Link Anticlockwise (S),3,,NZB,79829-20200325155230_v89.42,,INN
+Pukekohe Northeast Loop,3,,RTH,39104-20200416152125_v89.61,,391
 Penrose Train Station to Britomart Train Station,2,,AM,820095-20200401133848_v89.54,,STH
-Te Atatu Peninsula To City Centre,3,,PC,13201-20200325155230_v89.42,,132
-Britomart (Quay St) to Constellation Station via Glenfield,3,,RTH,09512-20200325155230_v89.42,,95C
+Lynfield To New Lynn Via Blockhouse Bay And Avondale,3,,RTH,19101-20200416152125_v89.61,,191
+Manly To Hibiscus Coast Station,3,,GBT,98209-20200416152125_v89.61,,982
 Britomart Train Station to Otahuhu Train Station,2,,AM,850062-20200401133848_v89.54,,EAST
 "Pamure To Howick And Botany Via Pakuranga Rd, Cook St, and C",3,,HE,07208-20200401133848_v89.54,,72C
-Waiheke Island 1 To Auckland 2 Via Devonport 2,4,,FGL,98017-20200401133848_v89.54,,MTIA
-Half Moon Bay To Bucklands Beach,3,,GBT,71402-20200325155230_v89.42,,714
-Algies Bay To Warkworth Via Snells Beach,3,,RTH,99605-20200325155230_v89.42,,996
-Auckland Universities To Hibiscus Coast Stn,3,,TZG,20016-20200325155230_v89.42,,NX2
-City Centre To Onehunga Via Manukau Rd,3,,NZB,03008-20200325155230_v89.42,,30
-New Lynn to Glen Eden via Titirangi,3,,RTH,17208-20200325155230_v89.42,,172
-Wesley College/Paerata To Pukekohe Interchange,3,,RTH,39403-20200325155230_v89.42,,394
-Matiatia Wharf to Rocky Bay,3,,WBC,50202-20200325155230_v89.42,,502
-Glen Innes To Onehunga Via Tripoli Rd and Sylvia Park,3,,GBT,74302-20200325155230_v89.42,,743
-Hibiscus Coast Station To Orewa Via Millwater,3,,GBT,98504-20200325155230_v89.42,,985
-New Lynn to Titirangi South via Otitori Bay Rd,3,,RTH,17030-20200325155230_v89.42,,170
+Manurewa Interchange To Wattle Downs Loop,3,,RTH,36302-20200401133848_v89.54,,363
+Albany Station To Auckland Universities Via Wellesley St,3,,TZG,20003-20200416152125_v89.61,,NX2
+Henderson to Te Atatu Peninsula,3,,PC,13106-20200416152125_v89.61,,131
+"Westgate to New Lynn via Waimumu Rd, Lincoln Rd & Henderson",3,,NZB,01405-20200416152125_v89.61,,14W
+Hobsonville Point To Auckland Via Beach Haven Indirect,4,,360D,96021-20200416152125_v89.61,,HOBS
+New Lynn to Titirangi South via Otitori Bay Rd,3,,RTH,17030-20200416152125_v89.61,,170
+Westgate To Hobsonville Pt Via Whenuapai And Herald Island,3,,PC,11402-20200416152125_v89.61,,114
+Sylvia Park To Mission Bay Via Ellerslie And Meadowbank,3,,GBT,78201-20200416152125_v89.61,,782
+Northcote Point To Smales Farm Stn Via North Shore Hospital,3,,RTH,92801-20200401133848_v89.54,,928
 Manukau To Britomart Eastern Rail Bus,3,,ATMB,55511-20200401133848_v89.54,,RBE
-Eastern Bays Circuit Anticlockwise,3,,GBT,78302-20200325155230_v89.42,,783
-Warkworth To Hibiscus Coast Station,3,,RTH,99501-20200325155230_v89.42,,995
-Bucklands Beach To Botany Via Highland Park,3,,GBT,73302-20200325155230_v89.42,,733
+Botany To Bucklands Beach Via Highland Park,3,,GBT,73303-20200416152125_v89.61,,733
+Botany To Half Moon Bay Via Highland Park,3,,GBT,73401-20200416152125_v89.61,,734
+Museum To Mission Bay Via Orakei,3,,NZB,78102-20200401133848_v89.54,,781
 Takapuna To Milford Via North Shore Hospital,3,,RTH,84502-20200401133848_v89.54,,845
+Otahuhu To New Lynn Via Onehunga Stoddard Rd And Avondale,3,,NZB,67012-20200416152125_v89.61,,670
 Britomart (Quay St) To Bayview,3,,RTH,09504-20200401133848_v89.54,,95B
-Henderson To Constellation Station Via Westgate,3,,RTH,12003-20200325155230_v89.42,,120
-City Centre To Rosebank Rd Via New North Rd,3,,NZB,02202-20200325155230_v89.42,,22R
+Inner Link Anticlockwise,3,,NZB,79821-20200401133848_v89.54,,INN
+Beach Haven to Britomart (Lower Albert St),3,,RTH,09711-20200416152125_v89.61,,97B
+Algies Bay To Warkworth Via Snells Beach,3,,RTH,99605-20200401133848_v89.54,,996
 Wesley College/Paerata To Pukekohe Interchange,3,,RTH,39403-20200401133848_v89.54,,394
 Britomart To Waikowhai Via Mt Eden Rd,3,,NZB,02702-20200401133848_v89.54,,27W
-Beach Haven To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96603-20200401133848_v89.54,,966
-Manukau Bus Station To Panmure Via East Tamaki,3,,HE,35203-20200401133848_v89.54,,352
+Sylvia Park To Pt Chevalier Beach Via Mt Albert Park,3,,PC,06602-20200416152125_v89.61,,66
+Henderson West Loop Anticlockwise,3,,PC,14101-20200401133848_v89.54,,141
 Henderson to New Lynn via Sunnyvale and Glen Eden,3,,PC,15201-20200401133848_v89.54,,152
+Papakura Shops To Keri Hill Loop,3,,RTH,37202-20200416152125_v89.61,,372
 Pukekohe Interchange To Waiuku Via Patumahoe And Victoria Av,3,,RTH,39608-20200401133848_v89.54,,396
 Britomart To Manukau Eastern Rail Bus,3,,ATMB,55510-20200401133848_v89.54,,RBE
-Pt Chevalier Shops To Glen Innes Via Greenlane,3,,NZB,65001-20200325155230_v89.42,,650
 Mayoral Dr To Browns Bay Via Milford and Takapuna,3,,NZB,08208-20200401133848_v89.54,,82
-Papakura Train Station to Britomart Train Station,2,,AM,820061-20200325155230_v89.42,,STH
-City Centre To Te_Atatu Peninsula,3,,PC,13206-20200325155230_v89.42,,132
+Takapuna to Beach Haven Via Northcote & Highbury (Full Loop),3,,RTH,94202-20200416152125_v89.61,,942
+Newmaket To Albany Station Via Auckland Hospital & Ponsonby,3,,RTH,86602-20200416152125_v89.61,,866
 Botany To Bucklands Beach Via Highland Park,3,,GBT,73303-20200401133848_v89.54,,733
 Britomart To Westmere Via Richmond Rd,3,,NZB,10502-20200401133848_v89.54,,105
 Albany Station To Browns Bay Via Oaktree Ave,3,,RTH,86502-20200401133848_v89.54,,865
-Britomart Train Station to Manukau Train Station,2,,AM,850030-20200325155230_v89.42,,EAST
+Albany Station To Constellation Station Via Hugh Green Dr,3,,RTH,88901-20200401133848_v89.54,,889
+Onetangi (Seventh Ave) To Matiatia Wharf,3,,WBC,05001-20200416152125_v89.61,,50A
 Long Bay To Constellation Station Via Bush Rd,3,,RTH,86101-20200401133848_v89.54,,861
 Glen Innes To Selwyn Village Via Greenlane And Balmoral Rd,3,,NZB,65004-20200401133848_v89.54,,650
-Newmarket To Panmure Via Marua Rd And Remuera Rd,3,,NZB,75102-20200325155230_v89.42,,751
+Britomart To Benson Rd Via Portland Rd,3,,NZB,75504-20200416152125_v89.61,,755
+Britomart Train Station to Papakura Train Station,2,,AM,820060-20200416152125_v89.61,,STH
 Britomart (Quay St) To Verrans Corner,3,,RTH,09712-20200401133848_v89.54,,97B
-Pahurehure To Papakura Interchange,3,,RTH,37701-20200401133848_v89.54,,377
+Hibiscus Coast Station To Waiwera,3,,GBT,98110-20200416152125_v89.61,,981
+Panmure To St Heliers Via Glen Innes,3,,GBT,74401-20200416152125_v89.61,,744
+Outer Link Clockwise,3,,NZB,73112-20200416152125_v89.61,,OUT
+Schnapper Rock To Constellation Station,3,,RTH,88301-20200416152125_v89.61,,883
 Beach Haven to Britomart (Lower Albert St),3,,RTH,09711-20200401133848_v89.54,,97B
-Panmure To Howick Via Cascades Road,3,,GBT,71102-20200325155230_v89.42,,711
-Waiuku To Papakura Interchange,3,,RTH,39501-20200325155230_v89.42,,395
-Hibiscus Coast Station To Manly,3,,GBT,98210-20200325155230_v89.42,,982
-Britomart To Botany Via Ellerslie And Panmure,3,,HE,07014-20200325155230_v89.42,,70
+Drury To Papakura Shops,3,,RTH,37601-20200416152125_v89.61,,376
+Wynyard Quarter to Karangahape Rd via Queen St,3,,NZB,79702-20200416152125_v89.61,,CTY
 Britomart (Lower Albert St) To Hibiscus Coast Stn,3,,RTH,27010-20200401133848_v89.54,,NX1
 Pukekohe South Loop,3,,RTH,39304-20200401133848_v89.54,,393
-Glen Innes To Britomart Via St Heliers And Tamaki Dr,3,,NZB,07701-20200401133848_v89.54,,TMK
-Britomart To Glen Innes Via Tamaki Dr And St Heliers,3,,NZB,07702-20200401133848_v89.54,,TMK
+Britomart (Lower Albert St) To Hibiscus Coast Station,3,,RTH,27004-20200416152125_v89.61,,NX1
+Outer Link Anticlockwise St Lukes To City Centre,3,,NZB,72119-20200401133848_v89.54,,OUT
+Britomart Train Station to Penrose Train Station,2,,AM,820012-20200401133848_v89.54,,STH
+Britomart (Lower Albert St) To Albany Station,3,,RTH,27002-20200416152125_v89.61,,NX1
 Sylvia Park To Pt Chevalier Beach Via Mt Albert Park,3,,PC,06602-20200401133848_v89.54,,66
 Constellation Station To Takapuna Via Forrest Hill Rd,3,,NZB,87101-20200401133848_v89.54,,871
-Constellation Station To Campbells Bay via Sunnynook Station,3,,RTH,90704-20200325155230_v89.42,,907
+Britomart To Glen Innes Via Orakei,3,,NZB,76202-20200416152125_v89.61,,762
+Hibiscus Coast Station To Gulf Harbour Via Vipond Rd,3,,GBT,98304-20200416152125_v89.61,,983
 Matiatia Wharf To Oneroa,3,,WBC,50302-20200401133848_v89.54,,503
-Ranui to Henderson via Sturges Rd,3,,PC,14301-20200325155230_v89.42,,143
+Britomart (Quay St) To Bayview,3,,RTH,09504-20200416152125_v89.61,,95B
+Onehunga To Manukau Bus Station Via Mangere & Papatoetoe,3,,GBT,31303-20200401133848_v89.54,,313
 Newmarket To Mission Bay Via Orakei,3,,NZB,78104-20200401133848_v89.54,,781
 Manukau Bus Station To Onehunga Via Airport,3,,GBT,38013-20200401133848_v89.54,,380
 Newmaket To Beach Haven Via Auckland Hospital And Ponsonby R,3,,RTH,96606-20200401133848_v89.54,,966
-City Centre To Henderson Via Great North Rd,3,,NZB,01806-20200325155230_v89.42,,18
+Auckland Pier 1C To Pine Harbour,4,,SLPH,99014-20200401133848_v89.54,,PINE
 Sylvia Park To Mangere Town Centre Via Otahuhu,3,,GBT,03202-20200401133848_v89.54,,32
-Hobsonville Pt To Westgate Via Herald Island And Whenuapai,3,,PC,11401-20200401133848_v89.54,,114
 New Lynn to Henderson via Glen Eden and Sunnyvale,3,,PC,15202-20200401133848_v89.54,,152
-Britomart To Glen Innes Via Tamaki Dr And St Heliers,3,,NZB,07702-20200325155230_v89.42,,TMK
+Britomart Train Station to Onehunga Train Station,2,,AM,840002-20200416152125_v89.61,,ONE
 Outer Link Clockwise,3,,NZB,73112-20200401133848_v89.54,,OUT
 Takapuna To Beach Haven & Smales Farm Clockwise (Late Night),3,,RTH,94206-20200401133848_v89.54,,942
+"Pamure To Howick And Botany Via Pakuranga Rd, Cook St, and C",3,,HE,07208-20200416152125_v89.61,,72C
 Albany Station To Hibiscus Coast Station Via Dairy Flat,3,,GBT,98604-20200401133848_v89.54,,986
-Auckland 2 To Waiheke Island 1 Via Devonport 2,4,,FGL,98014-20200401133848_v89.54,,MTIA
+Highbury To Newmarket Via Ponsonby And Auckland Hospital,3,,RTH,96607-20200401133848_v89.54,,966
+Otahuhu Train Station to Britomart Train Station,2,,AM,820139-20200416152125_v89.61,,STH
 City Centre To Westgate Via Northwestern Motorway,3,,NZB,11006-20200401133848_v89.54,,110
-City Centre To Blockhouse Bay New Lynn Via Sandringham Rd,3,,NZB,02404-20200401133848_v89.54,,24B
-Papakura Shops To Karaka Harbourside Loop,3,,RTH,37802-20200325155230_v89.42,,378
-Helensville To Hibiscus Coast Station,3,,NZB,12802-20200325155230_v89.42,,128
-Manukau Train Station to Britomart Train Station,2,,AM,850029-20200325155230_v89.42,,EAST
-Albany Station To Hibiscus Coast Station Via Dairy Flat,3,,GBT,98604-20200325155230_v89.42,,986
+Bucklands Beach To Panmure,3,,GBT,71201-20200401133848_v89.54,,712
+Milford To Mayoral Dr Via Takapuna,3,,NZB,08203-20200416152125_v89.61,,82
+Mangere Town Centre To Seaside Park Via Otahuhu,3,,GBT,32411-20200416152125_v89.61,,324
+"Pamure to Howick and Botany via Pakuranga Rd, Meadowland Dr",3,,HE,07210-20200416152125_v89.61,,72M
+Huapai to Westgate,3,,NZB,12203-20200401133848_v89.54,,122
+MIT To Manurewa Interchange Via Mahia Rd,3,,RTH,36104-20200416152125_v89.61,,361
+Manukau Train Station to Britomart Train Station,2,,AM,850039-20200416152125_v89.61,,EAST
+Half Moon Bay To Botany Via Highland Park,3,,GBT,73402-20200416152125_v89.61,,734
 City Centre To New Lynn Via New North Rd,3,,NZB,02204-20200401133848_v89.54,,22N
-Manukau Bus Station To Botany Town Centre Via Preston Rd,3,,HE,35303-20200325155230_v89.42,,353
+Ranui to Henderson via Sturges Rd,3,,PC,14301-20200401133848_v89.54,,143
 Glen Innes To Britomart Via Orakei,3,,NZB,76201-20200401133848_v89.54,,762
-Hibiscus Coast Station To Gulf Harbour,3,,GBT,98208-20200325155230_v89.42,,982
+Laingholm To New Lynn,3,,RTH,17105-20200416152125_v89.61,,171
 Papakura Interchange To Manukau Bus Station Via Porchester,3,,RTH,36503-20200401133848_v89.54,,365
 New Lynn to Glen Eden via Titirangi,3,,RTH,17208-20200401133848_v89.54,,172
-Otara / Mit To Manurewa Interchange Via Mahia Rd,3,,RTH,36102-20200325155230_v89.42,,361
-Warkworth To Wellsford,3,,RTH,99802-20200401133848_v89.54,,998
+City Centre To Blockhouse Bay Via Dominion Rd,3,,NZB,02506-20200401133848_v89.54,,25B
 Westgate To Albany Via Riverhead,3,,PC,12602-20200401133848_v89.54,,126
 Smales Farm to Beach Haven (Late Night),3,,RTH,94106-20200401133848_v89.54,,941
-Mangere Town Centre To City Centre,3,,GBT,30901-20200325155230_v89.42,,309
+Britomart Train Station to Swanson Train Station,2,,AM,810006-20200416152125_v89.61,,WEST
 Panmure To Otahuhu Station Via Panama Rd,3,,GBT,32302-20200401133848_v89.54,,323
-City Centre To Ellerslie Station Via Royal Oak,3,,NZB,29502-20200325155230_v89.42,,295
-Takapuna To Beach Haven Smales Farm Station And Glenfield,3,,RTH,94102-20200325155230_v89.42,,941
+Waiheke Island 1 To Auckland 2 Via Devonport 2,4,,FGL,98017-20200401133848_v89.54,,MTIA
+Botany To Manukau Bus Station Via Mission Heights & Ormiston,3,,HE,35504-20200401133848_v89.54,,355
 Milford To Takapuna Via North Shore Hospital,3,,RTH,84501-20200401133848_v89.54,,845
 Waitakere Village to Henderson via Swanson and Central Park,3,,PC,14601-20200401133848_v89.54,,146
-Botany To The Parade Via Highland Park,3,,GBT,73301-20200325155230_v89.42,,733
-Freemans Bay Loop,3,,NZB,10601-20200325155230_v89.42,,106
-Constellation Station To Albany Station Via Hugh Green Dr,3,,RTH,88902-20200325155230_v89.42,,889
-MIT To Manurewa Interchange Via Mahia Rd,3,,RTH,36104-20200325155230_v89.42,,361
-Beach Haven To Takapuna Via Glenfield And Smales Farm Stn,3,,RTH,94101-20200325155230_v89.42,,941
+Manukau Bus Station To Panmure Via East Tamaki,3,,HE,35203-20200401133848_v89.54,,352
+Onehunga To Manukau Bus Station Via Airport,3,,GBT,38014-20200416152125_v89.61,,380
+Matiatia Wharf To Onetangi (Seventh Ave),3,,WBC,05002-20200416152125_v89.61,,50A
+Pahurehure To Papakura Interchange,3,,RTH,37701-20200416152125_v89.61,,377
+Hobsonville Pt To Westgate Via Herald Island And Whenuapai,3,,PC,11401-20200401133848_v89.54,,114
+Hibiscus Coast Station To Helensville,3,,NZB,12801-20200401133848_v89.54,,128
+Pukekohe Interchange To Wesley College/Paerata,3,,RTH,39404-20200416152125_v89.61,,394
 Britomart To Waikowhai Via Mt Eden Rd And Hillsborough Rd,3,,NZB,02704-20200401133848_v89.54,,27H
 Panmure To Newmarket Via Marua Rd And Remuera Rd,3,,NZB,75101-20200401133848_v89.54,,751
-Gulf Harbour To Hibiscus Coast Station,3,,GBT,98207-20200325155230_v89.42,,982
+Browns Bay To Albany Station Via Oaktree Ave,3,,RTH,86501-20200416152125_v89.61,,865
 City (Mayoral Dr) To Akoranga Station Via Hillcrest,3,,NZB,92302-20200401133848_v89.54,,923
+Constellation Station To Henderson Via Westgate,3,,RTH,12004-20200416152125_v89.61,,120
