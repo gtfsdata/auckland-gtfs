@@ -1,2 +1,14 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_lang
-AT,Auckland Transport,http://www.maxx.co.nz,Pacific/Auckland,(09)355-3553,en
+agency_phone,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+(09)355-3553,http://www.aucklandtransport.govt.nz,SLPH,SeaLink Pine Harbour,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,PC,Pavlovich Transport Solutions,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,AM,AT Metro,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,RTH,Ritchies Transport,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,BFL,Belaire Ferries,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,FGL,Fullers Ferries,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,NZB,New Zealand Bus,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,GBT,Go Bus,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,WBC,Waiheke Bus Company,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,TZG,Tranzit Group Ltd,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,360D,360 Discovery,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,ATMB,AT Metro Bus,Pacific/Auckland,en
+(09)355-3553,http://www.aucklandtransport.govt.nz,HE,Howick and Eastern,Pacific/Auckland,en
